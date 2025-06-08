@@ -32,8 +32,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirdnz&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="48%" alt="Most Used Languages"/>
 </div>
 
-## 🚀 Projelerim / My Projects
+## 🚀 Gelecek Olan Projelerim / Upcoming Projects
 
+<!-- 1.proje tablosu -->
 <table cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td width="50%" valign="top"
@@ -67,6 +68,7 @@
                   font-weight:500;">
         Online bus ticket sales, reservation management, and passenger tracking platform.
       </div>
+      <br>
       <div style="margin-bottom:18px; display:flex; gap:6px; flex-wrap:wrap;">
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
              alt="React Badge"/>
@@ -94,7 +96,6 @@
           </span>
         </span>
         <br>
-        <div style="margin-top:12px;">
           <img src="https://img.shields.io/badge/Development-grey?style=flat&logo=github"
                alt="Development Badge" style="margin:3px;"/>
           <img src="https://img.shields.io/badge/Yapım%20Aşamasında-007bff?style=flat&logo=github&logoColor=white"
@@ -102,6 +103,7 @@
         </div>
       </div>
     </td>
+         <!-- 2.proje tablosu -->
     <td width="50%" valign="top"
         style="background:linear-gradient(135deg,#232526 0%,#414345 100%);
                border:1px solid #30363d;
