@@ -37,31 +37,57 @@
 <table>
   <tr>
     <!-- 1. Proje -->
-    <td width="50%" valign="top" style="background:#161b22; border:1px solid #30363d; border-radius:12px; padding:28px; margin:0 4px 28px 0;">
-      <div style="color:#f0f6fc; font-size:1.25em; font-weight:900; letter-spacing:1px; font-family:Segoe UI,Arial,sans-serif;">BUS-TICKET-SYSTEM</div>
-      <hr style="border:0;border-top:2px solid #30363d;margin:14px 0;">
-      <div style="color:#e6edf3; font-weight:600; font-size:1.05em; margin-bottom:8px;">
+    <td width="50%" valign="top" style="background:linear-gradient(135deg,#232526 0%,#414345 100%); border:1px solid #30363d; border-radius:18px; padding:32px 28px 28px 28px; margin:0 8px 32px 0; box-shadow:0 4px 24px #00000033;">
+      <div style="display:flex;align-items:center;gap:14px;margin-bottom:10px;">
+        <img src="https://img.icons8.com/ios-filled/36/ffffff/bus.png" alt="bus icon"/>
+        <span style="color:#fff; font-size:1.45em; font-weight:900; letter-spacing:1px; font-family:Segoe UI,Arial,sans-serif;">BUS-TICKET-SYSTEM</span>
+      </div>
+      <div style="color:#b3bfc9; font-size:1.08em; margin-bottom:18px; font-weight:500;">
         Otobüs biletlerini çevrimiçi satma, rezervasyonları yönetme ve yolcu bilgilerini takip etme platformu.
       </div>
-      <div style="color:#8b949e; font-size:1em; margin-bottom:10px;">
-        <b>Technologies:</b> React + TypeScript, .NET Core (C#), SQL Server/MySQL
+      <div style="margin-bottom:18px;">
+        <span style="display:inline-block;margin:2px;">
+          <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+        </span>
+        <span style="display:inline-block;margin:2px;">
+          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+        </span>
+        <span style="display:inline-block;margin:2px;">
+          <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+        </span>
+        <span style="display:inline-block;margin:2px;">
+          <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+        </span>
       </div>
-      <div style="color:#58a6ff; font-size:0.97em; margin-bottom:2px;">
-        <b>Date:</b> 30.03.2026
+      <div style="color:#7ee787; font-size:1em; font-weight:600; margin-top:10px;">
+        <span style="background:#21262d; border-radius:6px; padding:4px 12px;">📅 30.03.2026</span>
       </div>
     </td>
     <!-- 2. Proje -->
-    <td width="50%" valign="top" style="background:#161b22; border:1px solid #30363d; border-radius:12px; padding:28px; margin:0 0 28px 4px;">
-      <div style="color:#f0f6fc; font-size:1.25em; font-weight:900; letter-spacing:1px; font-family:Segoe UI,Arial,sans-serif;">BANK-SYSTEM</div>
-      <hr style="border:0;border-top:2px solid #30363d;margin:14px 0;">
-      <div style="color:#e6edf3; font-weight:600; font-size:1.05em; margin-bottom:8px;">
+    <td width="50%" valign="top" style="background:linear-gradient(135deg,#232526 0%,#414345 100%); border:1px solid #30363d; border-radius:18px; padding:32px 28px 28px 28px; margin:0 0 32px 8px; box-shadow:0 4px 24px #00000033;">
+      <div style="display:flex;align-items:center;gap:14px;margin-bottom:10px;">
+        <img src="https://img.icons8.com/ios-filled/36/ffffff/bank.png" alt="bank icon"/>
+        <span style="color:#fff; font-size:1.45em; font-weight:900; letter-spacing:1px; font-family:Segoe UI,Arial,sans-serif;">BANK-SYSTEM</span>
+      </div>
+      <div style="color:#b3bfc9; font-size:1.08em; margin-bottom:18px; font-weight:500;">
         Hesap açma, bakiye sorgulama, para yatırma/çekme ve müşteri işlemlerini yöneten temel bankacılık modülü.
       </div>
-      <div style="color:#8b949e; font-size:1em; margin-bottom:10px;">
-        <b>Technologies:</b> React + TypeScript, .NET Core (C#), SQL Server/MySQL
+      <div style="margin-bottom:18px;">
+        <span style="display:inline-block;margin:2px;">
+          <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+        </span>
+        <span style="display:inline-block;margin:2px;">
+          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+        </span>
+        <span style="display:inline-block;margin:2px;">
+          <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+        </span>
+        <span style="display:inline-block;margin:2px;">
+          <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+        </span>
       </div>
-      <div style="color:#58a6ff; font-size:0.97em; margin-bottom:2px;">
-        <b>Date:</b> 30.03.2026
+      <div style="color:#7ee787; font-size:1em; font-weight:600; margin-top:10px;">
+        <span style="background:#21262d; border-radius:6px; padding:4px 12px;">📅 30.03.2026</span>
       </div>
     </td>
   </tr>
