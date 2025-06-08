@@ -1,11 +1,21 @@
 # 💫 Hakkımda / About Me
 
+[![Profile picture](https://avatars.githubusercontent.com/u/108727601)](https://github.com/emirdnz)
+
 - 🚀 Full-stack yazılım geliştirici / Full-stack software developer
 - 👥 Takım çalışmasına yatkın ve iletişimi güçlü / Strong team player with excellent communication skills
 - 📚 Sürekli öğrenmeye ve gelişime açık / Passionate about continuous learning and development
 - 💡 Yeni teknolojileri öğrenmeye istekli / Eager to learn new technologies
 - ⚡ Proaktif ve çözüm odaklı yaklaşım / Proactive and solution-oriented approach
 - 🤝 Bilgi paylaşımı ve mentorluk konusunda istekli / Enthusiastic about knowledge sharing and mentoring
+
+## 🎯 Hedeflerim / Goals
+- 🔍 Yeni teknolojileri araştırıp uygulamaya başlamak
+- 🏆 Proje yönetim becerilerini geliştirmek
+- 📈 Geliştirme sürecinde sürekli iyileştirmeler yapmak
+- 🤝 Diğer geliştiricilerle işbirliği yapmak
+- 📚 Teknik blog yazıları yazmak
+- 🎯 Yeni projeler başlatmak ve tamamlamak
 
 ## 🌐 Sosyal Medya / Social Media
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/y68R7arX) 
@@ -25,15 +35,40 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-# 📊 GitHub İstatistikleri / GitHub Stats
+# GitHub İstatistikleri / GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=emirdnz&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="Github Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=emirdnz&theme=dark&hide_border=true" width="48%" alt="GitHub Streak"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirdnz&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="48%" alt="Most Used Languages"/>
 </div>
 
-## 🚀 Projelerim / My Projects
+## Beceriler / Skills
+### Frontend
+- React.js
+- TypeScript
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Design
 
+### Backend
+- .NET
+- C#
+- SQL Server
+- RESTful APIs
+- Docker
+- Clean Architecture
+
+### DevOps & Tools
+- Git
+- Docker
+- Visual Studio
+- Visual Studio Code
+- Postman
+- Figma
+
+## Projelerim / My Projects
+### Mevcut Projeler / Current Projects
 <table cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td width="50%" valign="top"
