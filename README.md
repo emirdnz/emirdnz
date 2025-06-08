@@ -50,6 +50,7 @@
       <div style="color:#b3bfc9; font-size:1.13em; margin-bottom:22px; font-weight:500;">
         Online bus ticket sales, reservation management, and passenger tracking platform.
       </div>
+      <br>
       <div style="margin-bottom:18px;">
         <span style="display:inline-block;margin:3px;">
           <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
