@@ -37,7 +37,7 @@
 <table>
   <tr>
     <!-- 1. Proje -->
-    <td width="50%" valign="top">
+    <td width="50%" valign="left">
       <h3>🎫 <span style="color:#70a5fd;">BUS-TICKET-SYSTEM</span></h3>
       <hr>
       <b>Otobüs biletlerini çevrimiçi satma ve rezervasyon sistemi</b><br>
@@ -54,7 +54,7 @@
     </td>
   
  <!-- 2. Proje -->
-<td width="50%" valign="top">
+<td width="50%" valign="right">
   <h3>🏦 <span style="color:#70a5fd;">BANK-SYSTEM</span></h3>
   <hr>
   <b>Temel bankacılık işlemleri yönetim platformu</b><br>
