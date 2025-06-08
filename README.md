@@ -679,8 +679,6 @@
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/>
         <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Badge"/>
         <img src="https://img.shields.io/badge/SignalR/WebSocket-6DB33F?style=for-the-badge&logo=websocket&logoColor=white" alt="SignalR Badge"/>
-        <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# Badge"/>
-        <img src="https://img.shields.io/badge/Discord.Net-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord.Net Badge"/>
         <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server Badge"/>
       </div>
       <br>
@@ -725,7 +723,6 @@
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/>
         <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Badge"/>
-        <img src="https://img.shields.io/badge/Discord.Net-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord.Net Badge"/>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>
       </div>
