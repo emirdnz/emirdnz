@@ -480,23 +480,25 @@
     <!-- 11. Proje -->
     <td width="50%" valign="top"
         style="background:linear-gradient(135deg,#232526 0%,#414345 100%);
-               border:1px solid #30363d;
+               border:2px solid #2ecc71;
                border-radius:20px;
                padding:36px 32px;
                margin:0 8px 36px 0;
                box-shadow:0 6px 32px #00000044;">
       <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
-        <img src="https://img.icons8.com/ios-filled/40/ffffff/engineering.png" alt="Engineering Icon"/>
-        <span style="color:#fff; font-size:1.6em; font-weight:900; letter-spacing:1px; font-family:Segoe UI,Arial,sans-serif;">
+        <img src="https://img.icons8.com/ios-filled/40/2ecc71/engineering.png" alt="Engineering Icon"/>
+        <span style="color:#2ecc71; font-size:1.6em; font-weight:900; letter-spacing:1px; font-family:Segoe UI,Arial,sans-serif;">
           EmirOtomatCNCWebSiteProject
         </span>
       </div>
-      <hr style="border:0; border-top:2px solid #fff; margin:8px 0 16px 0;">
+      <hr style="border:0; border-top:2px solid #2ecc71; margin:8px 0 16px 0;">
       <div style="color:#b3bfc9; font-size:1.13em; margin-bottom:8px; font-weight:500;">
+        ✅ <b>Proje tamamlandı!</b> <br>
         Emir Otomat CNC’nin ürün tanıtımı, teknik çizim yükleme ve teklif alma formu içeren kurumsal web sitesi.
       </div>
       <br>
       <div style="color:#b3bfc9; font-size:1.13em; margin-bottom:22px; font-weight:500;">
+        ✅ <b>Project completed!</b> <br>
         Corporate website for Emir Otomat CNC with product showcase, technical drawing upload and quotation form.
       </div>
       <br>
@@ -508,15 +510,11 @@
       </div>
       <br>
       <div>
-        <span style="background:#21262d; border-radius:8px; padding:6px 16px; color:#7ee787; font-size:1.08em; font-weight:700; letter-spacing:0.5px;">
-          📅 30.03.2026
-          <span style="color:#b3bfc9; font-size:0.95em; margin-left:8px;">
-            | Tahmini Bitiş / Estimated Finish
-          </span>
+        <span style="background:#21262d; border-radius:8px; padding:6px 16px; color:#2ecc71; font-size:1.08em; font-weight:700; letter-spacing:0.5px;">
+          🏁 TAMAMLANDI / COMPLETED
         </span>
         <div style="margin-top:12px;">
-          <img src="https://img.shields.io/badge/Development-grey?style=flat&logo=github" alt="Development Badge" style="margin:3px;"/>
-          <img src="https://img.shields.io/badge/In%20Progress-007bff?style=flat&logo=github&logoColor=white" alt="In Progress Badge" style="margin:3px;"/>
+          <img src="https://img.shields.io/badge/Completed-2ecc71?style=flat&logo=github&logoColor=white" alt="Completed Badge" style="margin:3px;"/>
         </div>
       </div>
     </td>
