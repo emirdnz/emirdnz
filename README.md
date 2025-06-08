@@ -34,51 +34,43 @@
 
 ## 🚀 Projelerim / My Projects
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 24px; padding: 20px; background: #0d1117;">
+<table>
+  <tr>
+    <!-- 1. Proje -->
+    <td width="50%" valign="top">
+      
+      <h3>🎫 <span style="color:#70a5fd;">BUS-TICKET-SYSTEM</span></h3>
+      <hr>
+      <b>Otobüs biletlerini çevrimiçi satma ve rezervasyon sistemi</b><br>
+      <span style="color:#8b949e;">Online bus ticket sales and reservation system</span>
+      <br><br>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white"/>
+      <br><br>
+      <span style="background:#21262d; color:#58a6ff; padding:4px 10px; border-radius:8px; font-size:13px;">
+        🔄 Geliştirme Aşamasında / In Development
+      </span>
+    </td>
 
-<div style="background: #1a1b27; border-radius: 12px; padding: 24px; border: 1px solid #30363d;">
-  <h3 style="color: #70a5fd; display: flex; align-items: center; gap: 8px; margin: 0;">
-    <span>🎫</span>
-    <span>BUS-TICKET-SYSTEM</span>
-  </h3>
-  
-  <p style="color: #ffffff; margin: 16px 0 8px 0;">Otobüs biletlerini çevrimiçi satma ve rezervasyon sistemi</p>
-  <p style="color: #8b949e; margin: 8px 0;">Online bus ticket sales and reservation system</p>
-  
-  <div style="display: flex; gap: 8px; flex-wrap: wrap; margin: 16px 0;">
-    <span style="background: #21262d; color: #58a6ff; padding: 5px 12px; border-radius: 12px; font-size: 12px;">React</span>
-    <span style="background: #21262d; color: #58a6ff; padding: 5px 12px; border-radius: 12px; font-size: 12px;">TypeScript</span>
-    <span style="background: #21262d; color: #58a6ff; padding: 5px 12px; border-radius: 12px; font-size: 12px;">.NET</span>
-    <span style="background: #21262d; color: #58a6ff; padding: 5px 12px; border-radius: 12px; font-size: 12px;">SQL Server</span>
-  </div>
-
-  <div style="display: flex; align-items: center; gap: 6px; margin-top: 16px;">
-    <span style="width: 8px; height: 8px; background: #238636; border-radius: 50%;"></span>
-    <span style="color: #8b949e; font-size: 12px;">Geliştirme Aşamasında / In Development</span>
-  </div>
-</div>
-
-<div style="background: #1a1b27; border-radius: 12px; padding: 24px; border: 1px solid #30363d;">
-  <h3 style="color: #70a5fd; display: flex; align-items: center; gap: 8px; margin: 0;">
-    <span>🏦</span>
-    <span>BANK-SYSTEM</span>
-  </h3>
-  
-  <p style="color: #ffffff; margin: 16px 0 8px 0;">Temel bankacılık işlemleri yönetim platformu</p>
-  <p style="color: #8b949e; margin: 8px 0;">Basic banking operations management platform</p>
-  
-  <div style="display: flex; gap: 8px; flex-wrap: wrap; margin: 16px 0;">
-    <span style="background: #21262d; color: #58a6ff; padding: 5px 12px; border-radius: 12px; font-size: 12px;">React</span>
-    <span style="background: #21262d; color: #58a6ff; padding: 5px 12px; border-radius: 12px; font-size: 12px;">TypeScript</span>
-    <span style="background: #21262d; color: #58a6ff; padding: 5px 12px; border-radius: 12px; font-size: 12px;">.NET</span>
-    <span style="background: #21262d; color: #58a6ff; padding: 5px 12px; border-radius: 12px; font-size: 12px;">SQL Server</span>
-  </div>
-
-  <div style="display: flex; align-items: center; gap: 6px; margin-top: 16px;">
-    <span style="width: 8px; height: 8px; background: #238636; border-radius: 50%;"></span>
-    <span style="color: #8b949e; font-size: 12px;">Geliştirme Aşamasında / In Development</span>
-  </div>
-</div>
-
-<!-- Diğer projeler için aynı kart yapısını kullanacağız -->
+    <!-- 2. Proje -->
+    <td width="50%" valign="top">
+      <h3>🏦 <span style="color:#70a5fd;">BANK-SYSTEM</span></h3>
+      <hr>
+      <b>Temel bankacılık işlemleri yönetim platformu</b><br>
+      <span style="color:#8b949e;">Basic banking operations management platform</span>
+      <br><br>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white"/>
+      <br><br>
+      <span style="background:#21262d; color:#58a6ff; padding:4px 10px; border-radius:8px; font-size:13px;">
+        🔄 Geliştirme Aşamasında / In Development
+      </span>
+    </td>
+  </tr>
+  <!-- Diğer projeler için yukarıdaki <tr>...</tr> bloğunu kopyalayıp doldurabilirsiniz -->
+</table>
 
