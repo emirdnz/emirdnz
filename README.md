@@ -145,7 +145,7 @@
              alt="SQL Server Badge"/>
       </div>
       <div>
-        <br>
+      <br>
         <span style="background:#21262d;
                      border-radius:8px;
                      padding:6px 16px;
