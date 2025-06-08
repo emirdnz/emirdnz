@@ -33,121 +33,79 @@
 </div>
 
 ## 🚀 Projelerim / My Projects
-<table cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td width="50%" valign="top"
-        style="background:linear-gradient(135deg,#232526 0%,#414345 100%);
-               border:1px solid #30363d;
-               border-radius:20px;
-               padding:36px 32px;
-               margin:0 8px 36px 0;
-               box-shadow:0 6px 32px #00000044;">
-      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
-        <img src="https://img.icons8.com/ios-filled/40/ffffff/bus.png" alt="Bus Icon"/>
-        <span style="color:#fff;
-                     font-size:1.6em;
-                     font-weight:900;
-                     letter-spacing:1px;
-                     font-family:Segoe UI,Arial,sans-serif;">
-          BUS-TICKET-SYSTEM
-        </span>
-      </div>
-      <div style="color:#b3bfc9;
-                  font-size:1.13em;
-                  margin-bottom:8px;
-                  font-weight:500;">
-        Otobüs biletlerini çevrimiçi satma, rezervasyonları yönetme ve yolcu bilgilerini takip etme platformu.
-      </div>
-      <div style="color:#b3bfc9;
-                  font-size:1.13em;
-                  margin-bottom:22px;
-                  font-weight:500;">
-        Online bus ticket sales, reservation management, and passenger tracking platform.
-      </div>
-      <div style="margin-bottom:18px;">
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
-             alt="React Badge" style="margin:3px; display:inline-block;"/>
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
-             alt="TypeScript Badge" style="margin:3px; display:inline-block;"/>
-        <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"
-             alt=".NET Badge" style="margin:3px; display:inline-block;"/>
-        <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"
-             alt="SQL Server Badge" style="margin:3px; display:inline-block;"/>
-      </div>
-      <div>
-        <span style="background:#21262d;
-                     border-radius:8px;
-                     padding:6px 16px;
-                     color:#7ee787;
-                     font-size:1.08em;
-                     font-weight:700;
-                     letter-spacing:0.5px;">
-          📅 30.03.2026
-          <span style="color:#b3bfc9;
-                       font-size:0.95em;
-                       margin-left:8px;">
-            | Tahmini Bitiş / Estimated Finish
-          </span>
-        </span>
-        <div style="margin-top:12px;">
-          <img src="https://img.shields.io/badge/In%20Progress-007bff?style=flat&logo=github&logoColor=white"
-               alt="In Progress Badge" style="margin:3px;"/>
-          <img src="https://img.shields.io/badge/Development-grey?style=flat&logo=github"
-               alt="Development Badge" style="margin:3px;"/>
-        </div>
-      </div>
-    </td>
-    <td width="50%" valign="top"
-        style="background:linear-gradient(135deg,#232526 0%,#414345 100%);
-               border:1px solid #30363d;
-               border-radius:20px;
-               padding:36px 32px;
-               margin:0 0 36px 8px;
-               box-shadow:0 6px 32px #00000044;">
-      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
-        <img src="https://img.icons8.com/ios-filled/40/ffffff/tasks.png" alt="Workflow Icon"/>
-        <span style="color:#fff;
-                     font-size:1.6em;
-                     font-weight:900;
-                     letter-spacing:1px;
-                     font-family:Segoe UI,Arial,sans-serif;">
-          EmirOtomat-OrderWorkflow-Platform
-        </span>
-      </div>
-      <div style="color:#b3bfc9;
-                  font-size:1.13em;
-                  margin-bottom:8px;
-                  font-weight:500;">
-        Üretim siparişlerinin girişinden faturalamaya kadar tüm iş akışlarını ve bildirimleri yöneten merkezi platform.
-      </div>
-      <div style="margin-bottom:18px;">
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
-             alt="React Badge" style="margin:3px; display:inline-block;"/>
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
-             alt="TypeScript Badge" style="margin:3px; display:inline-block;"/>
-        <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"
-             alt=".NET Badge" style="margin:3px; display:inline-block;"/>
-        <img src="https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=aspdotnet&logoColor=white"
-             alt="SignalR Badge" style="margin:3px; display:inline-block;"/>
-        <img src="https://img.shields.io/badge/Discord.Net-7289DA?style=for-the-badge&logo=discord&logoColor=white"
-             alt="Discord.Net Badge" style="margin:3px; display:inline-block;"/>
-      </div>
-      <div>
-        <span style="background:#21262d;
-                     border-radius:8px;
-                     padding:6px 16px;
-                     color:#7ee787;
-                     font-size:1.08em;
-                     font-weight:700;
-                     letter-spacing:0.5px;">
-          📅 30.03.2026
-          <span style="color:#b3bfc9;
-                       font-size:0.95em;
-                       margin-left:8px;">
-            | Tahmini Bitiş / Estimated Finish
-          </span>
-        </span>
-      </div>
-    </td>
-  </tr>
+
+<table>
+ <td width="50%" valign="top"
+    style="background:linear-gradient(135deg,#232526 0%,#414345 100%);
+           border:1px solid #30363d;
+           border-radius:20px;
+           padding:36px 32px;
+           margin:0 8px 36px 0;
+           box-shadow:0 6px 32px #00000044;">
+  <!-- Başlık Satırı -->
+  <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
+    <img src="https://img.icons8.com/ios-filled/40/ffffff/bus.png" alt="bus icon"/>
+    <span style="color:#fff;
+                 font-size:1.6em;
+                 font-weight:900;
+                 letter-spacing:1px;
+                 font-family:Segoe UI,Arial,sans-serif;">
+      BUS-TICKET-SYSTEM
+    </span>
+  </div>
+
+  <!-- Açıklama (TR) -->
+  <div style="color:#b3bfc9;
+              font-size:1.13em;
+              margin-bottom:8px;
+              font-weight:500;">
+    Otobüs biletlerini çevrimiçi satma, rezervasyonları yönetme ve
+    yolcu bilgilerini takip etme platformu.
+  </div>
+
+  <!-- Açıklama (EN) -->
+  <div style="color:#b3bfc9;
+              font-size:1.13em;
+              margin-bottom:22px;
+              font-weight:500;">
+    Online bus ticket sales, reservation management, and passenger
+    tracking platform.
+  </div>
+
+  <!-- Teknolojiler Badges -->
+  <div style="margin-bottom:18px;">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+         alt="React" style="margin:3px; display:inline-block;"/>
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
+         alt="TypeScript" style="margin:3px; display:inline-block;"/>
+    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"
+         alt=".NET Core" style="margin:3px; display:inline-block;"/>
+    <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"
+         alt="SQL Server" style="margin:3px; display:inline-block;"/>
+  </div>
+
+  <!-- Tarih ve Durum Badges -->
+  <div>
+    <span style="background:#21262d;
+                 border-radius:8px;
+                 padding:6px 16px;
+                 color:#7ee787;
+                 font-size:1.08em;
+                 font-weight:700;
+                 letter-spacing:0.5px;">
+      📅 30.03.2026
+      <span style="color:#b3bfc9; font-size:0.95em;">
+        | Tahmini Bitiş / Estimated Finish
+      </span>
+    </span>
+
+    <div style="margin-top:12px;">
+      <img src="https://img.shields.io/badge/Devam%20Ediyor-007bff?style=flat&logo=github&logoColor=white"
+           alt="In Progress" style="margin:3px;"/>
+      <img src="https://img.shields.io/badge/Geliştiriliyor-grey?style=flat&logo=github"
+           alt="Development" style="margin:3px;"/>
+    </div>
+  </div>
+</td>
 </table>
+
