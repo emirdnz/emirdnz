@@ -42,6 +42,7 @@
         <img src="https://img.icons8.com/ios-filled/40/ffffff/bus.png" alt="bus icon"/>
         <span style="color:#fff; font-size:1.6em; font-weight:900; letter-spacing:1px; font-family:Segoe UI,Arial,sans-serif;">BUS-TICKET-SYSTEM</span>
       </div>
+      <div>
       <div style="color:#b3bfc9; font-size:1.13em; margin-bottom:8px; font-weight:500;">
         Otobüs biletlerini çevrimiçi satma, rezervasyonları yönetme ve yolcu bilgilerini takip etme platformu.
       </div>
@@ -72,9 +73,10 @@
         <span style="background:#f85149; color:#fff; border-radius:8px; padding:6px 14px; font-size:1.08em; font-weight:700; display:inline-flex; align-items:center;">
           <img src="https://img.shields.io/badge/Development-grey?style=flat&logo=github" alt="development" style="margin-right:4px;"/>
           <img src="https://img.shields.io/badge/Geliştiriliyor-grey?style=flat&logo=github" alt="gelistiriliyor" style="margin-right:4px;"/>
+          <br>
           <img src="https://img.shields.io/badge/In%20Progress-007bff?style=flat&logo=github&logoColor=white" alt="in progress" style="margin-right:4px;"/>
           <img src="https://img.shields.io/badge/Devam%20Ediyor-007bff?style=flat&logo=github&logoColor=white" alt="devam ediyor" style="margin-right:4px;"/>
-          Tamamlanmadı / Not Completed
+          <div>
         </span>
       </div>
     </td>
