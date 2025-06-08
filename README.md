@@ -1,39 +1,18 @@
-# 💫 Hakkımda / About Me
+# Hakkımda / About Me
 
-[![Profile picture](https://avatars.githubusercontent.com/u/108727601)](https://github.com/emirdnz)
+- Full-stack yazılım geliştirici / Full-stack software developer
+- Takım çalışmasına yatkın ve iletişimi güçlü / Strong team player with excellent communication skills
+- Sürekli öğrenmeye ve gelişime açık / Passionate about continuous learning and development
+- Yeni teknolojileri öğrenmeye istekli / Eager to learn new technologies
+- Proaktif ve çözüm odaklı yaklaşım / Proactive and solution-oriented approach
+- Bilgi paylaşımı ve mentorluk konusunda istekli / Enthusiastic about knowledge sharing and mentoring
 
-- 🚀 Full-stack yazılım geliştirici / Full-stack software developer
-- 👥 Takım çalışmasına yatkın ve iletişimi güçlü / Strong team player with excellent communication skills
-- 📚 Sürekli öğrenmeye ve gelişime açık / Passionate about continuous learning and development
-- 💡 Yeni teknolojileri öğrenmeye istekli / Eager to learn new technologies
-- ⚡ Proaktif ve çözüm odaklı yaklaşım / Proactive and solution-oriented approach
-- 🤝 Bilgi paylaşımı ve mentorluk konusunda istekli / Enthusiastic about knowledge sharing and mentoring
-
-## 🎯 Hedeflerim / Goals
-- 🔍 Yeni teknolojileri araştırıp uygulamaya başlamak
-- 🏆 Proje yönetim becerilerini geliştirmek
-- 📈 Geliştirme sürecinde sürekli iyileştirmeler yapmak
-- 🤝 Diğer geliştiricilerle işbirliği yapmak
-- 📚 Teknik blog yazıları yazmak
-- 🎯 Yeni projeler başlatmak ve tamamlamak
-
-## 🌐 Sosyal Medya / Social Media
+## Sosyal Medya / Social Media
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/y68R7arX) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/polegut/) 
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/polegut) 
+[![Twitch](https://img-shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/polegut) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/polegut) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/channel/UCHrgDXcBzj-zxO_zueRr1rg)
-
-# 💻 Kullandığım Teknolojiler / Tech Stack
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 # GitHub İstatistikleri / GitHub Stats
 <div align="center">
@@ -42,34 +21,35 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirdnz&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="48%" alt="Most Used Languages"/>
 </div>
 
-## Beceriler / Skills
-### Frontend
-- React.js
-- TypeScript
-- HTML5
-- CSS3
-- JavaScript
-- Responsive Design
-
-### Backend
-- .NET
-- C#
-- SQL Server
-- RESTful APIs
-- Docker
-- Clean Architecture
-
-### DevOps & Tools
-- Git
-- Docker
-- Visual Studio
-- Visual Studio Code
-- Postman
-- Figma
-
 ## Projelerim / My Projects
-### Mevcut Projeler / Current Projects
-<table cellpadding="0" cellspacing="0" width="100%">
+
+### 1. BUS-TICKET-SYSTEM
+- **Türkçe Tanım:** Otobüs biletlerini çevrimiçi satma, rezervasyonları yönetme ve yolcu bilgilerini takip etme platformu.
+- **İngilizce Tanım:** Online bus ticket sales, reservation management, and passenger tracking platform.
+- **Teknolojiler:** React.js, TypeScript, .NET, SQL Server
+- **Durum:** Geliştirme aşamasında
+- **Tahmini Bitiş Tarihi:** 30.03.2026
+
+### 2. BANK-SYSTEM
+- **Türkçe Tanım:** Hesap açma, bakiye sorgulama, para yatırma/çekme ve müşteri işlemlerini yöneten temel bankacılık modülü.
+- **İngilizce Tanım:** Basic banking module for account opening, balance inquiry, deposit/withdrawal, and customer operations.
+- **Teknolojiler:** React.js, TypeScript, .NET, SQL Server
+- **Durum:** Geliştirme aşamasında
+- **Tahmini Bitiş Tarihi:** 30.03.2026
+
+### 3. E-TİCARET PLATFORMU
+- **Türkçe Tanım:** Ürün satışı, stok yönetimi ve müşteri takibi için tam bir e-ticaret platformu.
+- **İngilizce Tanım:** Complete e-commerce platform for product sales, inventory management, and customer tracking.
+- **Teknolojiler:** React.js, TypeScript, .NET, SQL Server
+- **Durum:** Planlama aşamasında
+- **Tahmini Başlangıç Tarihi:** 01.04.2026
+
+### 4. PORTFÖY YÖNETİMİ
+- **Türkçe Tanım:** Kişisel portföy yönetim ve analiz platformu.
+- **İngilizce Tanım:** Personal portfolio management and analysis platform.
+- **Teknolojiler:** React.js, TypeScript, .NET, SQL Server
+- **Durum:** İde fikir aşamasında
+- **Tahmini Başlangıç Tarihi:** 01.05.2026
   <tr>
     <td width="50%" valign="top"
         style="background:linear-gradient(135deg,#232526 0%,#414345 100%);
