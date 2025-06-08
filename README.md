@@ -144,8 +144,8 @@
         <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"
              alt="SQL Server Badge"/>
       </div>
-      <br>
       <div>
+        <br>
         <span style="background:#21262d;
                      border-radius:8px;
                      padding:6px 16px;
