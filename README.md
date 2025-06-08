@@ -66,7 +66,7 @@
                   font-weight:500;">
         Online bus ticket sales, reservation management, and passenger tracking platform.
       </div>
-      <div style="margin-bottom:18px; display:flex; flex-wrap:wrap; gap:6px;">
+      <div style="margin-bottom:18px; display:flex; gap:6px; flex-wrap:wrap;">
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
              alt="React Badge"/>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
@@ -129,7 +129,7 @@
                   font-weight:500;">
         Basic banking module for account opening, balance inquiry, deposit/withdrawal, and customer operations.
       </div>
-      <div style="margin-bottom:18px; display:flex; flex-wrap:wrap; gap:6px;">
+      <div style="margin-bottom:18px; display:flex; gap:6px; flex-wrap:wrap;">
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
              alt="React Badge"/>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
