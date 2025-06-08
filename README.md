@@ -38,7 +38,6 @@
   <tr>
     <!-- 1. Proje -->
     <td width="50%" valign="top">
-      
       <h3>🎫 <span style="color:#70a5fd;">BUS-TICKET-SYSTEM</span></h3>
       <hr>
       <b>Otobüs biletlerini çevrimiçi satma ve rezervasyon sistemi</b><br>
@@ -53,7 +52,7 @@
         🔄 Geliştirme Aşamasında / In Development
       </span>
     </td>
-
+  <>
     <!-- 2. Proje -->
     <td width="50%" valign="top">
       <h3>🏦 <span style="color:#70a5fd;">BANK-SYSTEM</span></h3>
@@ -71,6 +70,5 @@
       </span>
     </td>
   </tr>
-  <!-- Diğer projeler için yukarıdaki <tr>...</tr> bloğunu kopyalayıp doldurabilirsiniz -->
 </table>
 
