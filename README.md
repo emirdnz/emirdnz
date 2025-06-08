@@ -45,6 +45,7 @@
       <div style="color:#b3bfc9; font-size:1.13em; margin-bottom:8px; font-weight:500;">
         Otobüs biletlerini çevrimiçi satma, rezervasyonları yönetme ve yolcu bilgilerini takip etme platformu.
       </div>
+      <br>
       <div style="color:#b3bfc9; font-size:1.13em; margin-bottom:22px; font-weight:500;">
         Online bus ticket sales, reservation management, and passenger tracking platform.
       </div>
@@ -62,6 +63,7 @@
           <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
         </span>
       </div>
+      <br>
       <div style="margin-top:18px;">
         <span style="background:#21262d; border-radius:8px; padding:6px 16px; color:#7ee787; font-size:1.08em; font-weight:700; letter-spacing:0.5px;">
           📅 30.03.2026 <span style="color:#b3bfc9; font-size:0.95em;">| Tahmini Bitiş / Estimated Finish</span>
