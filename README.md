@@ -53,22 +53,23 @@
       </span>
     </td>
   
-    <!-- 2. Proje -->
-    <td width="50%" valign="top">
-      <h3>🏦 <span style="color:#70a5fd;">BANK-SYSTEM</span></h3>
-      <hr>
-      <b>Temel bankacılık işlemleri yönetim platformu</b><br>
-      <span style="color:#8b949e;">Basic banking operations management platform</span>
-      <br><br>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/>
-      <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white"/>
-      <br><br>
-      <span style="background:#21262d; color:#58a6ff; padding:4px 10px; border-radius:8px; font-size:13px;">
-        🔄 Geliştirme Aşamasında / In Development
-      </span>
-    </td>
+ <!-- 2. Proje -->
+<td width="50%" valign="top">
+  <h3>🏦 <span style="color:#70a5fd;">BANK-SYSTEM</span></h3>
+  <hr>
+  <b>Temel bankacılık işlemleri yönetim platformu</b><br>
+  <span style="color:#8b949e;">Basic banking operations management platform</span>
+  <br><br>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white"/>
+  <br><br>
+  <span style="background:#21262d; color:#58a6ff; padding:4px 10px; border-radius:8px; font-size:13px;">
+    🔄 Geliştirme Aşamasında / In Development
+  </span>
+</td>
+
   </tr>
 </table>
 
