@@ -38,8 +38,8 @@
   <tr>
     <td width="49%" valign="top" style="background:#161b22; border:1px solid #30363d; border-radius:10px; padding:32px; margin:0 12px 24px 0;">
       <h3>
-        <span style="font-size:1.3em; vertical-align:middle;">🚌</span>
-        <span style="color:#f0f6fc; margin-left:8px;">BUS-TICKET-SYSTEM</span>
+        <img src="https://img.icons8.com/ios-filled/28/ffffff/bus.png" style="vertical-align:middle; margin-right:8px;" alt="bus icon"/>
+        <span style="color:#f0f6fc;">BUS-TICKET-SYSTEM</span>
       </h3>
       <hr>
       <b>Otobüs biletlerini çevrimiçi satma ve rezervasyon sistemi</b><br>
@@ -56,8 +56,8 @@
     <td width="2%"></td>
     <td width="49%" valign="top" style="background:#161b22; border:1px solid #30363d; border-radius:10px; padding:32px; margin:0 0 24px 12px;">
       <h3>
-        <span style="font-size:1.3em; vertical-align:middle;">🏦</span>
-        <span style="color:#f0f6fc; margin-left:8px;">BANK-SYSTEM</span>
+        <img src="https://img.icons8.com/ios-filled/28/ffffff/bank.png" style="vertical-align:middle; margin-right:8px;" alt="bank icon"/>
+        <span style="color:#f0f6fc;">BANK-SYSTEM</span>
       </h3>
       <hr>
       <b>Temel bankacılık işlemleri yönetim platformu</b><br>
