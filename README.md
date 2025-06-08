@@ -95,6 +95,7 @@
             | Tahmini Bitiş / Estimated Finish
           </span>
         </span>
+        <div>
         <br>
           <img src="https://img.shields.io/badge/Development-grey?style=flat&logo=github"
                alt="Development Badge" style="margin:3px;"/>
@@ -145,7 +146,6 @@
              alt="SQL Server Badge"/>
       </div>
       <div>
-      <br>
         <span style="background:#21262d;
                      border-radius:8px;
                      padding:6px 16px;
@@ -160,8 +160,8 @@
             | Tahmini Bitiş / Estimated Finish
           </span>
         </span>
-        <br>
         <div style="margin-top:12px;">
+         <br>
           <img src="https://img.shields.io/badge/Development-grey?style=flat&logo=github"
                alt="Development Badge" style="margin:3px;"/>
           <img src="https://img.shields.io/badge/In%20Progress-007bff?style=flat&logo=github&logoColor=white"
