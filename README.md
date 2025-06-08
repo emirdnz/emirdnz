@@ -38,9 +38,8 @@
   <tr style="vertical-align:top;">
     <!-- 1. Proje -->
     <td width="50%" valign="top"
-        style="background:linear-gradient(135deg,#232526 0%,#414345 100%);border:1px solid #30363d;border-radius:20px;padding:36px 32px;margin:0 8px 36px 0;box-shadow:0 6px 32px #00000044;vertical-align:top;">
-      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
-        <img src="https://react.dev/favicon.ico" alt="React Icon" width="40"/>
+        style="background:linear-gradient(135deg,#232526 0%,#414345 100%);border:1px solid #30363d;border-radius:20px;padding:36px 32px;margin:0 8px 36px 0;box-shadow:0 6px 32px #00000044;vertical-align:top;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
+        <img src="https://cdn-icons-png.flaticon.com/512/3028/3028873.png" alt="Bus Ticket Icon" width="40"/>
         <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
           BUS-TICKET-SYSTEM
         </span>
@@ -60,10 +59,9 @@
         <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Badge"/>
         <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server Badge"/>
       </div>
-      <br>
-      <div>
+      <br>      <div>
         <span style="background:#21262d; border-radius:8px; padding:6px 16px; color:#7ee787; font-size:1.08em; font-weight:700; letter-spacing:0.5px;">
-          📅 30.03.2026
+          📅 15.08.2025
           <span style="color:#b3bfc9; font-size:0.95em; margin-left:8px;">
             | Tahmini Bitiş / Estimated Finish
           </span>
@@ -78,7 +76,7 @@
     <td width="50%" valign="top"
         style="background:linear-gradient(135deg,#232526 0%,#414345 100%);border:1px solid #30363d;border-radius:20px;padding:36px 32px;margin:0 0 36px 8px;box-shadow:0 6px 32px #00000044;vertical-align:top;">
       <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
-        <img src="https://react.dev/favicon.ico" alt="React Icon" width="40"/>
+        <img src="https://cdn-icons-png.flaticon.com/512/2830/2830284.png" alt="Bank Icon" width="40"/>
         <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
           BANK-SYSTEM
         </span>
@@ -101,7 +99,7 @@
       <br>
       <div>
         <span style="background:#21262d; border-radius:8px; padding:6px 16px; color:#7ee787; font-size:1.08em; font-weight:700; letter-spacing:0.5px;">
-          📅 30.03.2026
+          📅 21.09.2025
           <span style="color:#b3bfc9; font-size:0.95em; margin-left:8px;">
             | Tahmini Bitiş / Estimated Finish
           </span>
@@ -141,7 +139,7 @@
       <br>
       <div>
         <span style="background:#21262d; border-radius:8px; padding:6px 16px; color:#7ee787; font-size:1.08em; font-weight:700; letter-spacing:0.5px;">
-          📅 30.03.2026
+          📅 05.12.2025
           <span style="color:#b3bfc9; font-size:0.95em; margin-left:8px;">
             | Tahmini Bitiş / Estimated Finish
           </span>
@@ -156,7 +154,7 @@
     <td width="50%" valign="top"
         style="background:linear-gradient(135deg,#232526 0%,#414345 100%);border:1px solid #30363d;border-radius:20px;padding:36px 32px;margin:0 0 36px 8px;box-shadow:0 6px 32px #00000044;vertical-align:top;">
       <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
-        <img src="https://react.dev/favicon.ico" alt="React Icon" width="40"/>
+        <img src="https://cdn-icons-png.flaticon.com/512/2331/2331941.png" alt="ATM Icon" width="40"/>
         <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
           ATM-PROJECT
         </span>
@@ -179,7 +177,7 @@
       <br>
       <div>
         <span style="background:#21262d; border-radius:8px; padding:6px 16px; color:#7ee787; font-size:1.08em; font-weight:700; letter-spacing:0.5px;">
-          📅 30.03.2026
+          📅 15.10.2025
           <span style="color:#b3bfc9; font-size:0.95em; margin-left:8px;">
             | Tahmini Bitiş / Estimated Finish
           </span>
@@ -220,7 +218,7 @@
       <br>
       <div>
         <span style="background:#21262d; border-radius:8px; padding:6px 16px; color:#7ee787; font-size:1.08em; font-weight:700; letter-spacing:0.5px;">
-          📅 30.03.2026
+          📅 08.11.2025
           <span style="color:#b3bfc9; font-size:0.95em; margin-left:8px;">
             | Tahmini Bitiş / Estimated Finish
           </span>
@@ -233,11 +231,10 @@
     </td>
     <!-- 6. Proje -->
     <td width="50%" valign="top"
-        style="background:linear-gradient(135deg,#232526 0%,#414345 100%);border:1px solid #30363d;border-radius:20px;padding:36px 32px;margin:0 0 36px 8px;box-shadow:0 6px 32px #00000044;vertical-align:top;">
-      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
+        style="background:linear-gradient(135deg,#232526 0%,#414345 100%);border:1px solid #30363d;border-radius:20px;padding:36px 32px;margin:0 0 36px 8px;box-shadow:0 6px 32px #00000044;vertical-align:top;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
         <img src="https://react.dev/favicon.ico" alt="React Icon" width="40"/>
         <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
-          my-blog-web-site-project
+          My-Blog-Web-Site-Project
         </span>
       </div>
       <hr style="border:0; border-top:2px solid #fff; margin:8px 0 16px 0;">
@@ -258,7 +255,7 @@
       <br>
       <div>
         <span style="background:#21262d; border-radius:8px; padding:6px 16px; color:#7ee787; font-size:1.08em; font-weight:700; letter-spacing:0.5px;">
-          📅 30.03.2026
+          📅 30.09.2025
           <span style="color:#b3bfc9; font-size:0.95em; margin-left:8px;">
             | Tahmini Bitiş / Estimated Finish
           </span>
@@ -273,11 +270,10 @@
   <tr style="vertical-align:top;">
     <!-- 7. Proje -->
     <td width="50%" valign="top"
-        style="background:linear-gradient(135deg,#232526 0%,#414345 100%);border:1px solid #30363d;border-radius:20px;padding:36px 32px;margin:0 8px 36px 0;box-shadow:0 6px 32px #00000044;vertical-align:top;">
-      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
+        style="background:linear-gradient(135deg,#232526 0%,#414345 100%);border:1px solid #30363d;border-radius:20px;padding:36px 32px;margin:0 8px 36px 0;box-shadow:0 6px 32px #00000044;vertical-align:top;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
         <img src="https://react.dev/favicon.ico" alt="React Icon" width="40"/>
         <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
-          IKSystem
+          IK-System
         </span>
       </div>
       <hr style="border:0; border-top:2px solid #fff; margin:8px 0 16px 0;">
@@ -298,7 +294,7 @@
       <br>
       <div>
         <span style="background:#21262d; border-radius:8px; padding:6px 16px; color:#7ee787; font-size:1.08em; font-weight:700; letter-spacing:0.5px;">
-          📅 30.03.2026
+          📅 18.12.2025
           <span style="color:#b3bfc9; font-size:0.95em; margin-left:8px;">
             | Tahmini Bitiş / Estimated Finish
           </span>
@@ -311,11 +307,10 @@
     </td>
     <!-- 8. Proje -->
     <td width="50%" valign="top"
-        style="background:linear-gradient(135deg,#232526 0%,#414345 100%);border:1px solid #30363d;border-radius:20px;padding:36px 32px;margin:0 0 36px 8px;box-shadow:0 6px 32px #00000044;vertical-align:top;">
-      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
-        <img src="https://react.dev/favicon.ico" alt="React Icon" width="40"/>
+        style="background:linear-gradient(135deg,#232526 0%,#414345 100%);border:1px solid #30363d;border-radius:20px;padding:36px 32px;margin:0 0 36px 8px;box-shadow:0 6px 32px #00000044;vertical-align:top;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
+        <img src="https://cdn-icons-png.flaticon.com/512/732/732084.png" alt="Amazon Icon" width="40"/>
         <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
-          amazon-clone-project
+          Amazon-Clone-Project
         </span>
       </div>
       <hr style="border:0; border-top:2px solid #fff; margin:8px 0 16px 0;">
@@ -336,7 +331,7 @@
       <br>
       <div>
         <span style="background:#21262d; border-radius:8px; padding:6px 16px; color:#7ee787; font-size:1.08em; font-weight:700; letter-spacing:0.5px;">
-          📅 30.03.2026
+          📅 22.10.2025
           <span style="color:#b3bfc9; font-size:0.95em; margin-left:8px;">
             | Tahmini Bitiş / Estimated Finish
           </span>
@@ -381,7 +376,7 @@
       <br>
       <div>
         <span style="background:#21262d; border-radius:8px; padding:6px 16px; color:#7ee787; font-size:1.08em; font-weight:700; letter-spacing:0.5px;">
-          📅 30.03.2026
+          📅 15.11.2025
           <span style="color:#b3bfc9; font-size:0.95em; margin-left:8px;">
             | Tahmini Bitiş / Estimated Finish
           </span>
@@ -401,7 +396,7 @@
                margin:0 0 36px 8px;
                box-shadow:0 6px 32px #00000044;">
       <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
-        <img src="https://react.dev/favicon.ico" alt="React Icon" width="40"/>
+        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" alt="Discord Icon" width="40"/>
         <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
           Polebot-discord.net
         </span>
@@ -424,7 +419,7 @@
       <br>
       <div>
         <span style="background:#21262d; border-radius:8px; padding:6px 16px; color:#7ee787; font-size:1.08em; font-weight:700; letter-spacing:0.5px;">
-          📅 30.03.2026
+          📅 25.08.2025
           <span style="color:#b3bfc9; font-size:0.95em; margin-left:8px;">
             | Tahmini Bitiş / Estimated Finish
           </span>
@@ -485,11 +480,10 @@
                border-radius:20px;
                padding:36px 32px;
                margin:0 0 36px 8px;
-               box-shadow:0 6px 32px #00000044;">
-      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
-        <img src="https://react.dev/favicon.ico" alt="React Icon" width="40"/>
+               box-shadow:0 6px 32px #00000044;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
+        <img src="https://cdn-icons-png.flaticon.com/512/1927/1927656.png" alt="Corporate Website Icon" width="40"/>
         <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
-          deniz-software-web-site-2, Deniz-Software-web-site, deniz-holding-web-site-project
+          Deniz-Software-Web-Site
         </span>
       </div>
       <hr style="border:0; border-top:2px solid #fff; margin:8px 0 16px 0;">
@@ -510,7 +504,7 @@
       <br>
       <div>
         <span style="background:#21262d; border-radius:8px; padding:6px 16px; color:#7ee787; font-size:1.08em; font-weight:700; letter-spacing:0.5px;">
-          📅 30.03.2026
+          📅 05.01.2026
           <span style="color:#b3bfc9; font-size:0.95em; margin-left:8px;">
             | Tahmini Bitiş / Estimated Finish
           </span>
@@ -530,11 +524,10 @@
                border-radius:20px;
                padding:36px 32px;
                margin:0 8px 36px 0;
-               box-shadow:0 6px 32px #00000044;">
-      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
+               box-shadow:0 6px 32px #00000044;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
         <img src="https://react.dev/favicon.ico" alt="React Icon" width="40"/>
         <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
-          my-React-Web-Site-Templates
+          My-React-Web-Site-Templates
         </span>
       </div>
       <hr style="border:0; border-top:2px solid #fff; margin:8px 0 16px 0;">
@@ -555,7 +548,7 @@
       <br>
       <div>
         <span style="background:#21262d; border-radius:8px; padding:6px 16px; color:#7ee787; font-size:1.08em; font-weight:700; letter-spacing:0.5px;">
-          📅 30.03.2026
+          📅 10.02.2026
           <span style="color:#b3bfc9; font-size:0.95em; margin-left:8px;">
             | Tahmini Bitiş / Estimated Finish
           </span>
@@ -573,11 +566,10 @@
                border-radius:20px;
                padding:36px 32px;
                margin:0 0 36px 8px;
-               box-shadow:0 6px 32px #00000044;">
-      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
-        <img src="https://react.dev/favicon.ico" alt="React Icon" width="40"/>
+               box-shadow:0 6px 32px #00000044;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
+        <img src="https://cdn-icons-png.flaticon.com/512/5998/5998796.png" alt="Hospital Appointment Icon" width="40"/>
         <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
-          HospitalAppointmentSystemProject
+          Hospital-Appointment-System
         </span>
       </div>
       <hr style="border:0; border-top:2px solid #fff; margin:8px 0 16px 0;">
@@ -598,7 +590,7 @@
       <br>
       <div>
         <span style="background:#21262d; border-radius:8px; padding:6px 16px; color:#7ee787; font-size:1.08em; font-weight:700; letter-spacing:0.5px;">
-          📅 30.03.2026
+          📅 20.12.2025
           <span style="color:#b3bfc9; font-size:0.95em; margin-left:8px;">
             | Tahmini Bitiş / Estimated Finish
           </span>
@@ -618,8 +610,7 @@
                border-radius:20px;
                padding:36px 32px;
                margin:0 8px 36px 0;
-               box-shadow:0 6px 32px #00000044;">
-      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
+               box-shadow:0 6px 32px #00000044;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
         <img src="https://react.dev/favicon.ico" alt="React Icon" width="40"/>
         <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
           EmirOtomat-OrderWorkflow-Platform
@@ -644,7 +635,7 @@
       <br>
       <div>
         <span style="background:#21262d; border-radius:8px; padding:6px 16px; color:#7ee787; font-size:1.08em; font-weight:700; letter-spacing:0.5px;">
-          📅 30.03.2026
+          📅 18.09.2025
           <span style="color:#b3bfc9; font-size:0.95em; margin-left:8px;">
             | Tahmini Bitiş / Estimated Finish
           </span>
@@ -662,9 +653,8 @@
                border-radius:20px;
                padding:36px 32px;
                margin:0 0 36px 8px;
-               box-shadow:0 6px 32px #00000044;">
-      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
-        <img src="https://react.dev/favicon.ico" alt="React Icon" width="40"/>
+               box-shadow:0 6px 32px #00000044;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
+        <img src="https://cdn-icons-png.flaticon.com/512/686/686589.png" alt="Game Server Icon" width="40"/>
         <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
           FiveM-GameServer-Project
         </span>
@@ -677,8 +667,7 @@
       <div style="color:#b3bfc9; font-size:1.13em; margin-bottom:22px; font-weight:500;">
         Project for FiveM-based GTA V/VI server setup, player management and web admin panel.
       </div>
-      <br>
-      <div style="margin-bottom:18px; display:flex; gap:6px; flex-wrap:nowrap;">
+      <br>      <div style="margin-bottom:18px; display:flex; gap:6px; flex-wrap:nowrap;">
         <img src="https://img.shields.io/badge/Cfx.re-FF4754?style=for-the-badge&logo=fivem&logoColor=white" alt="Cfx.re Badge"/>
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/>
@@ -689,7 +678,7 @@
       <br>
       <div>
         <span style="background:#21262d; border-radius:8px; padding:6px 16px; color:#7ee787; font-size:1.08em; font-weight:700; letter-spacing:0.5px;">
-          📅 30.03.2026
+          📅 27.10.2025
           <span style="color:#b3bfc9; font-size:0.95em; margin-left:8px;">
             | Tahmini Bitiş / Estimated Finish
           </span>
