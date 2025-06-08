@@ -90,9 +90,11 @@
       <div style="color:#b3bfc9; font-size:1.13em; margin-bottom:8px; font-weight:500;">
         Hesap açma, bakiye sorgulama, para yatırma/çekme ve müşteri işlemlerini yöneten temel bankacılık modülü.
       </div>
+      <br>
       <div style="color:#b3bfc9; font-size:1.13em; margin-bottom:22px; font-weight:500;">
         Basic banking module for account opening, balance inquiry, deposit/withdrawal, and customer operations.
       </div>
+      <br>
       <div style="margin-bottom:18px;">
         <span style="display:inline-block;margin:3px;">
           <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -107,6 +109,7 @@
           <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
         </span>
       </div>
+      <br>
       <div style="margin-top:18px;">
         <span style="background:#21262d; border-radius:8px; padding:6px 16px; color:#7ee787; font-size:1.08em; font-weight:700; letter-spacing:0.5px;">
           📅 30.03.2026 <span style="color:#b3bfc9; font-size:0.95em;">| Tahmini Bitiş / Estimated Finish</span>
@@ -115,9 +118,9 @@
         <span style="background:#f85149; color:#fff; border-radius:8px; padding:6px 14px; font-size:1.08em; font-weight:700; display:inline-flex; align-items:center;">
           <img src="https://img.shields.io/badge/Development-grey?style=flat&logo=github" alt="development" style="margin-right:4px;"/>
           <img src="https://img.shields.io/badge/Geliştiriliyor-grey?style=flat&logo=github" alt="gelistiriliyor" style="margin-right:4px;"/>
+          <br>
           <img src="https://img.shields.io/badge/In%20Progress-007bff?style=flat&logo=github&logoColor=white" alt="in progress" style="margin-right:4px;"/>
           <img src="https://img.shields.io/badge/Devam%20Ediyor-007bff?style=flat&logo=github&logoColor=white" alt="devam ediyor" style="margin-right:4px;"/>
-          Tamamlanmadı / Not Completed
         </span>
       </div>
     </td>
