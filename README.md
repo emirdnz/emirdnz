@@ -48,15 +48,17 @@
       <div style="color:#8b949e;margin-bottom:18px; font-style:italic; font-size:1em;">
         Online bus ticket sales and reservation system
       </div>
-      <div style="margin-bottom:18px;">
+      <div style="margin-bottom:10px;">
         <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
         <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/>
         <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white"/>
       </div>
-      <div style="display:flex;align-items:center;gap:8px;">
+      <div style="margin-bottom:10px;">
         <img src="https://img.shields.io/badge/Development-grey?style=flat&logo=github" alt="development"/>
         <img src="https://img.shields.io/badge/Geliştiriliyor-grey?style=flat&logo=github" alt="gelistiriliyor"/>
+      </div>
+      <div style="margin-bottom:10px;">
         <img src="https://img.shields.io/badge/In%20Progress-007bff?style=flat&logo=github&logoColor=white" alt="in progress"/>
         <img src="https://img.shields.io/badge/Devam%20Ediyor-007bff?style=flat&logo=github&logoColor=white" alt="devam ediyor"/>
       </div>
@@ -74,15 +76,17 @@
       <div style="color:#8b949e;margin-bottom:18px; font-style:italic; font-size:1em;">
         Basic banking operations management platform
       </div>
-      <div style="margin-bottom:18px;">
+      <div style="margin-bottom:10px;">
         <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
         <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/>
         <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white"/>
       </div>
-      <div style="display:flex;align-items:center;gap:8px;">
+      <div style="margin-bottom:10px;">
         <img src="https://img.shields.io/badge/Development-grey?style=flat&logo=github" alt="development"/>
         <img src="https://img.shields.io/badge/Geliştiriliyor-grey?style=flat&logo=github" alt="gelistiriliyor"/>
+      </div>
+      <div style="margin-bottom:10px;">
         <img src="https://img.shields.io/badge/In%20Progress-007bff?style=flat&logo=github&logoColor=white" alt="in progress"/>
         <img src="https://img.shields.io/badge/Devam%20Ediyor-007bff?style=flat&logo=github&logoColor=white" alt="devam ediyor"/>
       </div>
