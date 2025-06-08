@@ -34,47 +34,51 @@
 
 ## 🚀 Projelerim / My Projects
 
-<div align="center" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1.5rem; padding: 1rem;">
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 24px; padding: 20px; background: #0d1117;">
 
-<div style="background: #1a1b27; border-radius: 10px; padding: 20px; border: 1px solid #2f3142; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-  <div style="border-bottom: 2px solid #2f3142; margin-bottom: 15px; padding-bottom: 10px;">
-    <h3 style="color: #70a5fd; margin: 0;">🎫 BUS-TICKET-SYSTEM</h3>
+<div style="background: #1a1b27; border-radius: 12px; padding: 24px; border: 1px solid #30363d;">
+  <h3 style="color: #70a5fd; display: flex; align-items: center; gap: 8px; margin: 0;">
+    <span>🎫</span>
+    <span>BUS-TICKET-SYSTEM</span>
+  </h3>
+  
+  <p style="color: #ffffff; margin: 16px 0 8px 0;">Otobüs biletlerini çevrimiçi satma ve rezervasyon sistemi</p>
+  <p style="color: #8b949e; margin: 8px 0;">Online bus ticket sales and reservation system</p>
+  
+  <div style="display: flex; gap: 8px; flex-wrap: wrap; margin: 16px 0;">
+    <span style="background: #21262d; color: #58a6ff; padding: 5px 12px; border-radius: 12px; font-size: 12px;">React</span>
+    <span style="background: #21262d; color: #58a6ff; padding: 5px 12px; border-radius: 12px; font-size: 12px;">TypeScript</span>
+    <span style="background: #21262d; color: #58a6ff; padding: 5px 12px; border-radius: 12px; font-size: 12px;">.NET</span>
+    <span style="background: #21262d; color: #58a6ff; padding: 5px 12px; border-radius: 12px; font-size: 12px;">SQL Server</span>
   </div>
-  <p style="color: #ffffff; margin: 10px 0;">Otobüs biletlerini çevrimiçi satma ve rezervasyon sistemi</p>
-  <p style="color: #a2a2a2; margin: 10px 0;">Online bus ticket sales and reservation system</p>
-  <div style="margin: 15px 0; padding: 10px 0; border-top: 1px solid #2f3142;">
-    <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/>
-    <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white"/>
-  </div>
-  <div style="background: #2f3142; padding: 8px; border-radius: 5px; margin-top: 10px;">
-    <p style="color: #58a6ff; margin: 0;">🔄 Geliştirme Aşamasında / In Development</p>
+
+  <div style="display: flex; align-items: center; gap: 6px; margin-top: 16px;">
+    <span style="width: 8px; height: 8px; background: #238636; border-radius: 50%;"></span>
+    <span style="color: #8b949e; font-size: 12px;">Geliştirme Aşamasında / In Development</span>
   </div>
 </div>
 
-<div style="background: #1a1b27; border-radius: 10px; padding: 20px; border: 1px solid #2f3142; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-  <div style="border-bottom: 2px solid #2f3142; margin-bottom: 15px; padding-bottom: 10px;">
-    <h3 style="color: #70a5fd; margin: 0;">🏦 BANK-SYSTEM</h3>
+<div style="background: #1a1b27; border-radius: 12px; padding: 24px; border: 1px solid #30363d;">
+  <h3 style="color: #70a5fd; display: flex; align-items: center; gap: 8px; margin: 0;">
+    <span>🏦</span>
+    <span>BANK-SYSTEM</span>
+  </h3>
+  
+  <p style="color: #ffffff; margin: 16px 0 8px 0;">Temel bankacılık işlemleri yönetim platformu</p>
+  <p style="color: #8b949e; margin: 8px 0;">Basic banking operations management platform</p>
+  
+  <div style="display: flex; gap: 8px; flex-wrap: wrap; margin: 16px 0;">
+    <span style="background: #21262d; color: #58a6ff; padding: 5px 12px; border-radius: 12px; font-size: 12px;">React</span>
+    <span style="background: #21262d; color: #58a6ff; padding: 5px 12px; border-radius: 12px; font-size: 12px;">TypeScript</span>
+    <span style="background: #21262d; color: #58a6ff; padding: 5px 12px; border-radius: 12px; font-size: 12px;">.NET</span>
+    <span style="background: #21262d; color: #58a6ff; padding: 5px 12px; border-radius: 12px; font-size: 12px;">SQL Server</span>
   </div>
-  <p style="color: #ffffff; margin: 10px 0;">Temel bankacılık işlemleri yönetim platformu</p>
-  <p style="color: #a2a2a2; margin: 10px 0;">Basic banking operations management platform</p>
-  <div style="margin: 15px 0; padding: 10px 0; border-top: 1px solid #2f3142;">
-    <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/>
-    <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white"/>
-  </div>
-  <div style="background: #2f3142; padding: 8px; border-radius: 5px; margin-top: 10px;">
-    <p style="color: #58a6ff; margin: 0;">🔄 Geliştirme Aşamasında / In Development</p>
+
+  <div style="display: flex; align-items: center; gap: 6px; margin-top: 16px;">
+    <span style="width: 8px; height: 8px; background: #238636; border-radius: 50%;"></span>
+    <span style="color: #8b949e; font-size: 12px;">Geliştirme Aşamasında / In Development</span>
   </div>
 </div>
 
 <!-- Diğer projeler için aynı kart yapısını kullanacağız -->
 
-</div>
-
----
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=polegut&icon=1&color=0" alt="Profile Views"/>
-</div>
