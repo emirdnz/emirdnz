@@ -36,7 +36,7 @@
 
 <table>
   <tr>
-    <td width="48%" valign="top" style="background:#161b22; border:1px solid #30363d; border-radius:12px; padding:36px; margin:0 12px 28px 0;">
+    <td width="49%" valign="top" style="background:#161b22; border:1px solid #30363d; border-radius:12px; padding:36px; margin:0 6px 28px 0;">
       <div style="display:flex;align-items:center;gap:12px;">
         <img src="https://img.icons8.com/ios-filled/32/ffffff/bus.png" alt="bus icon" style="vertical-align:middle;" />
         <span style="color:#f0f6fc; font-size:1.7em; font-weight:900; letter-spacing:1px; font-family:Segoe UI,Arial,sans-serif;">BUS-TICKET-SYSTEM</span>
@@ -69,7 +69,7 @@
       </div>
     </td>
     <td width="2%"></td>
-    <td width="48%" valign="top" style="background:#161b22; border:1px solid #30363d; border-radius:12px; padding:36px; margin:0 0 28px 12px;">
+    <td width="49%" valign="top" style="background:#161b22; border:1px solid #30363d; border-radius:12px; padding:36px; margin:0 0 28px 6px;">
       <div style="display:flex;align-items:center;gap:12px;">
         <img src="https://img.icons8.com/ios-filled/32/ffffff/bank.png" alt="bank icon" style="vertical-align:middle;" />
         <span style="color:#f0f6fc; font-size:1.7em; font-weight:900; letter-spacing:1px; font-family:Segoe UI,Arial,sans-serif;">BANK-SYSTEM</span>
