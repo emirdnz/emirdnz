@@ -36,37 +36,33 @@
 
 <div align="center" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem;">
 
-[![BUS-TICKET-SYSTEM](https://github-readme-stats.vercel.app/api/pin/?username=emirdeniz&repo=BUS-TICKET-SYSTEM&theme=dark&hide_border=true&description=Online%20bus%20ticket%20system)](https://github.com/emirdeniz/BUS-TICKET-SYSTEM)
+<div align="center" style="background: #1a1b27; border-radius: 6px; padding: 20px; margin: 10px; border: 1px solid #2f3142;">
+  <h3 style="color: #70a5fd;">🎫 BUS-TICKET-SYSTEM</h3>
+  <p style="color: #ffffff;">Otobüs biletlerini çevrimiçi satma ve rezervasyon sistemi</p>
+  <p style="color: #a2a2a2;">Online bus ticket sales and reservation system</p>
+  <div style="margin: 10px 0;">
+    <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white"/>
+  </div>
+  <p style="color: #58a6ff;">🔄 Geliştirme Aşamasında / In Development</p>
+</div>
 
-[![BANK-SYSTEM](https://github-readme-stats.vercel.app/api/pin/?username=emirdeniz&repo=BANK-SYSTEM&theme=dark&hide_border=true&description=Banking%20operations%20platform)](https://github.com/emirdeniz/BANK-SYSTEM)
+<div align="center" style="background: #1a1b27; border-radius: 6px; padding: 20px; margin: 10px; border: 1px solid #2f3142;">
+  <h3 style="color: #70a5fd;">🏦 BANK-SYSTEM</h3>
+  <p style="color: #ffffff;">Temel bankacılık işlemleri yönetim platformu</p>
+  <p style="color: #a2a2a2;">Basic banking operations management platform</p>
+  <div style="margin: 10px 0;">
+    <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white"/>
+  </div>
+  <p style="color: #58a6ff;">🔄 Geliştirme Aşamasında / In Development</p>
+</div>
 
-[![MOBILE-BANK-SYSTEM](https://github-readme-stats.vercel.app/api/pin/?username=emirdeniz&repo=MOBILE-BANK-SYSTEM&theme=dark&hide_border=true)](https://github.com/emirdeniz/MOBILE-BANK-SYSTEM)
-
-[![ATM-PROJECT](https://github-readme-stats.vercel.app/api/pin/?username=emirdeniz&repo=ATM-PROJECT&theme=dark&hide_border=true)](https://github.com/emirdeniz/ATM-PROJECT)
-
-[![MACHINE-AUTOMATION](https://github-readme-stats.vercel.app/api/pin/?username=emirdeniz&repo=MACHINE-AUTOMATION&theme=dark&hide_border=true)](https://github.com/emirdeniz/MACHINE-AUTOMATION)
-
-[![my-blog-web-site](https://github-readme-stats.vercel.app/api/pin/?username=emirdeniz&repo=my-blog-web-site&theme=dark&hide_border=true)](https://github.com/emirdeniz/my-blog-web-site)
-
-[![IKSystem](https://github-readme-stats.vercel.app/api/pin/?username=emirdeniz&repo=IKSystem&theme=dark&hide_border=true)](https://github.com/emirdeniz/IKSystem)
-
-[![amazon-clone](https://github-readme-stats.vercel.app/api/pin/?username=emirdeniz&repo=amazon-clone&theme=dark&hide_border=true)](https://github.com/emirdeniz/amazon-clone)
-
-[![Restaurant-Menu](https://github-readme-stats.vercel.app/api/pin/?username=emirdeniz&repo=Restaurant-Menu&theme=dark&hide_border=true)](https://github.com/emirdeniz/Restaurant-Menu)
-
-[![Polebot-discord.net](https://github-readme-stats.vercel.app/api/pin/?username=emirdeniz&repo=Polebot-discord.net&theme=dark&hide_border=true)](https://github.com/emirdeniz/Polebot-discord.net)
-
-[![EmirOtomatCNC](https://github-readme-stats.vercel.app/api/pin/?username=emirdeniz&repo=EmirOtomatCNC&theme=dark&hide_border=true)](https://github.com/emirdeniz/EmirOtomatCNC)
-
-[![deniz-holding](https://github-readme-stats.vercel.app/api/pin/?username=emirdeniz&repo=deniz-holding&theme=dark&hide_border=true)](https://github.com/emirdeniz/deniz-holding)
-
-[![React-Templates](https://github-readme-stats.vercel.app/api/pin/?username=emirdeniz&repo=React-Templates&theme=dark&hide_border=true)](https://github.com/emirdeniz/React-Templates)
-
-[![HospitalSystem](https://github-readme-stats.vercel.app/api/pin/?username=emirdeniz&repo=HospitalSystem&theme=dark&hide_border=true)](https://github.com/emirdeniz/HospitalSystem)
-
-[![OrderWorkflow](https://github-readme-stats.vercel.app/api/pin/?username=emirdeniz&repo=OrderWorkflow&theme=dark&hide_border=true)](https://github.com/emirdeniz/OrderWorkflow)
-
-[![FiveM-Server](https://github-readme-stats.vercel.app/api/pin/?username=emirdeniz&repo=FiveM-Server&theme=dark&hide_border=true)](https://github.com/emirdeniz/FiveM-Server)
+<!-- Diğer projeler için benzer kartlar eklenecek -->
 
 </div>
 
