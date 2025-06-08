@@ -55,6 +55,7 @@
         <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/>
         <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white"/>
       </div>
+      <br> 
       <div style="margin-bottom:18px;"></div>
       <div style="margin-bottom:10px;">
         <img src="https://img.shields.io/badge/Development-grey?style=flat&logo=github" alt="development"/>
@@ -86,6 +87,7 @@
         <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/>
         <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white"/>
       </div>
+      <br>
       <div style="margin-bottom:18px;"></div>
       <div style="margin-bottom:10px;">
         <img src="https://img.shields.io/badge/Development-grey?style=flat&logo=github" alt="development"/>
