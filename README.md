@@ -39,11 +39,15 @@
     <td width="49%" valign="top" style="background:#161b22; border:1px solid #30363d; border-radius:10px; padding:32px; margin:0 12px 24px 0;">
       <div style="display:flex;align-items:center;gap:10px;">
         <img src="https://img.icons8.com/ios-filled/28/ffffff/bus.png" alt="bus icon" style="vertical-align:middle;" />
-        <span style="color:#f0f6fc; font-size:1.25em; font-weight:bold; letter-spacing:1px;">BUS-TICKET-SYSTEM</span>
+        <span style="color:#f0f6fc; font-size:1.5em; font-weight:900; letter-spacing:1px; font-family:Segoe UI,Arial,sans-serif;">BUS-TICKET-SYSTEM</span>
       </div>
       <hr style="border:0;border-top:2px solid #30363d;margin:16px 0;">
-      <div style="color:#e6edf3;font-weight:600;margin-bottom:6px;">Otobüs biletlerini çevrimiçi satma ve rezervasyon sistemi</div>
-      <div style="color:#8b949e;margin-bottom:18px;">Online bus ticket sales and reservation system</div>
+      <div style="color:#e6edf3;font-weight:700;font-size:1.08em;margin-bottom:6px; font-family:Segoe UI,Arial,sans-serif;">
+        Otobüs biletlerini çevrimiçi satma ve rezervasyon sistemi
+      </div>
+      <div style="color:#8b949e;margin-bottom:18px; font-style:italic; font-size:1em;">
+        Online bus ticket sales and reservation system
+      </div>
       <div style="margin-bottom:18px;">
         <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
@@ -61,11 +65,15 @@
     <td width="49%" valign="top" style="background:#161b22; border:1px solid #30363d; border-radius:10px; padding:32px; margin:0 0 24px 12px;">
       <div style="display:flex;align-items:center;gap:10px;">
         <img src="https://img.icons8.com/ios-filled/28/ffffff/bank.png" alt="bank icon" style="vertical-align:middle;" />
-        <span style="color:#f0f6fc; font-size:1.25em; font-weight:bold; letter-spacing:1px;">BANK-SYSTEM</span>
+        <span style="color:#f0f6fc; font-size:1.5em; font-weight:900; letter-spacing:1px; font-family:Segoe UI,Arial,sans-serif;">BANK-SYSTEM</span>
       </div>
       <hr style="border:0;border-top:2px solid #30363d;margin:16px 0;">
-      <div style="color:#e6edf3;font-weight:600;margin-bottom:6px;">Temel bankacılık işlemleri yönetim platformu</div>
-      <div style="color:#8b949e;margin-bottom:18px;">Basic banking operations management platform</div>
+      <div style="color:#e6edf3;font-weight:700;font-size:1.08em;margin-bottom:6px; font-family:Segoe UI,Arial,sans-serif;">
+        Temel bankacılık işlemleri yönetim platformu
+      </div>
+      <div style="color:#8b949e;margin-bottom:18px; font-style:italic; font-size:1em;">
+        Basic banking operations management platform
+      </div>
       <div style="margin-bottom:18px;">
         <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
