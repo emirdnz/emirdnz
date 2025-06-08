@@ -37,39 +37,47 @@
 <table>
   <tr>
     <td width="49%" valign="top" style="background:#161b22; border:1px solid #30363d; border-radius:10px; padding:32px; margin:0 12px 24px 0;">
-      <h3>
-        <img src="https://img.icons8.com/ios-filled/28/ffffff/bus.png" style="vertical-align:middle; margin-right:8px;" alt="bus icon"/>
-        <span style="color:#f0f6fc;">BUS-TICKET-SYSTEM</span>
-      </h3>
-      <hr>
-      <b>Otobüs biletlerini çevrimiçi satma ve rezervasyon sistemi</b><br>
-      <span style="color:#8b949e;">Online bus ticket sales and reservation system</span>
-      <br><br>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/>
-      <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white"/>
-      <br><br>
-      <img src="https://img.shields.io/badge/Development-In%20Progress-blue?style=flat&logo=github"/>
-      <span>Geliştirme Aşamasında / In Development</span>
+      <div style="display:flex;align-items:center;gap:10px;">
+        <img src="https://img.icons8.com/ios-filled/28/ffffff/bus.png" alt="bus icon" style="vertical-align:middle;" />
+        <span style="color:#f0f6fc; font-size:1.25em; font-weight:bold; letter-spacing:1px;">BUS-TICKET-SYSTEM</span>
+      </div>
+      <hr style="border:0;border-top:2px solid #30363d;margin:16px 0;">
+      <div style="color:#e6edf3;font-weight:600;margin-bottom:6px;">Otobüs biletlerini çevrimiçi satma ve rezervasyon sistemi</div>
+      <div style="color:#8b949e;margin-bottom:18px;">Online bus ticket sales and reservation system</div>
+      <div style="margin-bottom:18px;">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white"/>
+      </div>
+      <div style="display:flex;align-items:center;gap:8px;">
+        <img src="https://img.shields.io/badge/Development-grey?style=flat&logo=github" alt="development"/>
+        <img src="https://img.shields.io/badge/Geliştiriliyor-grey?style=flat&logo=github" alt="gelistiriliyor"/>
+        <img src="https://img.shields.io/badge/In%20Progress-007bff?style=flat&logo=github&logoColor=white" alt="in progress"/>
+        <img src="https://img.shields.io/badge/Devam%20Ediyor-007bff?style=flat&logo=github&logoColor=white" alt="devam ediyor"/>
+      </div>
     </td>
     <td width="2%"></td>
     <td width="49%" valign="top" style="background:#161b22; border:1px solid #30363d; border-radius:10px; padding:32px; margin:0 0 24px 12px;">
-      <h3>
-        <img src="https://img.icons8.com/ios-filled/28/ffffff/bank.png" style="vertical-align:middle; margin-right:8px;" alt="bank icon"/>
-        <span style="color:#f0f6fc;">BANK-SYSTEM</span>
-      </h3>
-      <hr>
-      <b>Temel bankacılık işlemleri yönetim platformu</b><br>
-      <span style="color:#8b949e;">Basic banking operations management platform</span>
-      <br><br>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/>
-      <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white"/>
-      <br><br>
-      <img src="https://img.shields.io/badge/Development-In%20Progress-blue?style=flat&logo=github"/>
-      <span>Geliştirme Aşamasında / In Development</span>
+      <div style="display:flex;align-items:center;gap:10px;">
+        <img src="https://img.icons8.com/ios-filled/28/ffffff/bank.png" alt="bank icon" style="vertical-align:middle;" />
+        <span style="color:#f0f6fc; font-size:1.25em; font-weight:bold; letter-spacing:1px;">BANK-SYSTEM</span>
+      </div>
+      <hr style="border:0;border-top:2px solid #30363d;margin:16px 0;">
+      <div style="color:#e6edf3;font-weight:600;margin-bottom:6px;">Temel bankacılık işlemleri yönetim platformu</div>
+      <div style="color:#8b949e;margin-bottom:18px;">Basic banking operations management platform</div>
+      <div style="margin-bottom:18px;">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white"/>
+      </div>
+      <div style="display:flex;align-items:center;gap:8px;">
+        <img src="https://img.shields.io/badge/Development-grey?style=flat&logo=github" alt="development"/>
+        <img src="https://img.shields.io/badge/Geliştiriliyor-grey?style=flat&logo=github" alt="gelistiriliyor"/>
+        <img src="https://img.shields.io/badge/In%20Progress-007bff?style=flat&logo=github&logoColor=white" alt="in progress"/>
+        <img src="https://img.shields.io/badge/Devam%20Ediyor-007bff?style=flat&logo=github&logoColor=white" alt="devam ediyor"/>
+      </div>
     </td>
   </tr>
 </table>
