@@ -26,7 +26,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 # 📊 GitHub İstatistikleri / GitHub Stats
-<div align="center">
+<div align-items="center">
   <img src="https://github-readme-stats.vercel.app/api?username=emirdnz&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="Github Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=emirdnz&theme=dark&hide_border=true" width="48%" alt="GitHub Streak"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirdnz&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="48%" alt="Most Used Languages"/>
@@ -50,7 +50,7 @@
                      font-weight:900;
                      letter-spacing:1px;
                      font-family:Segoe UI,Arial,sans-serif;">
-          BUS-TICKET-SYSTEM
+          BUS-TICKET-SYSTEM-PROJECT
         </span>
       </div>
       <hr style="border:0; border-top:2px solid #fff; margin:8px 0 16px 0;">
@@ -60,6 +60,7 @@
                   font-weight:500;">
         Otobüs biletlerini çevrimiçi satma, rezervasyonları yönetme ve yolcu bilgilerini takip etme platformu.
       </div>
+      <br>
       <div style="color:#b3bfc9;
                   font-size:1.13em;
                   margin-bottom:22px;
@@ -76,6 +77,7 @@
         <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"
              alt="SQL Server Badge"/>
       </div>
+      <br>
       <div>
         <span style="background:#21262d;
                      border-radius:8px;
@@ -91,6 +93,7 @@
             | Tahmini Bitiş / Estimated Finish
           </span>
         </span>
+        <br>
         <div style="margin-top:12px;">
           <img src="https://img.shields.io/badge/Development-grey?style=flat&logo=github"
                alt="Development Badge" style="margin:3px;"/>
@@ -102,7 +105,6 @@
     <td width="50%" valign="top"
         style="background:linear-gradient(135deg,#232526 0%,#414345 100%);
                border:1px solid #30363d;
-               border-radius:20px;
                padding:36px 32px;
                margin:0 0 36px 8px;
                box-shadow:0 6px 32px #00000044;">
@@ -113,7 +115,7 @@
                      font-weight:900;
                      letter-spacing:1px;
                      font-family:Segoe UI,Arial,sans-serif;">
-          BANK-SYSTEM
+          BANK-SYSTEM-PROJECT
         </span>
       </div>
       <hr style="border:0; border-top:2px solid #fff; margin:8px 0 16px 0;">
@@ -123,13 +125,14 @@
                   font-weight:500;">
         Hesap açma, bakiye sorgulama, para yatırma/çekme ve müşteri işlemlerini yöneten temel bankacılık modülü.
       </div>
+      <br>
       <div style="color:#b3bfc9;
                   font-size:1.13em;
                   margin-bottom:22px;
                   font-weight:500;">
         Basic banking module for account opening, balance inquiry, deposit/withdrawal, and customer operations.
       </div>
-      <div style="margin-bottom:18px; display:flex; gap:6px; flex-wrap:wrap;">
+     <br>
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
              alt="React Badge"/>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
@@ -139,6 +142,7 @@
         <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"
              alt="SQL Server Badge"/>
       </div>
+      <br>
       <div>
         <span style="background:#21262d;
                      border-radius:8px;
@@ -154,6 +158,7 @@
             | Tahmini Bitiş / Estimated Finish
           </span>
         </span>
+        <br>
         <div style="margin-top:12px;">
           <img src="https://img.shields.io/badge/Development-grey?style=flat&logo=github"
                alt="Development Badge" style="margin:3px;"/>
