@@ -71,13 +71,10 @@
           📅 30.03.2026 <span style="color:#b3bfc9; font-size:0.95em;">| Tahmini Bitiş / Estimated Finish</span>
         </span>
         <br><br>
-        <span style="background:#f85149; color:#fff; border-radius:8px; padding:6px 14px; font-size:1.08em; font-weight:700; display:inline-flex; align-items:center;">
+         <span style="background:#f85149; color:#fff; border-radius:8px; padding:6px 14px; font-size:1.08em; font-weight:700; display:inline-flex; align-items:center;">
           <img src="https://img.shields.io/badge/Development-grey?style=flat&logo=github" alt="development" style="margin-right:4px;"/>
-          <img src="https://img.shields.io/badge/Geliştiriliyor-grey?style=flat&logo=github" alt="gelistiriliyor" style="margin-right:4px;"/>
-          <br>
+          <img src="https://img.shields.io/badge/In%20Progress-007bff?style=flat&logo=github&logoColor=white" alt="gelistiriliyor" style="margin-right:4px;"/>
           <img src="https://img.shields.io/badge/In%20Progress-007bff?style=flat&logo=github&logoColor=white" alt="in progress" style="margin-right:4px;"/>
-          <img src="https://img.shields.io/badge/Devam%20Ediyor-007bff?style=flat&logo=github&logoColor=white" alt="devam ediyor" style="margin-right:4px;"/>
-          <div>
         </span>
       </div>
     </td>
@@ -117,7 +114,7 @@
         <br><br>
         <span style="background:#f85149; color:#fff; border-radius:8px; padding:6px 14px; font-size:1.08em; font-weight:700; display:inline-flex; align-items:center;">
           <img src="https://img.shields.io/badge/Development-grey?style=flat&logo=github" alt="development" style="margin-right:4px;"/>
-          <img src="https://img.shields.io/badge/Geliştiriliyor-grey?style=flat&logo=github" alt="gelistiriliyor" style="margin-right:4px;"/>
+          <img src="https://img.shields.io/badge/In%20Progress-007bff?style=flat&logo=github&logoColor=white" alt="gelistiriliyor" style="margin-right:4px;"/>
           <img src="https://img.shields.io/badge/In%20Progress-007bff?style=flat&logo=github&logoColor=white" alt="in progress" style="margin-right:4px;"/>
         </span>
       </div>
