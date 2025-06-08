@@ -35,18 +35,13 @@
 ## 🚀 Gelecek Olan Projelerim / Upcoming Projects
 
 <table cellpadding="0" cellspacing="0" width="100%">
-  <tr>
+  <tr style="vertical-align:top;">
     <!-- 1. Proje -->
     <td width="50%" valign="top"
-        style="background:linear-gradient(135deg,#232526 0%,#414345 100%);
-               border:1px solid #30363d;
-               border-radius:20px;
-               padding:36px 32px;
-               margin:0 8px 36px 0;
-               box-shadow:0 6px 32px #00000044;">
+        style="background:linear-gradient(135deg,#232526 0%,#414345 100%);border:1px solid #30363d;border-radius:20px;padding:36px 32px;margin:0 8px 36px 0;box-shadow:0 6px 32px #00000044;vertical-align:top;">
       <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
-        <img src="https://img.icons8.com/ios-filled/40/ffffff/bus.png" alt="Bus Icon"/>
-        <span style="color:#fff; font-size:1.6em; font-weight:900; letter-spacing:1px; font-family:Segoe UI,Arial,sans-serif;">
+        <img src="https://react.dev/favicon.ico" alt="React Icon" width="40"/>
+        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
           BUS-TICKET-SYSTEM
         </span>
       </div>
@@ -81,15 +76,10 @@
     </td>
     <!-- 2. Proje -->
     <td width="50%" valign="top"
-        style="background:linear-gradient(135deg,#232526 0%,#414345 100%);
-               border:1px solid #30363d;
-               border-radius:20px;
-               padding:36px 32px;
-               margin:0 0 36px 8px;
-               box-shadow:0 6px 32px #00000044;">
+        style="background:linear-gradient(135deg,#232526 0%,#414345 100%);border:1px solid #30363d;border-radius:20px;padding:36px 32px;margin:0 0 36px 8px;box-shadow:0 6px 32px #00000044;vertical-align:top;">
       <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
-        <img src="https://img.icons8.com/ios-filled/40/ffffff/bank.png" alt="Bank Icon"/>
-        <span style="color:#fff; font-size:1.6em; font-weight:900; letter-spacing:1px; font-family:Segoe UI,Arial,sans-serif;">
+        <img src="https://react.dev/favicon.ico" alt="React Icon" width="40"/>
+        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
           BANK-SYSTEM
         </span>
       </div>
@@ -123,18 +113,13 @@
       </div>
     </td>
   </tr>
-  <tr>
+  <tr style="vertical-align:top;">
     <!-- 3. Proje -->
     <td width="50%" valign="top"
-        style="background:linear-gradient(135deg,#232526 0%,#414345 100%);
-               border:1px solid #30363d;
-               border-radius:20px;
-               padding:36px 32px;
-               margin:0 8px 36px 0;
-               box-shadow:0 6px 32px #00000044;">
+        style="background:linear-gradient(135deg,#232526 0%,#414345 100%);border:1px solid #30363d;border-radius:20px;padding:36px 32px;margin:0 8px 36px 0;box-shadow:0 6px 32px #00000044;vertical-align:top;">
       <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
-        <img src="https://img.icons8.com/ios-filled/40/ffffff/smartphone.png" alt="Mobile Icon"/>
-        <span style="color:#fff; font-size:1.6em; font-weight:900; letter-spacing:1px; font-family:Segoe UI,Arial,sans-serif;">
+        <img src="https://react.dev/favicon.ico" alt="React Icon" width="40"/>
+        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
           MOBILE-BANK-SYSTEM
         </span>
       </div>
@@ -169,15 +154,10 @@
     </td>
     <!-- 4. Proje -->
     <td width="50%" valign="top"
-        style="background:linear-gradient(135deg,#232526 0%,#414345 100%);
-               border:1px solid #30363d;
-               border-radius:20px;
-               padding:36px 32px;
-               margin:0 0 36px 8px;
-               box-shadow:0 6px 32px #00000044;">
+        style="background:linear-gradient(135deg,#232526 0%,#414345 100%);border:1px solid #30363d;border-radius:20px;padding:36px 32px;margin:0 0 36px 8px;box-shadow:0 6px 32px #00000044;vertical-align:top;">
       <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
-        <img src="https://img.icons8.com/ios-filled/40/ffffff/atm.png" alt="ATM Icon"/>
-        <span style="color:#fff; font-size:1.6em; font-weight:900; letter-spacing:1px; font-family:Segoe UI,Arial,sans-serif;">
+        <img src="https://react.dev/favicon.ico" alt="React Icon" width="40"/>
+        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
           ATM-PROJECT
         </span>
       </div>
@@ -211,18 +191,13 @@
       </div>
     </td>
   </tr>
-  <tr>
+  <tr style="vertical-align:top;">
     <!-- 5. Proje -->
     <td width="50%" valign="top"
-        style="background:linear-gradient(135deg,#232526 0%,#414345 100%);
-               border:1px solid #30363d;
-               border-radius:20px;
-               padding:36px 32px;
-               margin:0 8px 36px 0;
-               box-shadow:0 6px 32px #00000044;">
+        style="background:linear-gradient(135deg,#232526 0%,#414345 100%);border:1px solid #30363d;border-radius:20px;padding:36px 32px;margin:0 8px 36px 0;box-shadow:0 6px 32px #00000044;vertical-align:top;">
       <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
-        <img src="https://img.icons8.com/ios-filled/40/ffffff/robot-2.png" alt="Automation Icon"/>
-        <span style="color:#fff; font-size:1.6em; font-weight:900; letter-spacing:1px; font-family:Segoe UI,Arial,sans-serif;">
+        <img src="https://react.dev/favicon.ico" alt="React Icon" width="40"/>
+        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
           MACHINE-AUTOMATION
         </span>
       </div>
@@ -258,15 +233,10 @@
     </td>
     <!-- 6. Proje -->
     <td width="50%" valign="top"
-        style="background:linear-gradient(135deg,#232526 0%,#414345 100%);
-               border:1px solid #30363d;
-               border-radius:20px;
-               padding:36px 32px;
-               margin:0 0 36px 8px;
-               box-shadow:0 6px 32px #00000044;">
+        style="background:linear-gradient(135deg,#232526 0%,#414345 100%);border:1px solid #30363d;border-radius:20px;padding:36px 32px;margin:0 0 36px 8px;box-shadow:0 6px 32px #00000044;vertical-align:top;">
       <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
-        <img src="https://img.icons8.com/ios-filled/40/ffffff/blog.png" alt="Blog Icon"/>
-        <span style="color:#fff; font-size:1.6em; font-weight:900; letter-spacing:1px; font-family:Segoe UI,Arial,sans-serif;">
+        <img src="https://react.dev/favicon.ico" alt="React Icon" width="40"/>
+        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
           my-blog-web-site-project
         </span>
       </div>
@@ -300,18 +270,13 @@
       </div>
     </td>
   </tr>
-  <tr>
+  <tr style="vertical-align:top;">
     <!-- 7. Proje -->
     <td width="50%" valign="top"
-        style="background:linear-gradient(135deg,#232526 0%,#414345 100%);
-               border:1px solid #30363d;
-               border-radius:20px;
-               padding:36px 32px;
-               margin:0 8px 36px 0;
-               box-shadow:0 6px 32px #00000044;">
+        style="background:linear-gradient(135deg,#232526 0%,#414345 100%);border:1px solid #30363d;border-radius:20px;padding:36px 32px;margin:0 8px 36px 0;box-shadow:0 6px 32px #00000044;vertical-align:top;">
       <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
-        <img src="https://img.icons8.com/ios-filled/40/ffffff/conference-call.png" alt="HR Icon"/>
-        <span style="color:#fff; font-size:1.6em; font-weight:900; letter-spacing:1px; font-family:Segoe UI,Arial,sans-serif;">
+        <img src="https://react.dev/favicon.ico" alt="React Icon" width="40"/>
+        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
           IKSystem
         </span>
       </div>
@@ -346,15 +311,10 @@
     </td>
     <!-- 8. Proje -->
     <td width="50%" valign="top"
-        style="background:linear-gradient(135deg,#232526 0%,#414345 100%);
-               border:1px solid #30363d;
-               border-radius:20px;
-               padding:36px 32px;
-               margin:0 0 36px 8px;
-               box-shadow:0 6px 32px #00000044;">
+        style="background:linear-gradient(135deg,#232526 0%,#414345 100%);border:1px solid #30363d;border-radius:20px;padding:36px 32px;margin:0 0 36px 8px;box-shadow:0 6px 32px #00000044;vertical-align:top;">
       <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
-        <img src="https://img.icons8.com/ios-filled/40/ffffff/shopping-cart.png" alt="E-commerce Icon"/>
-        <span style="color:#fff; font-size:1.6em; font-weight:900; letter-spacing:1px; font-family:Segoe UI,Arial,sans-serif;">
+        <img src="https://react.dev/favicon.ico" alt="React Icon" width="40"/>
+        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
           amazon-clone-project
         </span>
       </div>
@@ -398,8 +358,8 @@
                margin:0 8px 36px 0;
                box-shadow:0 6px 32px #00000044;">
       <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
-        <img src="https://img.icons8.com/ios-filled/40/ffffff/restaurant-menu.png" alt="Menu Icon"/>
-        <span style="color:#fff; font-size:1.6em; font-weight:900; letter-spacing:1px; font-family:Segoe UI,Arial,sans-serif;">
+        <img src="https://react.dev/favicon.ico" alt="React Icon" width="40"/>
+        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
           Restaurant-Menu-System
         </span>
       </div>
@@ -441,8 +401,8 @@
                margin:0 0 36px 8px;
                box-shadow:0 6px 32px #00000044;">
       <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
-        <img src="https://img.icons8.com/ios-filled/40/ffffff/discord-logo.png" alt="Discord Bot Icon"/>
-        <span style="color:#fff; font-size:1.6em; font-weight:900; letter-spacing:1px; font-family:Segoe UI,Arial,sans-serif;">
+        <img src="https://react.dev/favicon.ico" alt="React Icon" width="40"/>
+        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
           Polebot-discord.net
         </span>
       </div>
@@ -456,6 +416,8 @@
       </div>
       <br>
       <div style="margin-bottom:18px; display:flex; gap:6px; flex-wrap:nowrap;">
+        <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# Badge"/>
+        <img src="https://img.shields.io/badge/Discord.Net-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord.Net Badge"/>
         <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Badge"/>
         <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite Badge"/>
       </div>
@@ -484,8 +446,8 @@
                margin:0 8px 36px 0;
                box-shadow:0 6px 32px #00000044;">
       <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
-        <img src="https://img.icons8.com/ios-filled/40/2ecc71/engineering.png" alt="Engineering Icon"/>
-        <span style="color:#2ecc71; font-size:1.6em; font-weight:900; letter-spacing:1px; font-family:Segoe UI,Arial,sans-serif;">
+        <img src="https://react.dev/favicon.ico" alt="React Icon" width="40"/>
+        <span style="color:#2ecc71; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
           EmirOtomatCNCWebSiteProject
         </span>
       </div>
@@ -525,8 +487,8 @@
                margin:0 0 36px 8px;
                box-shadow:0 6px 32px #00000044;">
       <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
-        <img src="https://img.icons8.com/ios-filled/40/ffffff/domain.png" alt="Domain Icon"/>
-        <span style="color:#fff; font-size:1.6em; font-weight:900; letter-spacing:1px; font-family:Segoe UI,Arial,sans-serif;">
+        <img src="https://react.dev/favicon.ico" alt="React Icon" width="40"/>
+        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
           deniz-software-web-site-2, Deniz-Software-web-site, deniz-holding-web-site-project
         </span>
       </div>
@@ -570,8 +532,8 @@
                margin:0 8px 36px 0;
                box-shadow:0 6px 32px #00000044;">
       <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
-        <img src="https://img.icons8.com/ios-filled/40/ffffff/react-native.png" alt="React Templates Icon"/>
-        <span style="color:#fff; font-size:1.6em; font-weight:900; letter-spacing:1px; font-family:Segoe UI,Arial,sans-serif;">
+        <img src="https://react.dev/favicon.ico" alt="React Icon" width="40"/>
+        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
           my-React-Web-Site-Templates
         </span>
       </div>
@@ -613,8 +575,8 @@
                margin:0 0 36px 8px;
                box-shadow:0 6px 32px #00000044;">
       <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
-        <img src="https://img.icons8.com/ios-filled/40/ffffff/hospital-room.png" alt="Hospital Icon"/>
-        <span style="color:#fff; font-size:1.6em; font-weight:900; letter-spacing:1px; font-family:Segoe UI,Arial,sans-serif;">
+        <img src="https://react.dev/favicon.ico" alt="React Icon" width="40"/>
+        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
           HospitalAppointmentSystemProject
         </span>
       </div>
@@ -658,8 +620,8 @@
                margin:0 8px 36px 0;
                box-shadow:0 6px 32px #00000044;">
       <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
-        <img src="https://img.icons8.com/ios-filled/40/ffffff/production-order.png" alt="Order Icon"/>
-        <span style="color:#fff; font-size:1.6em; font-weight:900; letter-spacing:1px; font-family:Segoe UI,Arial,sans-serif;">
+        <img src="https://react.dev/favicon.ico" alt="React Icon" width="40"/>
+        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
           EmirOtomat-OrderWorkflow-Platform
         </span>
       </div>
@@ -702,8 +664,8 @@
                margin:0 0 36px 8px;
                box-shadow:0 6px 32px #00000044;">
       <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
-        <img src="https://img.icons8.com/ios-filled/40/ffffff/game-controller.png" alt="Game Server Icon"/>
-        <span style="color:#fff; font-size:1.6em; font-weight:900; letter-spacing:1px; font-family:Segoe UI,Arial,sans-serif;">
+        <img src="https://react.dev/favicon.ico" alt="React Icon" width="40"/>
+        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
           FiveM-GameServer-Project
         </span>
       </div>
