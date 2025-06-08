@@ -14,7 +14,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/polegut) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/channel/UCHrgDXcBzj-zxO_zueRr1rg)
 
-# 💻 Teknoloji Yığını / Tech Stack
+# 💻 Kullandığım Teknolojiler / Tech Stack
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -34,23 +34,39 @@
 
 ## 🚀 Projelerim / My Projects
 
-<div align="center">
+<div align="center" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem;">
 
-[![BUS-TICKET-SYSTEM](https://github-readme-stats.vercel.app/api/pin/?username=emirdnz&repo=BUS-TICKET-SYSTEM&theme=dark&hide_border=true)](https://github.com/emirdnz/BUS-TICKET-SYSTEM)
+[![BUS-TICKET-SYSTEM](https://github-readme-stats.vercel.app/api/pin/?username=emirdeniz&repo=BUS-TICKET-SYSTEM&theme=dark&hide_border=true&description=Online%20bus%20ticket%20system)](https://github.com/emirdeniz/BUS-TICKET-SYSTEM)
 
-[![BANK-SYSTEM](https://github-readme-stats.vercel.app/api/pin/?username=emirdnz&repo=BANK-SYSTEM&theme=dark&hide_border=true)](https://github.com/emirdnz/BANK-SYSTEM)
+[![BANK-SYSTEM](https://github-readme-stats.vercel.app/api/pin/?username=emirdeniz&repo=BANK-SYSTEM&theme=dark&hide_border=true&description=Banking%20operations%20platform)](https://github.com/emirdeniz/BANK-SYSTEM)
 
-[![MOBILE-BANK-SYSTEM](https://github-readme-stats.vercel.app/api/pin/?username=emirdnz&repo=MOBILE-BANK-SYSTEM&theme=dark&hide_border=true)](https://github.com/emirdnz/MOBILE-BANK-SYSTEM)
+[![MOBILE-BANK-SYSTEM](https://github-readme-stats.vercel.app/api/pin/?username=emirdeniz&repo=MOBILE-BANK-SYSTEM&theme=dark&hide_border=true)](https://github.com/emirdeniz/MOBILE-BANK-SYSTEM)
 
-[![ATM-PROJECT](https://github-readme-stats.vercel.app/api/pin/?username=emirdnz&repo=ATM-PROJECT&theme=dark&hide_border=true)](https://github.com/emirdnz/ATM-PROJECT)
+[![ATM-PROJECT](https://github-readme-stats.vercel.app/api/pin/?username=emirdeniz&repo=ATM-PROJECT&theme=dark&hide_border=true)](https://github.com/emirdeniz/ATM-PROJECT)
 
-[![MACHINE-AUTOMATION](https://github-readme-stats.vercel.app/api/pin/?username=emirdnz&repo=MACHINE-AUTOMATION&theme=dark&hide_border=true)](https://github.com/emirdnz/MACHINE-AUTOMATION)
+[![MACHINE-AUTOMATION](https://github-readme-stats.vercel.app/api/pin/?username=emirdeniz&repo=MACHINE-AUTOMATION&theme=dark&hide_border=true)](https://github.com/emirdeniz/MACHINE-AUTOMATION)
 
-[![Polebot-discord.net](https://github-readme-stats.vercel.app/api/pin/?username=emirdnz&repo=Polebot-discord.net&theme=dark&hide_border=true)](https://github.com/emirdnz/Polebot-discord.net)
+[![my-blog-web-site](https://github-readme-stats.vercel.app/api/pin/?username=emirdeniz&repo=my-blog-web-site&theme=dark&hide_border=true)](https://github.com/emirdeniz/my-blog-web-site)
 
-[![EmirOtomat-OrderWorkflow-Platform](https://github-readme-stats.vercel.app/api/pin/?username=emirdnz&repo=EmirOtomat-OrderWorkflow-Platform&theme=dark&hide_border=true)](https://github.com/emirdnz/EmirOtomat-OrderWorkflow-Platform)
+[![IKSystem](https://github-readme-stats.vercel.app/api/pin/?username=emirdeniz&repo=IKSystem&theme=dark&hide_border=true)](https://github.com/emirdeniz/IKSystem)
 
-[![FiveM-GameServer-Project](https://github-readme-stats.vercel.app/api/pin/?username=emirdnz&repo=FiveM-GameServer-Project&theme=dark&hide_border=true)](https://github.com/emirdnz/FiveM-GameServer-Project)
+[![amazon-clone](https://github-readme-stats.vercel.app/api/pin/?username=emirdeniz&repo=amazon-clone&theme=dark&hide_border=true)](https://github.com/emirdeniz/amazon-clone)
+
+[![Restaurant-Menu](https://github-readme-stats.vercel.app/api/pin/?username=emirdeniz&repo=Restaurant-Menu&theme=dark&hide_border=true)](https://github.com/emirdeniz/Restaurant-Menu)
+
+[![Polebot-discord.net](https://github-readme-stats.vercel.app/api/pin/?username=emirdeniz&repo=Polebot-discord.net&theme=dark&hide_border=true)](https://github.com/emirdeniz/Polebot-discord.net)
+
+[![EmirOtomatCNC](https://github-readme-stats.vercel.app/api/pin/?username=emirdeniz&repo=EmirOtomatCNC&theme=dark&hide_border=true)](https://github.com/emirdeniz/EmirOtomatCNC)
+
+[![deniz-holding](https://github-readme-stats.vercel.app/api/pin/?username=emirdeniz&repo=deniz-holding&theme=dark&hide_border=true)](https://github.com/emirdeniz/deniz-holding)
+
+[![React-Templates](https://github-readme-stats.vercel.app/api/pin/?username=emirdeniz&repo=React-Templates&theme=dark&hide_border=true)](https://github.com/emirdeniz/React-Templates)
+
+[![HospitalSystem](https://github-readme-stats.vercel.app/api/pin/?username=emirdeniz&repo=HospitalSystem&theme=dark&hide_border=true)](https://github.com/emirdeniz/HospitalSystem)
+
+[![OrderWorkflow](https://github-readme-stats.vercel.app/api/pin/?username=emirdeniz&repo=OrderWorkflow&theme=dark&hide_border=true)](https://github.com/emirdeniz/OrderWorkflow)
+
+[![FiveM-Server](https://github-readme-stats.vercel.app/api/pin/?username=emirdeniz&repo=FiveM-Server&theme=dark&hide_border=true)](https://github.com/emirdeniz/FiveM-Server)
 
 </div>
 
