@@ -36,69 +36,242 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top" style="background:#161b22; border:1px solid #30363d; border-radius:12px; padding:36px; margin:0 4px 28px 0;">
-      <div style="display:flex;align-items:center;gap:12px;">
-        <img src="https://img.icons8.com/ios-filled/32/ffffff/bus.png" alt="bus icon" style="vertical-align:middle;" />
-        <span style="color:#f0f6fc; font-size:1.7em; font-weight:900; letter-spacing:1px; font-family:Segoe UI,Arial,sans-serif;">BUS-TICKET-SYSTEM</span>
+    <!-- 1. Proje -->
+    <td width="50%" valign="top" style="background:#161b22; border:1px solid #30363d; border-radius:12px; padding:28px; margin:0 4px 28px 0;">
+      <div style="color:#f0f6fc; font-size:1.25em; font-weight:900; letter-spacing:1px; font-family:Segoe UI,Arial,sans-serif;">BUS-TICKET-SYSTEM</div>
+      <hr style="border:0;border-top:2px solid #30363d;margin:14px 0;">
+      <div style="color:#e6edf3; font-weight:600; font-size:1.05em; margin-bottom:8px;">
+        Otobüs biletlerini çevrimiçi satma, rezervasyonları yönetme ve yolcu bilgilerini takip etme platformu.
       </div>
-      <hr style="border:0;border-top:2px solid #30363d;margin:18px 0;">
-      <div style="color:#e6edf3;font-weight:700;font-size:1.13em;margin-bottom:0; font-family:Segoe UI,Arial,sans-serif;">
-        Otobüs biletlerini çevrimiçi satma ve rezervasyon sistemi
+      <div style="color:#8b949e; font-size:1em; margin-bottom:10px;">
+        <b>Technologies:</b> React + TypeScript, .NET Core (C#), SQL Server/MySQL
       </div>
-      <div style="color:#8b949e; font-style:italic; font-size:1.05em; margin-bottom:22px; margin-top:2px;">
-        Online bus ticket sales and reservation system
-      </div>
-      <br>
-      <div style="margin-bottom:22px;"></div>
-      <div style="margin-bottom:10px;">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/>
-        <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white"/>
-      </div>
-      <br> 
-      <div style="margin-bottom:18px;"></div>
-      <div style="margin-bottom:10px;">
-        <img src="https://img.shields.io/badge/Development-grey?style=flat&logo=github" alt="development"/>
-        <img src="https://img.shields.io/badge/Geliştiriliyor-grey?style=flat&logo=github" alt="gelistiriliyor"/>
-      </div>
-      <div style="margin-bottom:10px;"></div>
-      <div>
-        <img src="https://img.shields.io/badge/In%20Progress-007bff?style=flat&logo=github&logoColor=white" alt="in progress"/>
-        <img src="https://img.shields.io/badge/Devam%20Ediyor-007bff?style=flat&logo=github&logoColor=white" alt="devam ediyor"/>
+      <div style="color:#58a6ff; font-size:0.97em; margin-bottom:2px;">
+        <b>Date:</b> 30.03.2026
       </div>
     </td>
-    <td width="0%"></td>
-    <td width="50%" valign="top" style="background:#161b22; border:1px solid #30363d; border-radius:12px; padding:36px; margin:0 0 28px 4px;">
-      <div style="display:flex;align-items:center;gap:12px;">
-        <img src="https://img.icons8.com/ios-filled/32/ffffff/bank.png" alt="bank icon" style="vertical-align:middle;" />
-        <span style="color:#f0f6fc; font-size:1.7em; font-weight:900; letter-spacing:1px; font-family:Segoe UI,Arial,sans-serif;">BANK-SYSTE</span>
+    <!-- 2. Proje -->
+    <td width="50%" valign="top" style="background:#161b22; border:1px solid #30363d; border-radius:12px; padding:28px; margin:0 0 28px 4px;">
+      <div style="color:#f0f6fc; font-size:1.25em; font-weight:900; letter-spacing:1px; font-family:Segoe UI,Arial,sans-serif;">BANK-SYSTEM</div>
+      <hr style="border:0;border-top:2px solid #30363d;margin:14px 0;">
+      <div style="color:#e6edf3; font-weight:600; font-size:1.05em; margin-bottom:8px;">
+        Hesap açma, bakiye sorgulama, para yatırma/çekme ve müşteri işlemlerini yöneten temel bankacılık modülü.
       </div>
-      <hr style="border:0;border-top:2px solid #30363d;margin:18px 0;">
-      <div style="color:#e6edf3;font-weight:700;font-size:1.13em;margin-bottom:0; font-family:Segoe UI,Arial,sans-serif;">
-        Temel bankacılık işlemleri yönetim platformu
+      <div style="color:#8b949e; font-size:1em; margin-bottom:10px;">
+        <b>Technologies:</b> React + TypeScript, .NET Core (C#), SQL Server/MySQL
       </div>
-      <div style="color:#8b949e; font-style:italic; font-size:1.05em; margin-bottom:22px; margin-top:2px;">
-        Basic banking operations management platform
+      <div style="color:#58a6ff; font-size:0.97em; margin-bottom:2px;">
+        <b>Date:</b> 30.03.2026
       </div>
-      <br>
-      <div style="margin-bottom:22px;"></div>
-      <div style="margin-bottom:10px;">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/>
-        <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <!-- 3. Proje -->
+    <td width="50%" valign="top" style="background:#161b22; border:1px solid #30363d; border-radius:12px; padding:28px; margin:0 4px 28px 0;">
+      <div style="color:#f0f6fc; font-size:1.25em; font-weight:900; letter-spacing:1px; font-family:Segoe UI,Arial,sans-serif;">MOBILE-BANK-SYSTEM</div>
+      <hr style="border:0;border-top:2px solid #30363d;margin:14px 0;">
+      <div style="color:#e6edf3; font-weight:600; font-size:1.05em; margin-bottom:8px;">
+        Akıllı telefon ve tabletler için optimize edilmiş; kullanıcı dostu arayüzle bankacılık işlemlerini mobilde sunan uygulama.
       </div>
-      <br>
-      <div style="margin-bottom:18px;"></div>
-      <div style="margin-bottom:10px;">
-        <img src="https://img.shields.io/badge/Development-grey?style=flat&logo=github" alt="development"/>
-        <img src="https://img.shields.io/badge/Geliştiriliyor-grey?style=flat&logo=github" alt="gelistiriliyor"/>
+      <div style="color:#8b949e; font-size:1em; margin-bottom:10px;">
+        <b>Technologies:</b> React + TypeScript, .NET Core (C#), SQL Server/MySQL
       </div>
-      <div style="margin-bottom:10px;"></div>
-      <div>
-        <img src="https://img.shields.io/badge/In%20Progress-007bff?style=flat&logo=github&logoColor=white" alt="in progress"/>
-        <img src="https://img.shields.io/badge/Devam%20Ediyor-007bff?style=flat&logo=github&logoColor=white" alt="devam ediyor"/>
+      <div style="color:#58a6ff; font-size:0.97em; margin-bottom:2px;">
+        <b>Date:</b> 30.03.2026
+      </div>
+    </td>
+    <!-- 4. Proje -->
+    <td width="50%" valign="top" style="background:#161b22; border:1px solid #30363d; border-radius:12px; padding:28px; margin:0 0 28px 4px;">
+      <div style="color:#f0f6fc; font-size:1.25em; font-weight:900; letter-spacing:1px; font-family:Segoe UI,Arial,sans-serif;">ATM-PROJECT</div>
+      <hr style="border:0;border-top:2px solid #30363d;margin:14px 0;">
+      <div style="color:#e6edf3; font-weight:600; font-size:1.05em; margin-bottom:8px;">
+        ATM cihaz simülasyonu; kart okuma, PIN doğrulama, para çekme/yatırma ve fiş basma gibi işlevleri içeriyor.
+      </div>
+      <div style="color:#8b949e; font-size:1em; margin-bottom:10px;">
+        <b>Technologies:</b> React + TypeScript, .NET Core (C#), SQL Server/MySQL
+      </div>
+      <div style="color:#58a6ff; font-size:0.97em; margin-bottom:2px;">
+        <b>Date:</b> 30.03.2026
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <!-- 5. Proje -->
+    <td width="50%" valign="top" style="background:#161b22; border:1px solid #30363d; border-radius:12px; padding:28px; margin:0 4px 28px 0;">
+      <div style="color:#f0f6fc; font-size:1.25em; font-weight:900; letter-spacing:1px; font-family:Segoe UI,Arial,sans-serif;">MACHINE-AUTOMATION</div>
+      <hr style="border:0;border-top:2px solid #30363d;margin:14px 0;">
+      <div style="color:#e6edf3; font-weight:600; font-size:1.05em; margin-bottom:8px;">
+        CNC makinelerindeki iş emirlerini otomatik sıraya koyup kontrol eden, süreç bildirimleriyle üretimi izleyen kontrol sistemi.
+      </div>
+      <div style="color:#8b949e; font-size:1em; margin-bottom:10px;">
+        <b>Technologies:</b> React + TypeScript, .NET Core (C#), SignalR/WebSocket, SQL Server/MySQL
+      </div>
+      <div style="color:#58a6ff; font-size:0.97em; margin-bottom:2px;">
+        <b>Date:</b> 30.03.2026
+      </div>
+    </td>
+    <!-- 6. Proje -->
+    <td width="50%" valign="top" style="background:#161b22; border:1px solid #30363d; border-radius:12px; padding:28px; margin:0 0 28px 4px;">
+      <div style="color:#f0f6fc; font-size:1.25em; font-weight:900; letter-spacing:1px; font-family:Segoe UI,Arial,sans-serif;">my-blog-web-site-project</div>
+      <hr style="border:0;border-top:2px solid #30363d;margin:14px 0;">
+      <div style="color:#e6edf3; font-weight:600; font-size:1.05em; margin-bottom:8px;">
+        Kullanıcının yazılarını oluşturup düzenleyebileceği, kategori ve etiketlerle içerik yönetimi sunan kişisel blog CMS’i.
+      </div>
+      <div style="color:#8b949e; font-size:1em; margin-bottom:10px;">
+        <b>Technologies:</b> React + TypeScript, .NET Core (C#), SQL Server/MySQL
+      </div>
+      <div style="color:#58a6ff; font-size:0.97em; margin-bottom:2px;">
+        <b>Date:</b> 30.03.2026
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <!-- 7. Proje -->
+    <td width="50%" valign="top" style="background:#161b22; border:1px solid #30363d; border-radius:12px; padding:28px; margin:0 4px 28px 0;">
+      <div style="color:#f0f6fc; font-size:1.25em; font-weight:900; letter-spacing:1px; font-family:Segoe UI,Arial,sans-serif;">IKSystem</div>
+      <hr style="border:0;border-top:2px solid #30363d;margin:14px 0;">
+      <div style="color:#e6edf3; font-weight:600; font-size:1.05em; margin-bottom:8px;">
+        İşe alım, personel verileri, izin ve puantaj takibi gibi insan kaynakları süreçlerini yöneten panel.
+      </div>
+      <div style="color:#8b949e; font-size:1em; margin-bottom:10px;">
+        <b>Technologies:</b> React + TypeScript, .NET Core (C#), SQL Server/MySQL
+      </div>
+      <div style="color:#58a6ff; font-size:0.97em; margin-bottom:2px;">
+        <b>Date:</b> 30.03.2026
+      </div>
+    </td>
+    <!-- 8. Proje -->
+    <td width="50%" valign="top" style="background:#161b22; border:1px solid #30363d; border-radius:12px; padding:28px; margin:0 0 28px 4px;">
+      <div style="color:#f0f6fc; font-size:1.25em; font-weight:900; letter-spacing:1px; font-family:Segoe UI,Arial,sans-serif;">amazon-clone-project</div>
+      <hr style="border:0;border-top:2px solid #30363d;margin:14px 0;">
+      <div style="color:#e6edf3; font-weight:600; font-size:1.05em; margin-bottom:8px;">
+        Ürün listeleme, sepet, ödeme entegrasyonu ve kullanıcı profili yönetimini barındıran e-ticaret klon uygulaması.
+      </div>
+      <div style="color:#8b949e; font-size:1em; margin-bottom:10px;">
+        <b>Technologies:</b> React + TypeScript, .NET Core (C#), Ödeme API entegrasyonu, SQL Server/MySQL
+      </div>
+      <div style="color:#58a6ff; font-size:0.97em; margin-bottom:2px;">
+        <b>Date:</b> 30.03.2026
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <!-- 9. Proje -->
+    <td width="50%" valign="top" style="background:#161b22; border:1px solid #30363d; border-radius:12px; padding:28px; margin:0 4px 28px 0;">
+      <div style="color:#f0f6fc; font-size:1.25em; font-weight:900; letter-spacing:1px; font-family:Segoe UI,Arial,sans-serif;">Restaurant-Menu-System</div>
+      <hr style="border:0;border-top:2px solid #30363d;margin:14px 0;">
+      <div style="color:#e6edf3; font-weight:600; font-size:1.05em; margin-bottom:8px;">
+        Restoranlardaki menü öğelerini yönetme, kategori ve fiyatlandırma ekleme/çıkarma işlemlerini kolaylaştıran sistem.
+      </div>
+      <div style="color:#8b949e; font-size:1em; margin-bottom:10px;">
+        <b>Technologies:</b> React + TypeScript, .NET Core (C#), SQL Server/MySQL
+      </div>
+      <div style="color:#58a6ff; font-size:0.97em; margin-bottom:2px;">
+        <b>Date:</b> 30.03.2026
+      </div>
+    </td>
+    <!-- 10. Proje -->
+    <td width="50%" valign="top" style="background:#161b22; border:1px solid #30363d; border-radius:12px; padding:28px; margin:0 0 28px 4px;">
+      <div style="color:#f0f6fc; font-size:1.25em; font-weight:900; letter-spacing:1px; font-family:Segoe UI,Arial,sans-serif;">Polebot-dicord.net</div>
+      <hr style="border:0;border-top:2px solid #30363d;margin:14px 0;">
+      <div style="color:#e6edf3; font-weight:600; font-size:1.05em; margin-bottom:8px;">
+        Discord sunucularında moderasyon, komut yönetimi ve otomatik bildirimler yapabilen bot altyapısı.
+      </div>
+      <div style="color:#8b949e; font-size:1em; margin-bottom:10px;">
+        <b>Technologies:</b> C# + Discord.Net/DSharpPlus, .NET Core, SQLite/MySQL
+      </div>
+      <div style="color:#58a6ff; font-size:0.97em; margin-bottom:2px;">
+        <b>Date:</b> 30.03.2026
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <!-- 11. Proje -->
+    <td width="50%" valign="top" style="background:#161b22; border:1px solid #30363d; border-radius:12px; padding:28px; margin:0 4px 28px 0;">
+      <div style="color:#f0f6fc; font-size:1.25em; font-weight:900; letter-spacing:1px; font-family:Segoe UI,Arial,sans-serif;">EmirOtomatCNCWebSiteProject</div>
+      <hr style="border:0;border-top:2px solid #30363d;margin:14px 0;">
+      <div style="color:#e6edf3; font-weight:600; font-size:1.05em; margin-bottom:8px;">
+        Emir Otomat CNC’nin ürün tanıtımı, teknik çizim yükleme ve teklif alma formu içeren kurumsal web sitesi.
+      </div>
+      <div style="color:#8b949e; font-size:1em; margin-bottom:10px;">
+        <b>Technologies:</b> React + TypeScript, .NET Core (C#), SQL Server/MySQL
+      </div>
+      <div style="color:#58a6ff; font-size:0.97em; margin-bottom:2px;">
+        <b>Date:</b> 30.03.2026
+      </div>
+    </td>
+    <!-- 12. Proje -->
+    <td width="50%" valign="top" style="background:#161b22; border:1px solid #30363d; border-radius:12px; padding:28px; margin:0 0 28px 4px;">
+      <div style="color:#f0f6fc; font-size:1.25em; font-weight:900; letter-spacing:1px; font-family:Segoe UI,Arial,sans-serif;">deniz-software-web-site-2, Deniz-Software-web-site, deniz-holding-web-site-project</div>
+      <hr style="border:0;border-top:2px solid #30363d;margin:14px 0;">
+      <div style="color:#e6edf3; font-weight:600; font-size:1.05em; margin-bottom:8px;">
+        Deniz Holding ve bağlı birimlerinin kurumsal tanıtım, hizmet ve iletişim bilgilerini sunan üç ayrı web sitesi.
+      </div>
+      <div style="color:#8b949e; font-size:1em; margin-bottom:10px;">
+        <b>Technologies:</b> React + TypeScript, .NET Core (C#), SQL Server/MySQL
+      </div>
+      <div style="color:#58a6ff; font-size:0.97em; margin-bottom:2px;">
+        <b>Date:</b> 30.03.2026
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <!-- 13. Proje -->
+    <td width="50%" valign="top" style="background:#161b22; border:1px solid #30363d; border-radius:12px; padding:28px; margin:0 4px 28px 0;">
+      <div style="color:#f0f6fc; font-size:1.25em; font-weight:900; letter-spacing:1px; font-family:Segoe UI,Arial,sans-serif;">my-React-Web-Site-Templates</div>
+      <hr style="border:0;border-top:2px solid #30363d;margin:14px 0;">
+      <div style="color:#e6edf3; font-weight:600; font-size:1.05em; margin-bottom:8px;">
+        Farklı tema ve düzenlerde, hazır bileşenlerle hızlıca proje başlatmaya yarayan React şablon paketi.
+      </div>
+      <div style="color:#8b949e; font-size:1em; margin-bottom:10px;">
+        <b>Technologies:</b> React + TypeScript, Storybook, NPM
+      </div>
+      <div style="color:#58a6ff; font-size:0.97em; margin-bottom:2px;">
+        <b>Date:</b> 30.03.2026
+      </div>
+    </td>
+    <!-- 14. Proje -->
+    <td width="50%" valign="top" style="background:#161b22; border:1px solid #30363d; border-radius:12px; padding:28px; margin:0 0 28px 4px;">
+      <div style="color:#f0f6fc; font-size:1.25em; font-weight:900; letter-spacing:1px; font-family:Segoe UI,Arial,sans-serif;">HospitalAppointmentSystemProject</div>
+      <hr style="border:0;border-top:2px solid #30363d;margin:14px 0;">
+      <div style="color:#e6edf3; font-weight:600; font-size:1.05em; margin-bottom:8px;">
+        Hastaların doktor ve poliklinik randevularını online almasını, değişiklik ve iptallerini yapmasını sağlayan sistem.
+      </div>
+      <div style="color:#8b949e; font-size:1em; margin-bottom:10px;">
+        <b>Technologies:</b> React + TypeScript, .NET Core (C#), SQL Server/MySQL
+      </div>
+      <div style="color:#58a6ff; font-size:0.97em; margin-bottom:2px;">
+        <b>Date:</b> 30.03.2026
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <!-- 15. Proje -->
+    <td width="50%" valign="top" style="background:#161b22; border:1px solid #30363d; border-radius:12px; padding:28px; margin:0 4px 28px 0;">
+      <div style="color:#f0f6fc; font-size:1.25em; font-weight:900; letter-spacing:1px; font-family:Segoe UI,Arial,sans-serif;">EmirOtomat-OrderWorkflow-Platform</div>
+      <hr style="border:0;border-top:2px solid #30363d;margin:14px 0;">
+      <div style="color:#e6edf3; font-weight:600; font-size:1.05em; margin-bottom:8px;">
+        Üretim siparişlerinin girişinden faturalamaya kadar tüm aşamaları (onay, üretim takibi, bildirim, vade yönetimi) yöneten merkezi platform.
+      </div>
+      <div style="color:#8b949e; font-size:1em; margin-bottom:10px;">
+        <b>Technologies:</b> React + TypeScript, .NET Core (C#), SignalR/WebSocket, C# + Discord.Net bot, SQL Server/MySQL
+      </div>
+      <div style="color:#58a6ff; font-size:0.97em; margin-bottom:2px;">
+        <b>Date:</b> 30.03.2026
+      </div>
+    </td>
+    <!-- 16. Proje -->
+    <td width="50%" valign="top" style="background:#161b22; border:1px solid #30363d; border-radius:12px; padding:28px; margin:0 0 28px 4px;">
+      <div style="color:#f0f6fc; font-size:1.25em; font-weight:900; letter-spacing:1px; font-family:Segoe UI,Arial,sans-serif;">FiveM-GameServer-Project</div>
+      <hr style="border:0;border-top:2px solid #30363d;margin:14px 0;">
+      <div style="color:#e6edf3; font-weight:600; font-size:1.05em; margin-bottom:8px;">
+        FiveM tabanlı GTA V/GTA 6 sunucu kurulum, oyuncu yönetimi ve web tabanlı yönetici paneli sunan proje.
+      </div>
+      <div style="color:#8b949e; font-size:1em; margin-bottom:10px;">
+        <b>Technologies:</b> Cfx.re (FiveM), React + TypeScript, .NET Core (C#) + Discord.Net bot, MySQL, Docker/VPS
+      </div>
+      <div style="color:#58a6ff; font-size:0.97em; margin-bottom:2px;">
+        <b>Date:</b> 30.03.2026
       </div>
     </td>
   </tr>
