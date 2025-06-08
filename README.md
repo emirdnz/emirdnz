@@ -48,6 +48,7 @@
       <div style="color:#8b949e; font-style:italic; font-size:1.05em; margin-bottom:22px; margin-top:2px;">
         Online bus ticket sales and reservation system
       </div>
+      <br>
       <div style="margin-bottom:22px;"></div>
       <div style="margin-bottom:10px;">
         <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
@@ -80,6 +81,7 @@
       <div style="color:#8b949e; font-style:italic; font-size:1.05em; margin-bottom:22px; margin-top:2px;">
         Basic banking operations management platform
       </div>
+      <br>
       <div style="margin-bottom:22px;"></div>
       <div style="margin-bottom:10px;">
         <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
