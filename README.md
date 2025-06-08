@@ -443,7 +443,7 @@
       <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
         <img src="https://img.icons8.com/ios-filled/40/ffffff/discord-logo.png" alt="Discord Bot Icon"/>
         <span style="color:#fff; font-size:1.6em; font-weight:900; letter-spacing:1px; font-family:Segoe UI,Arial,sans-serif;">
-          Polebot-dicord.net
+          Polebot-discord.net
         </span>
       </div>
       <hr style="border:0; border-top:2px solid #fff; margin:8px 0 16px 0;">
@@ -456,8 +456,6 @@
       </div>
       <br>
       <div style="margin-bottom:18px; display:flex; gap:6px; flex-wrap:nowrap;">
-        <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# Badge"/>
-        <img src="https://img.shields.io/badge/Discord.Net-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord.Net Badge"/>
         <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Badge"/>
         <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite Badge"/>
       </div>
