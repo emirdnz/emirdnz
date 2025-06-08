@@ -36,57 +36,61 @@
 
 <table>
   <tr>
-    <td width="49%" valign="top" style="background:#161b22; border:1px solid #30363d; border-radius:10px; padding:32px; margin:0 12px 24px 0;">
-      <div style="display:flex;align-items:center;gap:10px;">
-        <img src="https://img.icons8.com/ios-filled/28/ffffff/bus.png" alt="bus icon" style="vertical-align:middle;" />
-        <span style="color:#f0f6fc; font-size:1.5em; font-weight:900; letter-spacing:1px; font-family:Segoe UI,Arial,sans-serif;">BUS-TICKET-SYSTEM</span>
+    <td width="54%" valign="top" style="background:#161b22; border:1px solid #30363d; border-radius:12px; padding:36px; margin:0 18px 28px 0;">
+      <div style="display:flex;align-items:center;gap:12px;">
+        <img src="https://img.icons8.com/ios-filled/32/ffffff/bus.png" alt="bus icon" style="vertical-align:middle;" />
+        <span style="color:#f0f6fc; font-size:1.7em; font-weight:900; letter-spacing:1px; font-family:Segoe UI,Arial,sans-serif;">BUS-TICKET-SYSTEM</span>
       </div>
-      <hr style="border:0;border-top:2px solid #30363d;margin:16px 0;">
-      <div style="color:#e6edf3;font-weight:700;font-size:1.08em;margin-bottom:6px; font-family:Segoe UI,Arial,sans-serif;">
+      <hr style="border:0;border-top:2px solid #30363d;margin:18px 0;">
+      <div style="color:#e6edf3;font-weight:700;font-size:1.13em;margin-bottom:0; font-family:Segoe UI,Arial,sans-serif;">
         Otobüs biletlerini çevrimiçi satma ve rezervasyon sistemi
       </div>
-      <div style="color:#8b949e;margin-bottom:18px; font-style:italic; font-size:1em;">
+      <div style="color:#8b949e; font-style:italic; font-size:1.05em; margin-bottom:22px; margin-top:2px;">
         Online bus ticket sales and reservation system
       </div>
+      <div style="margin-bottom:18px;"></div>
       <div style="margin-bottom:10px;">
         <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
         <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/>
         <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white"/>
       </div>
+      <div style="margin-bottom:10px;"></div>
       <div style="margin-bottom:10px;">
         <img src="https://img.shields.io/badge/Development-grey?style=flat&logo=github" alt="development"/>
         <img src="https://img.shields.io/badge/Geliştiriliyor-grey?style=flat&logo=github" alt="gelistiriliyor"/>
       </div>
-      <div style="margin-bottom:10px;">
+      <div>
         <img src="https://img.shields.io/badge/In%20Progress-007bff?style=flat&logo=github&logoColor=white" alt="in progress"/>
         <img src="https://img.shields.io/badge/Devam%20Ediyor-007bff?style=flat&logo=github&logoColor=white" alt="devam ediyor"/>
       </div>
     </td>
     <td width="2%"></td>
-    <td width="49%" valign="top" style="background:#161b22; border:1px solid #30363d; border-radius:10px; padding:32px; margin:0 0 24px 12px;">
-      <div style="display:flex;align-items:center;gap:10px;">
-        <img src="https://img.icons8.com/ios-filled/28/ffffff/bank.png" alt="bank icon" style="vertical-align:middle;" />
-        <span style="color:#f0f6fc; font-size:1.5em; font-weight:900; letter-spacing:1px; font-family:Segoe UI,Arial,sans-serif;">BANK-SYSTEM</span>
+    <td width="54%" valign="top" style="background:#161b22; border:1px solid #30363d; border-radius:12px; padding:36px; margin:0 0 28px 18px;">
+      <div style="display:flex;align-items:center;gap:12px;">
+        <img src="https://img.icons8.com/ios-filled/32/ffffff/bank.png" alt="bank icon" style="vertical-align:middle;" />
+        <span style="color:#f0f6fc; font-size:1.7em; font-weight:900; letter-spacing:1px; font-family:Segoe UI,Arial,sans-serif;">BANK-SYSTEM</span>
       </div>
-      <hr style="border:0;border-top:2px solid #30363d;margin:16px 0;">
-      <div style="color:#e6edf3;font-weight:700;font-size:1.08em;margin-bottom:6px; font-family:Segoe UI,Arial,sans-serif;">
+      <hr style="border:0;border-top:2px solid #30363d;margin:18px 0;">
+      <div style="color:#e6edf3;font-weight:700;font-size:1.13em;margin-bottom:0; font-family:Segoe UI,Arial,sans-serif;">
         Temel bankacılık işlemleri yönetim platformu
       </div>
-      <div style="color:#8b949e;margin-bottom:18px; font-style:italic; font-size:1em;">
+      <div style="color:#8b949e; font-style:italic; font-size:1.05em; margin-bottom:22px; margin-top:2px;">
         Basic banking operations management platform
       </div>
+      <div style="margin-bottom:18px;"></div>
       <div style="margin-bottom:10px;">
         <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
         <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/>
         <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white"/>
       </div>
+      <div style="margin-bottom:10px;"></div>
       <div style="margin-bottom:10px;">
         <img src="https://img.shields.io/badge/Development-grey?style=flat&logo=github" alt="development"/>
         <img src="https://img.shields.io/badge/Geliştiriliyor-grey?style=flat&logo=github" alt="gelistiriliyor"/>
       </div>
-      <div style="margin-bottom:10px;">
+      <div>
         <img src="https://img.shields.io/badge/In%20Progress-007bff?style=flat&logo=github&logoColor=white" alt="in progress"/>
         <img src="https://img.shields.io/badge/Devam%20Ediyor-007bff?style=flat&logo=github&logoColor=white" alt="devam ediyor"/>
       </div>
