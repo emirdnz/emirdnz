@@ -591,11 +591,10 @@
     </td>
     <!-- 16. Proje -->
     <td width="50%" valign="top"
-        style="background:linear-gradient(135deg,#232526 0%,#414345 100%);
-               border:1px solid #30363d;               border-radius:20px;
+        style="background:linear-gradient(135deg,#232526 0%,#414345 100%);               border:1px solid #30363d;               border-radius:20px;
                padding:36px 32px;
                margin:0 0 36px 8px;
-               box-shadow:0 6px 32px #00000044;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">        <img src="https://cdn-icons-png.flaticon.com/512/5815/5815719.png" alt="Game Server Icon" width="40"/>        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
+               box-shadow:0 6px 32px #00000044;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">        <img src="https://cdn-icons-png.flaticon.com/512/686/686589.png" alt="Game Console Icon" width="40" style="filter: brightness(0) invert(1);"/>        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
           Oyun Sunucusu Platformu
         </span>
       </div>
