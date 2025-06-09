@@ -1,7 +1,16 @@
 # 💫 Hakkımda / About Me
 
 - 🚀 Full-stack yazılım geliştirici / Full-stack software developer
-- 👥 Takım çalışmasına yatkın ve iletişimi güçlü / Strong team player with excellent communication skills
+- 👥 Takım çalışmasına yatkın ve iletişimi güçlü / Strong team player      <div style="margin-bottom:18px; display:flex; gap:6px; flex-wrap:wrap;">
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/>
+        <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Badge"/>
+        <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server Badge"/>
+      </div>
+      <br>
+      <div>
+        <span style="background:#21262d; border-radius:8px; padding:6px 16px; color:#7ee787; font-size:1.08em; font-weight:700; letter-spacing:0.5px;">
+          📅 15.08.2025llent communication skills
 - 📚 Sürekli öğrenmeye ve gelişime açık / Passionate about continuous learning and development
 - 💡 Yeni teknolojileri öğrenmeye istekli / Eager to learn new technologies
 - ⚡ Proaktif ve çözüm odaklı yaklaşım / Proactive and solution-oriented approach
@@ -35,11 +44,10 @@
 ## 🚀 Gelecek Olan Projelerim / Upcoming Projects
 
 <table cellpadding="0" cellspacing="0" width="100%">
-  <tr style="vertical-align:top;">
-    <!-- 1. Proje -->
+  <tr style="vertical-align:top;">    <!-- 1. Proje -->
     <td width="50%" valign="top"
         style="background:linear-gradient(135deg,#232526 0%,#414345 100%);border:1px solid #30363d;border-radius:20px;padding:36px 32px;margin:0 8px 36px 0;box-shadow:0 6px 32px #00000044;vertical-align:top;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
-        <img src="https://cdn-icons-png.flaticon.com/512/3028/3028873.png" alt="Bus Ticket Icon" width="40"/>
+        <img src="https://cdn-icons-png.flaticon.com/512/5088/5088426.png" alt="Bus Ticket Icon" width="40"/>
         <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
           BUS-TICKET-SYSTEM
         </span>
@@ -60,23 +68,20 @@
         <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server Badge"/>
       </div>
       <br>      <div>
-        <span style="background:#21262d; border-radius:8px; padding:6px 16px; color:#7ee787; font-size:1.08em; font-weight:700; letter-spacing:0.5px;">
-          📅 15.08.2025
+        <span style="background:#21262d; border-radius:8px; padding:6px 16px; color:#7ee787; font-size:1.08em; font-weight:700; letter-spacing:0.5px;">          📅 30.08.2026
           <span style="color:#b3bfc9; font-size:0.95em; margin-left:8px;">
             | Tahmini Bitiş / Estimated Finish
           </span>
-        </span>
-        <div style="margin-top:12px;">
-          <img src="https://img.shields.io/badge/Development-grey?style=flat&logo=github" alt="Development Badge" style="margin:3px;"/>
-          <img src="https://img.shields.io/badge/Yapım%20Aşamasında-007bff?style=flat&logo=github&logoColor=white" alt="Yapım Aşamasında Badge" style="margin:3px;"/>
+        </span><div style="margin-top:12px;">
+          <img src="https://img.shields.io/badge/Status-Development-grey?style=flat&logo=github" alt="Development Badge" style="margin:3px;"/>
+          <img src="https://img.shields.io/badge/In%20Progress-007bff?style=flat&logo=github&logoColor=white" alt="In Progress Badge" style="margin:3px;"/>
         </div>
       </div>
     </td>
     <!-- 2. Proje -->
     <td width="50%" valign="top"
-        style="background:linear-gradient(135deg,#232526 0%,#414345 100%);border:1px solid #30363d;border-radius:20px;padding:36px 32px;margin:0 0 36px 8px;box-shadow:0 6px 32px #00000044;vertical-align:top;">
-      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
-        <img src="https://cdn-icons-png.flaticon.com/512/2830/2830284.png" alt="Bank Icon" width="40"/>
+        style="background:linear-gradient(135deg,#232526 0%,#414345 100%);border:1px solid #30363d;border-radius:20px;padding:36px 32px;margin:0 0 36px 8px;box-shadow:0 6px 32px #00000044;vertical-align:top;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
+        <img src="https://cdn-icons-png.flaticon.com/512/2332/2332886.png" alt="Bank Icon" width="40"/>
         <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
           BANK-SYSTEM
         </span>
@@ -89,8 +94,7 @@
       <div style="color:#b3bfc9; font-size:1.13em; margin-bottom:22px; font-weight:500;">
         Basic banking module for account opening, balance inquiry, deposit/withdrawal, and customer operations.
       </div>
-      <br>
-      <div style="margin-bottom:18px; display:flex; gap:6px; flex-wrap:nowrap;">
+      <br>      <div style="margin-bottom:18px; display:flex; gap:6px; flex-wrap:wrap;">
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/>
         <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Badge"/>
@@ -98,8 +102,7 @@
       </div>
       <br>
       <div>
-        <span style="background:#21262d; border-radius:8px; padding:6px 16px; color:#7ee787; font-size:1.08em; font-weight:700; letter-spacing:0.5px;">
-          📅 21.09.2025
+        <span style="background:#21262d; border-radius:8px; padding:6px 16px; color:#7ee787; font-size:1.08em; font-weight:700; letter-spacing:0.5px;">          📅 30.08.2026
           <span style="color:#b3bfc9; font-size:0.95em; margin-left:8px;">
             | Tahmini Bitiş / Estimated Finish
           </span>
@@ -114,9 +117,8 @@
   <tr style="vertical-align:top;">
     <!-- 3. Proje -->
     <td width="50%" valign="top"
-        style="background:linear-gradient(135deg,#232526 0%,#414345 100%);border:1px solid #30363d;border-radius:20px;padding:36px 32px;margin:0 8px 36px 0;box-shadow:0 6px 32px #00000044;vertical-align:top;">
-      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
-        <img src="https://react.dev/favicon.ico" alt="React Icon" width="40"/>
+        style="background:linear-gradient(135deg,#232526 0%,#414345 100%);border:1px solid #30363d;border-radius:20px;padding:36px 32px;margin:0 8px 36px 0;box-shadow:0 6px 32px #00000044;vertical-align:top;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
+        <img src="https://cdn-icons-png.flaticon.com/512/2972/2972362.png" alt="Mobile Banking Icon" width="40"/>
         <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
           MOBILE-BANK-SYSTEM
         </span>
@@ -129,8 +131,7 @@
       <div style="color:#b3bfc9; font-size:1.13em; margin-bottom:22px; font-weight:500;">
         Mobile banking app optimized for smartphones and tablets with user-friendly interface.
       </div>
-      <br>
-      <div style="margin-bottom:18px; display:flex; gap:6px; flex-wrap:nowrap;">
+      <br>      <div style="margin-bottom:18px; display:flex; gap:6px; flex-wrap:wrap;">
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/>
         <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Badge"/>
@@ -138,8 +139,7 @@
       </div>
       <br>
       <div>
-        <span style="background:#21262d; border-radius:8px; padding:6px 16px; color:#7ee787; font-size:1.08em; font-weight:700; letter-spacing:0.5px;">
-          📅 05.12.2025
+        <span style="background:#21262d; border-radius:8px; padding:6px 16px; color:#7ee787; font-size:1.08em; font-weight:700; letter-spacing:0.5px;">          📅 30.08.2026
           <span style="color:#b3bfc9; font-size:0.95em; margin-left:8px;">
             | Tahmini Bitiş / Estimated Finish
           </span>
@@ -152,9 +152,8 @@
     </td>
     <!-- 4. Proje -->
     <td width="50%" valign="top"
-        style="background:linear-gradient(135deg,#232526 0%,#414345 100%);border:1px solid #30363d;border-radius:20px;padding:36px 32px;margin:0 0 36px 8px;box-shadow:0 6px 32px #00000044;vertical-align:top;">
-      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
-        <img src="https://cdn-icons-png.flaticon.com/512/2331/2331941.png" alt="ATM Icon" width="40"/>
+        style="background:linear-gradient(135deg,#232526 0%,#414345 100%);border:1px solid #30363d;border-radius:20px;padding:36px 32px;margin:0 0 36px 8px;box-shadow:0 6px 32px #00000044;vertical-align:top;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
+        <img src="https://cdn-icons-png.flaticon.com/512/2161/2161324.png" alt="ATM Icon" width="40"/>
         <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
           ATM-PROJECT
         </span>
@@ -167,8 +166,7 @@
       <div style="color:#b3bfc9; font-size:1.13em; margin-bottom:22px; font-weight:500;">
         ATM device simulation with card reading, PIN verification, cash withdrawal/deposit, and receipt printing.
       </div>
-      <br>
-      <div style="margin-bottom:18px; display:flex; gap:6px; flex-wrap:nowrap;">
+      <br>      <div style="margin-bottom:18px; display:flex; gap:6px; flex-wrap:wrap;">
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/>
         <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Badge"/>
@@ -176,8 +174,7 @@
       </div>
       <br>
       <div>
-        <span style="background:#21262d; border-radius:8px; padding:6px 16px; color:#7ee787; font-size:1.08em; font-weight:700; letter-spacing:0.5px;">
-          📅 15.10.2025
+        <span style="background:#21262d; border-radius:8px; padding:6px 16px; color:#7ee787; font-size:1.08em; font-weight:700; letter-spacing:0.5px;">          📅 30.08.2026
           <span style="color:#b3bfc9; font-size:0.95em; margin-left:8px;">
             | Tahmini Bitiş / Estimated Finish
           </span>
@@ -192,9 +189,8 @@
   <tr style="vertical-align:top;">
     <!-- 5. Proje -->
     <td width="50%" valign="top"
-        style="background:linear-gradient(135deg,#232526 0%,#414345 100%);border:1px solid #30363d;border-radius:20px;padding:36px 32px;margin:0 8px 36px 0;box-shadow:0 6px 32px #00000044;vertical-align:top;">
-      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
-        <img src="https://react.dev/favicon.ico" alt="React Icon" width="40"/>
+        style="background:linear-gradient(135deg,#232526 0%,#414345 100%);border:1px solid #30363d;border-radius:20px;padding:36px 32px;margin:0 8px 36px 0;box-shadow:0 6px 32px #00000044;vertical-align:top;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
+        <img src="https://cdn-icons-png.flaticon.com/512/8688/8688503.png" alt="Machine Automation Icon" width="40"/>
         <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
           MACHINE-AUTOMATION
         </span>
@@ -207,8 +203,7 @@
       <div style="color:#b3bfc9; font-size:1.13em; margin-bottom:22px; font-weight:500;">
         Control system for automating job orders and monitoring production in CNC machines with process notifications.
       </div>
-      <br>
-      <div style="margin-bottom:18px; display:flex; gap:6px; flex-wrap:nowrap;">
+      <br>      <div style="margin-bottom:18px; display:flex; gap:6px; flex-wrap:wrap;">
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/>
         <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Badge"/>
@@ -217,8 +212,7 @@
       </div>
       <br>
       <div>
-        <span style="background:#21262d; border-radius:8px; padding:6px 16px; color:#7ee787; font-size:1.08em; font-weight:700; letter-spacing:0.5px;">
-          📅 08.11.2025
+        <span style="background:#21262d; border-radius:8px; padding:6px 16px; color:#7ee787; font-size:1.08em; font-weight:700; letter-spacing:0.5px;">          📅 30.08.2026
           <span style="color:#b3bfc9; font-size:0.95em; margin-left:8px;">
             | Tahmini Bitiş / Estimated Finish
           </span>
@@ -231,8 +225,7 @@
     </td>
     <!-- 6. Proje -->
     <td width="50%" valign="top"
-        style="background:linear-gradient(135deg,#232526 0%,#414345 100%);border:1px solid #30363d;border-radius:20px;padding:36px 32px;margin:0 0 36px 8px;box-shadow:0 6px 32px #00000044;vertical-align:top;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
-        <img src="https://react.dev/favicon.ico" alt="React Icon" width="40"/>
+        style="background:linear-gradient(135deg,#232526 0%,#414345 100%);border:1px solid #30363d;border-radius:20px;padding:36px 32px;margin:0 0 36px 8px;box-shadow:0 6px 32px #00000044;vertical-align:top;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">        <img src="https://cdn-icons-png.flaticon.com/512/3959/3959542.png" alt="Blog Icon" width="40"/>
         <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
           My-Blog-Web-Site-Project
         </span>
@@ -245,8 +238,7 @@
       <div style="color:#b3bfc9; font-size:1.13em; margin-bottom:22px; font-weight:500;">
         Personal blog CMS for creating, editing posts and managing content with categories and tags.
       </div>
-      <br>
-      <div style="margin-bottom:18px; display:flex; gap:6px; flex-wrap:nowrap;">
+      <br>      <div style="margin-bottom:18px; display:flex; gap:6px; flex-wrap:wrap;">
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/>
         <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Badge"/>
@@ -254,8 +246,7 @@
       </div>
       <br>
       <div>
-        <span style="background:#21262d; border-radius:8px; padding:6px 16px; color:#7ee787; font-size:1.08em; font-weight:700; letter-spacing:0.5px;">
-          📅 30.09.2025
+        <span style="background:#21262d; border-radius:8px; padding:6px 16px; color:#7ee787; font-size:1.08em; font-weight:700; letter-spacing:0.5px;">          📅 30.08.2026
           <span style="color:#b3bfc9; font-size:0.95em; margin-left:8px;">
             | Tahmini Bitiş / Estimated Finish
           </span>
@@ -270,8 +261,7 @@
   <tr style="vertical-align:top;">
     <!-- 7. Proje -->
     <td width="50%" valign="top"
-        style="background:linear-gradient(135deg,#232526 0%,#414345 100%);border:1px solid #30363d;border-radius:20px;padding:36px 32px;margin:0 8px 36px 0;box-shadow:0 6px 32px #00000044;vertical-align:top;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
-        <img src="https://react.dev/favicon.ico" alt="React Icon" width="40"/>
+        style="background:linear-gradient(135deg,#232526 0%,#414345 100%);border:1px solid #30363d;border-radius:20px;padding:36px 32px;margin:0 8px 36px 0;box-shadow:0 6px 32px #00000044;vertical-align:top;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">        <img src="https://cdn-icons-png.flaticon.com/512/1570/1570887.png" alt="HR System Icon" width="40"/>
         <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
           IK-System
         </span>
@@ -284,8 +274,7 @@
       <div style="color:#b3bfc9; font-size:1.13em; margin-bottom:22px; font-weight:500;">
         HR panel for recruitment, personnel data, leave and payroll tracking.
       </div>
-      <br>
-      <div style="margin-bottom:18px; display:flex; gap:6px; flex-wrap:nowrap;">
+      <br>      <div style="margin-bottom:18px; display:flex; gap:6px; flex-wrap:wrap;">
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/>
         <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Badge"/>
@@ -293,8 +282,7 @@
       </div>
       <br>
       <div>
-        <span style="background:#21262d; border-radius:8px; padding:6px 16px; color:#7ee787; font-size:1.08em; font-weight:700; letter-spacing:0.5px;">
-          📅 18.12.2025
+        <span style="background:#21262d; border-radius:8px; padding:6px 16px; color:#7ee787; font-size:1.08em; font-weight:700; letter-spacing:0.5px;">          📅 30.08.2026
           <span style="color:#b3bfc9; font-size:0.95em; margin-left:8px;">
             | Tahmini Bitiş / Estimated Finish
           </span>
@@ -321,8 +309,7 @@
       <div style="color:#b3bfc9; font-size:1.13em; margin-bottom:22px; font-weight:500;">
         E-commerce clone app with product listing, cart, payment integration and user profile management.
       </div>
-      <br>
-      <div style="margin-bottom:18px; display:flex; gap:6px; flex-wrap:nowrap;">
+      <br>      <div style="margin-bottom:18px; display:flex; gap:6px; flex-wrap:wrap;">
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/>
         <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Badge"/>
@@ -330,8 +317,7 @@
       </div>
       <br>
       <div>
-        <span style="background:#21262d; border-radius:8px; padding:6px 16px; color:#7ee787; font-size:1.08em; font-weight:700; letter-spacing:0.5px;">
-          📅 22.10.2025
+        <span style="background:#21262d; border-radius:8px; padding:6px 16px; color:#7ee787; font-size:1.08em; font-weight:700; letter-spacing:0.5px;">          📅 30.08.2026
           <span style="color:#b3bfc9; font-size:0.95em; margin-left:8px;">
             | Tahmini Bitiş / Estimated Finish
           </span>
@@ -352,8 +338,7 @@
                padding:36px 32px;
                margin:0 8px 36px 0;
                box-shadow:0 6px 32px #00000044;">
-      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
-        <img src="https://react.dev/favicon.ico" alt="React Icon" width="40"/>
+      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">        <img src="https://cdn-icons-png.flaticon.com/512/4080/4080447.png" alt="Restaurant Menu Icon" width="40"/>
         <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
           Restaurant-Menu-System
         </span>
@@ -366,8 +351,7 @@
       <div style="color:#b3bfc9; font-size:1.13em; margin-bottom:22px; font-weight:500;">
         System for managing restaurant menu items, categories and pricing.
       </div>
-      <br>
-      <div style="margin-bottom:18px; display:flex; gap:6px; flex-wrap:nowrap;">
+      <br>      <div style="margin-bottom:18px; display:flex; gap:6px; flex-wrap:wrap;">
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/>
         <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Badge"/>
@@ -375,8 +359,7 @@
       </div>
       <br>
       <div>
-        <span style="background:#21262d; border-radius:8px; padding:6px 16px; color:#7ee787; font-size:1.08em; font-weight:700; letter-spacing:0.5px;">
-          📅 15.11.2025
+        <span style="background:#21262d; border-radius:8px; padding:6px 16px; color:#7ee787; font-size:1.08em; font-weight:700; letter-spacing:0.5px;">          📅 30.08.2026
           <span style="color:#b3bfc9; font-size:0.95em; margin-left:8px;">
             | Tahmini Bitiş / Estimated Finish
           </span>
@@ -409,8 +392,7 @@
       <div style="color:#b3bfc9; font-size:1.13em; margin-bottom:22px; font-weight:500;">
         Discord bot infrastructure for moderation, command management and automatic notifications.
       </div>
-      <br>
-      <div style="margin-bottom:18px; display:flex; gap:6px; flex-wrap:nowrap;">
+      <br>      <div style="margin-bottom:18px; display:flex; gap:6px; flex-wrap:wrap;">
         <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# Badge"/>
         <img src="https://img.shields.io/badge/Discord.Net-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord.Net Badge"/>
         <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Badge"/>
@@ -418,8 +400,7 @@
       </div>
       <br>
       <div>
-        <span style="background:#21262d; border-radius:8px; padding:6px 16px; color:#7ee787; font-size:1.08em; font-weight:700; letter-spacing:0.5px;">
-          📅 25.08.2025
+        <span style="background:#21262d; border-radius:8px; padding:6px 16px; color:#7ee787; font-size:1.08em; font-weight:700; letter-spacing:0.5px;">          📅 30.08.2026
           <span style="color:#b3bfc9; font-size:0.95em; margin-left:8px;">
             | Tahmini Bitiş / Estimated Finish
           </span>
@@ -440,8 +421,7 @@
                padding:36px 32px;
                margin:0 8px 36px 0;
                box-shadow:0 6px 32px #00000044;">
-      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
-        <img src="https://react.dev/favicon.ico" alt="React Icon" width="40"/>
+      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">        <img src="https://cdn-icons-png.flaticon.com/512/1934/1934019.png" alt="CNC Website Icon" width="40"/>
         <span style="color:#2ecc71; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
           EmirOtomatCNCWebSiteProject
         </span>
@@ -456,8 +436,7 @@
         ✅ <b>Project completed!</b> <br>
         Corporate website for Emir Otomat CNC with product showcase, technical drawing upload and quotation form.
       </div>
-      <br>
-      <div style="margin-bottom:18px; display:flex; gap:6px; flex-wrap:nowrap;">
+      <br>      <div style="margin-bottom:18px; display:flex; gap:6px; flex-wrap:wrap;">
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/>
         <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Badge"/>
@@ -494,8 +473,7 @@
       <div style="color:#b3bfc9; font-size:1.13em; margin-bottom:22px; font-weight:500;">
         Three corporate websites for Deniz Holding and its subsidiaries.
       </div>
-      <br>
-      <div style="margin-bottom:18px; display:flex; gap:6px; flex-wrap:nowrap;">
+      <br>      <div style="margin-bottom:18px; display:flex; gap:6px; flex-wrap:wrap;">
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/>
         <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Badge"/>
@@ -503,8 +481,7 @@
       </div>
       <br>
       <div>
-        <span style="background:#21262d; border-radius:8px; padding:6px 16px; color:#7ee787; font-size:1.08em; font-weight:700; letter-spacing:0.5px;">
-          📅 05.01.2026
+        <span style="background:#21262d; border-radius:8px; padding:6px 16px; color:#7ee787; font-size:1.08em; font-weight:700; letter-spacing:0.5px;">          📅 30.08.2026
           <span style="color:#b3bfc9; font-size:0.95em; margin-left:8px;">
             | Tahmini Bitiş / Estimated Finish
           </span>
@@ -524,8 +501,7 @@
                border-radius:20px;
                padding:36px 32px;
                margin:0 8px 36px 0;
-               box-shadow:0 6px 32px #00000044;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
-        <img src="https://react.dev/favicon.ico" alt="React Icon" width="40"/>
+               box-shadow:0 6px 32px #00000044;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">        <img src="https://cdn-icons-png.flaticon.com/512/2282/2282188.png" alt="Templates Icon" width="40"/>
         <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
           My-React-Web-Site-Templates
         </span>
@@ -538,8 +514,7 @@
       <div style="color:#b3bfc9; font-size:1.13em; margin-bottom:22px; font-weight:500;">
         React template pack for quickly starting projects with ready-made components and different layouts.
       </div>
-      <br>
-      <div style="margin-bottom:18px; display:flex; gap:6px; flex-wrap:nowrap;">
+      <br>      <div style="margin-bottom:18px; display:flex; gap:6px; flex-wrap:wrap;">
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/>
         <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" alt="Storybook Badge"/>
@@ -547,8 +522,7 @@
       </div>
       <br>
       <div>
-        <span style="background:#21262d; border-radius:8px; padding:6px 16px; color:#7ee787; font-size:1.08em; font-weight:700; letter-spacing:0.5px;">
-          📅 10.02.2026
+        <span style="background:#21262d; border-radius:8px; padding:6px 16px; color:#7ee787; font-size:1.08em; font-weight:700; letter-spacing:0.5px;">          📅 30.08.2026
           <span style="color:#b3bfc9; font-size:0.95em; margin-left:8px;">
             | Tahmini Bitiş / Estimated Finish
           </span>
@@ -580,8 +554,7 @@
       <div style="color:#b3bfc9; font-size:1.13em; margin-bottom:22px; font-weight:500;">
         System for patients to book, change and cancel doctor and clinic appointments online.
       </div>
-      <br>
-      <div style="margin-bottom:18px; display:flex; gap:6px; flex-wrap:nowrap;">
+      <br>      <div style="margin-bottom:18px; display:flex; gap:6px; flex-wrap:wrap;">
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/>
         <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Badge"/>
@@ -589,8 +562,7 @@
       </div>
       <br>
       <div>
-        <span style="background:#21262d; border-radius:8px; padding:6px 16px; color:#7ee787; font-size:1.08em; font-weight:700; letter-spacing:0.5px;">
-          📅 20.12.2025
+        <span style="background:#21262d; border-radius:8px; padding:6px 16px; color:#7ee787; font-size:1.08em; font-weight:700; letter-spacing:0.5px;">          📅 30.08.2026
           <span style="color:#b3bfc9; font-size:0.95em; margin-left:8px;">
             | Tahmini Bitiş / Estimated Finish
           </span>
@@ -610,8 +582,7 @@
                border-radius:20px;
                padding:36px 32px;
                margin:0 8px 36px 0;
-               box-shadow:0 6px 32px #00000044;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
-        <img src="https://react.dev/favicon.ico" alt="React Icon" width="40"/>
+               box-shadow:0 6px 32px #00000044;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">        <img src="https://cdn-icons-png.flaticon.com/512/4961/4961159.png" alt="Order Workflow Icon" width="40"/>
         <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
           EmirOtomat-OrderWorkflow-Platform
         </span>
@@ -624,8 +595,7 @@
       <div style="color:#b3bfc9; font-size:1.13em; margin-bottom:22px; font-weight:500;">
         Central platform for managing all stages of production orders from entry to invoicing (approval, tracking, notifications, maturity management).
       </div>
-      <br>
-      <div style="margin-bottom:18px; display:flex; gap:6px; flex-wrap:nowrap;">
+      <br>      <div style="margin-bottom:18px; display:flex; gap:6px; flex-wrap:wrap;">
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/>
         <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Badge"/>
@@ -634,8 +604,7 @@
       </div>
       <br>
       <div>
-        <span style="background:#21262d; border-radius:8px; padding:6px 16px; color:#7ee787; font-size:1.08em; font-weight:700; letter-spacing:0.5px;">
-          📅 18.09.2025
+        <span style="background:#21262d; border-radius:8px; padding:6px 16px; color:#7ee787; font-size:1.08em; font-weight:700; letter-spacing:0.5px;">          📅 30.08.2026
           <span style="color:#b3bfc9; font-size:0.95em; margin-left:8px;">
             | Tahmini Bitiş / Estimated Finish
           </span>
@@ -667,7 +636,7 @@
       <div style="color:#b3bfc9; font-size:1.13em; margin-bottom:22px; font-weight:500;">
         Project for FiveM-based GTA V/VI server setup, player management and web admin panel.
       </div>
-      <br>      <div style="margin-bottom:18px; display:flex; gap:6px; flex-wrap:nowrap;">
+      <br>      <div style="margin-bottom:18px; display:flex; gap:6px; flex-wrap:wrap;">
         <img src="https://img.shields.io/badge/Cfx.re-FF4754?style=for-the-badge&logo=fivem&logoColor=white" alt="Cfx.re Badge"/>
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/>
@@ -677,8 +646,7 @@
       </div>
       <br>
       <div>
-        <span style="background:#21262d; border-radius:8px; padding:6px 16px; color:#7ee787; font-size:1.08em; font-weight:700; letter-spacing:0.5px;">
-          📅 27.10.2025
+        <span style="background:#21262d; border-radius:8px; padding:6px 16px; color:#7ee787; font-size:1.08em; font-weight:700; letter-spacing:0.5px;">          📅 30.08.2026
           <span style="color:#b3bfc9; font-size:0.95em; margin-left:8px;">
             | Tahmini Bitiş / Estimated Finish
           </span>
