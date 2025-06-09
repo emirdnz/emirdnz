@@ -42,11 +42,11 @@
 </div>
 
 ## 🚀 Gelecek Olan Projelerim / Upcoming Projects
-
+<!-- 1. Proje -->
 <table cellpadding="0" cellspacing="0" width="100%">
-  <tr style="vertical-align:top;">    <!-- 1. Proje -->
+  <tr style="vertical-align:top;">    
     <td width="50%" valign="top"
-        style="background:linear-gradient(135deg,#232526 0%,#414345 100%);border:1px solid #30363d;border-radius:20px;padding:36px 32px;margin:0 8px 36px 0;box-shadow:0 6px 32px #00000044;vertical-align:top;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">        <img src="https://cdn-icons-png.flaticon.com/512/3009/3009735.png" alt="Bus Ticket Icon" width="40"/>        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
+        style="background:linear-gradient(135deg,#232526 0%,#414345 100%);border:1px solid #30363d;border-radius:20px;padding:36px 32px;margin:0 8px 36px 0;box-shadow:0 6px 32px #00000044;vertical-align:top;"><div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;"><img src="https://www.streamlinehq.com/icons/download/bus-2--8895" alt="Bus Ticket Icon" width="40"/>        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
           Otobüs Bilet Sistemi
         </span>
       </div>
