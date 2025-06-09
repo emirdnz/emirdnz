@@ -46,7 +46,9 @@
 <table cellpadding="0" cellspacing="0" width="100%">
   <tr style="vertical-align:top;">    <!-- 1. Proje -->
     <td width="50%" valign="top"
-        style="background:linear-gradient(135deg,#232526 0%,#414345 100%);border:1px solid #30363d;border-radius:20px;padding:36px 32px;margin:0 8px 36px 0;box-shadow:0 6px 32px #00000044;vertical-align:top;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">        <img src="https://cdn-icons-png.flaticon.com/512/3009/3009735.png" alt="Bus Ticket Icon" width="40"/>        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
+        style="background:linear-gradient(135deg,#232526 0%,#414345 100%);border:1px solid #30363d;border-radius:20px;padding:36px 32px;margin:0 8px 36px 0;box-shadow:0 6px 32px #00000044;vertical-align:top;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
+        <img src="https://raw.githubusercontent.com/tabler/tabler-icons/master/icons/bus.svg" alt="Bus Icon" width="40" style="filter: invert(1);" />
+        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
           Otobüs Bilet Sistemi
         </span>
       </div>
@@ -77,7 +79,9 @@
     </td>
     <!-- 2. Proje -->
     <td width="50%" valign="top"
-        style="background:linear-gradient(135deg,#232526 0%,#414345 100%);border:1px solid #30363d;border-radius:20px;padding:36px 32px;margin:0 0 36px 8px;box-shadow:0 6px 32px #00000044;vertical-align:top;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">        <img src="https://cdn-icons-png.flaticon.com/512/2830/2830069.png" alt="Bank Icon" width="40"/>        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
+        style="background:linear-gradient(135deg,#232526 0%,#414345 100%);border:1px solid #30363d;border-radius:20px;padding:36px 32px;margin:0 0 36px 8px;box-shadow:0 6px 32px #00000044;vertical-align:top;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
+        <img src="https://raw.githubusercontent.com/tabler/tabler-icons/master/icons/building-bank.svg" alt="Bank Icon" width="40" style="filter: invert(1);" />
+        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
           Banka Sistemi
         </span>
       </div>
@@ -112,7 +116,9 @@
   <tr style="vertical-align:top;">
     <!-- 3. Proje -->
     <td width="50%" valign="top"
-        style="background:linear-gradient(135deg,#232526 0%,#414345 100%);border:1px solid #30363d;border-radius:20px;padding:36px 32px;margin:0 8px 36px 0;box-shadow:0 6px 32px #00000044;vertical-align:top;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">        <img src="https://cdn-icons-png.flaticon.com/512/2518/2518496.png" alt="Mobile Banking Icon" width="40"/>        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
+        style="background:linear-gradient(135deg,#232526 0%,#414345 100%);border:1px solid #30363d;border-radius:20px;padding:36px 32px;margin:0 8px 36px 0;box-shadow:0 6px 32px #00000044;vertical-align:top;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
+        <img src="https://raw.githubusercontent.com/tabler/tabler-icons/master/icons/device-mobile.svg" alt="Mobile Banking Icon" width="40" style="filter: invert(1);" />
+        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
           Mobil Banka Uygulaması
         </span>
       </div>
@@ -145,7 +151,8 @@
     </td>
     <!-- 4. Proje -->
     <td width="50%" valign="top"
-        style="background:linear-gradient(135deg,#232526 0%,#414345 100%);border:1px solid #30363d;border-radius:20px;padding:36px 32px;margin:0 0 36px 8px;box-shadow:0 6px 32px #00000044;vertical-align:top;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">        <img src="https://cdn-icons-png.flaticon.com/512/3731/3731166.png" alt="ATM Icon" width="40"/>
+        style="background:linear-gradient(135deg,#232526 0%,#414345 100%);border:1px solid #30363d;border-radius:20px;padding:36px 32px;margin:0 0 36px 8px;box-shadow:0 6px 32px #00000044;vertical-align:top;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
+        <img src="https://raw.githubusercontent.com/tabler/tabler-icons/master/icons/atm.svg" alt="ATM Icon" width="40" style="filter: invert(1);" />
         <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
           ATM Simülasyonu
         </span>
@@ -181,7 +188,9 @@
   <tr style="vertical-align:top;">
     <!-- 5. Proje -->
     <td width="50%" valign="top"
-        style="background:linear-gradient(135deg,#232526 0%,#414345 100%);border:1px solid #30363d;border-radius:20px;padding:36px 32px;margin:0 8px 36px 0;box-shadow:0 6px 32px #00000044;vertical-align:top;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">        <img src="https://cdn-icons-png.flaticon.com/512/5847/5847169.png" alt="Machine Automation Icon" width="40"/>        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
+        style="background:linear-gradient(135deg,#232526 0%,#414345 100%);border:1px solid #30363d;border-radius:20px;padding:36px 32px;margin:0 8px 36px 0;box-shadow:0 6px 32px #00000044;vertical-align:top;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
+        <img src="https://raw.githubusercontent.com/tabler/tabler-icons/master/icons/cpu.svg" alt="Machine Automation Icon" width="40" style="filter: invert(1);" />
+        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
           CNC Makine Otomasyonu
         </span>
       </div>
@@ -215,7 +224,9 @@
     </td>
     <!-- 6. Proje -->
     <td width="50%" valign="top"
-        style="background:linear-gradient(135deg,#232526 0%,#414345 100%);border:1px solid #30363d;border-radius:20px;padding:36px 32px;margin:0 0 36px 8px;box-shadow:0 6px 32px #00000044;vertical-align:top;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">        <img src="https://cdn-icons-png.flaticon.com/512/8635/8635521.png" alt="Blog Icon" width="40"/>        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
+        style="background:linear-gradient(135deg,#232526 0%,#414345 100%);border:1px solid #30363d;border-radius:20px;padding:36px 32px;margin:0 0 36px 8px;box-shadow:0 6px 32px #00000044;vertical-align:top;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
+        <img src="https://raw.githubusercontent.com/tabler/tabler-icons/master/icons/article.svg" alt="Blog Icon" width="40" style="filter: invert(1);" />
+        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
           Kişisel Blog Sitesi
         </span>
       </div>
@@ -250,7 +261,9 @@
   <tr style="vertical-align:top;">
     <!-- 7. Proje -->
     <td width="50%" valign="top"
-        style="background:linear-gradient(135deg,#232526 0%,#414345 100%);border:1px solid #30363d;border-radius:20px;padding:36px 32px;margin:0 8px 36px 0;box-shadow:0 6px 32px #00000044;vertical-align:top;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">        <img src="https://cdn-icons-png.flaticon.com/512/8382/8382834.png" alt="HR System Icon" width="40"/>        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
+        style="background:linear-gradient(135deg,#232526 0%,#414345 100%);border:1px solid #30363d;border-radius:20px;padding:36px 32px;margin:0 8px 36px 0;box-shadow:0 6px 32px #00000044;vertical-align:top;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
+        <img src="https://raw.githubusercontent.com/tabler/tabler-icons/master/icons/users-group.svg" alt="HR System Icon" width="40" style="filter: invert(1);" />
+        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
           İnsan Kaynakları Sistemi
         </span>
       </div>
@@ -283,7 +296,9 @@
     </td>
     <!-- 8. Proje -->
     <td width="50%" valign="top"
-        style="background:linear-gradient(135deg,#232526 0%,#414345 100%);border:1px solid #30363d;border-radius:20px;padding:36px 32px;margin:0 0 36px 8px;box-shadow:0 6px 32px #00000044;vertical-align:top;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968217.png" alt="Amazon Icon" width="40"/>        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
+        style="background:linear-gradient(135deg,#232526 0%,#414345 100%);border:1px solid #30363d;border-radius:20px;padding:36px 32px;margin:0 0 36px 8px;box-shadow:0 6px 32px #00000044;vertical-align:top;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
+        <img src="https://raw.githubusercontent.com/tabler/tabler-icons/master/icons/shopping-cart.svg" alt="Amazon Icon" width="40" style="filter: invert(1);" />
+        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
           Amazon E-Ticaret Klonu
         </span>
       </div>
@@ -324,7 +339,9 @@
                padding:36px 32px;
                margin:0 8px 36px 0;
                box-shadow:0 6px 32px #00000044;">
-      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">        <img src="https://cdn-icons-png.flaticon.com/512/8090/8090438.png" alt="Restaurant Menu Icon" width="40"/>        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
+      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
+        <img src="https://raw.githubusercontent.com/tabler/tabler-icons/master/icons/restaurant.svg" alt="Restaurant Menu Icon" width="40" style="filter: invert(1);" />
+        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
           Restoran Menü Yönetimi
         </span>
       </div>
@@ -365,7 +382,9 @@
                padding:36px 32px;
                margin:0 0 36px 8px;
                box-shadow:0 6px 32px #00000044;">
-      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" alt="Discord Icon" width="40"/>        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
+      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
+        <img src="https://raw.githubusercontent.com/tabler/tabler-icons/master/icons/brand-discord.svg" alt="Discord Icon" width="40" style="filter: invert(1);" />
+        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
           Discord Bot Uygulaması
         </span>
       </div>
@@ -405,7 +424,9 @@
                border-radius:20px;
                padding:36px 32px;
                margin:0 8px 36px 0;
-               box-shadow:0 6px 32px #00000044;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">        <img src="https://cdn-icons-png.flaticon.com/512/4876/4876647.png" alt="CNC Website Icon" width="40"/>        <span style="color:#2ecc71; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
+               box-shadow:0 6px 32px #00000044;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
+        <img src="https://raw.githubusercontent.com/tabler/tabler-icons/master/icons/building.svg" alt="CNC Website Icon" width="40" style="filter: invert(1);" />
+        <span style="color:#2ecc71; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
           CNC Kurumsal Web Sitesi
         </span>
       </div>
@@ -442,7 +463,9 @@
                border-radius:20px;
                padding:36px 32px;
                margin:0 0 36px 8px;
-               box-shadow:0 6px 32px #00000044;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">        <img src="https://cdn-icons-png.flaticon.com/512/3387/3387987.png" alt="Corporate Website Icon" width="40"/>        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
+               box-shadow:0 6px 32px #00000044;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
+        <img src="https://raw.githubusercontent.com/tabler/tabler-icons/master/icons/building-community.svg" alt="Corporate Website Icon" width="40" style="filter: invert(1);" />
+        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
           Kurumsal Web Siteleri
         </span>
       </div>
@@ -482,7 +505,9 @@
                border-radius:20px;
                padding:36px 32px;
                margin:0 8px 36px 0;
-               box-shadow:0 6px 32px #00000044;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">        <img src="https://cdn-icons-png.flaticon.com/512/3334/3334886.png" alt="Templates Icon" width="40"/>        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
+               box-shadow:0 6px 32px #00000044;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
+        <img src="https://raw.githubusercontent.com/tabler/tabler-icons/master/icons/layout-dashboard.svg" alt="Templates Icon" width="40" style="filter: invert(1);" />
+        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
           React Web Şablonları
         </span>
       </div>
@@ -520,7 +545,9 @@
                border-radius:20px;
                padding:36px 32px;
                margin:0 0 36px 8px;
-               box-shadow:0 6px 32px #00000044;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">        <img src="https://cdn-icons-png.flaticon.com/512/3004/3004458.png" alt="Hospital Appointment Icon" width="40"/>        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
+               box-shadow:0 6px 32px #00000044;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
+        <img src="https://raw.githubusercontent.com/tabler/tabler-icons/master/icons/calendar-event.svg" alt="Hospital Appointment Icon" width="40" style="filter: invert(1);" />
+        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
           Hastane Randevu Sistemi
         </span>
       </div>
@@ -559,7 +586,9 @@
                border:1px solid #30363d;               border-radius:20px;
                padding:36px 32px;
                margin:0 8px 36px 0;
-               box-shadow:0 6px 32px #00000044;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">        <img src="https://cdn-icons-png.flaticon.com/512/3500/3500833.png" alt="Order Workflow Icon" width="40"/>        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
+               box-shadow:0 6px 32px #00000044;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
+        <img src="https://raw.githubusercontent.com/tabler/tabler-icons/master/icons/receipt.svg" alt="Order Workflow Icon" width="40" style="filter: invert(1);" />
+        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
           Sipariş Yönetim Platformu
         </span>
       </div>
@@ -597,7 +626,7 @@
                padding:36px 32px;
                margin:0 0 36px 8px;
                box-shadow:0 6px 32px #00000044;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
-        <img src="https://cdn-icons-png.flaticon.com/512/686/686589.png" alt="Game Console Icon" width="40" style="filter: brightness(0) invert(1);"/>
+        <img src="https://raw.githubusercontent.com/tabler/tabler-icons/master/icons/device-gamepad.svg" alt="Game Console Icon" width="40" style="filter: invert(1);" />
         <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
           Oyun Sunucusu Platformu
         </span>
