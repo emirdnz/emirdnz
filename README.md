@@ -1,16 +1,7 @@
 # 💫 Hakkımda / About Me
 
 - 🚀 Full-stack yazılım geliştirici / Full-stack software developer
-- 👥 Takım çalışmasına yatkın ve iletişimi güçlü / Strong team player      <div style="margin-bottom:18px; display:flex; gap:6px; flex-wrap:wrap;">
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/>
-        <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Badge"/>
-        <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server Badge"/>
-      </div>
-      <br>
-      <div>
-        <span style="background:#21262d; border-radius:8px; padding:6px 16px; color:#7ee787; font-size:1.08em; font-weight:700; letter-spacing:0.5px;">
-          📅 15.08.2025llent communication skills
+- 👥 Takım çalışmasına yatkın ve iletişimi güçlü / Strong team player     
 - 📚 Sürekli öğrenmeye ve gelişime açık / Passionate about continuous learning and development
 - 💡 Yeni teknolojileri öğrenmeye istekli / Eager to learn new technologies
 - ⚡ Proaktif ve çözüm odaklı yaklaşım / Proactive and solution-oriented approach
