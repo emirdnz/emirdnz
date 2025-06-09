@@ -407,8 +407,8 @@
                border-radius:20px;
                padding:36px 32px;
                margin:0 8px 36px 0;
-               box-shadow:0 6px 32px #00000044;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">        <img src="https://cdn-icons-png.flaticon.com/512/4876/4876647.png" alt="CNC Website Icon" width="40"/>        <span style="color:#2ecc71; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
-          CNC Kurumsal Web Sitesi
+               box-shadow:0 6px 32px #00000044;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">        <img src="https://img.icons8.com/?size=100&id=104329&format=png&color=000000" alt="CNC Website Icon" width="40"/>        <span style="color:#2ecc71; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
+          EMIR OTOMAT CNC WEB SITE PROJCET 
         </span>
       </div>
       <hr style="border:0; border-top:2px solid #2ecc71; margin:8px 0 16px 0;">
@@ -444,8 +444,8 @@
                border-radius:20px;
                padding:36px 32px;
                margin:0 0 36px 8px;
-               box-shadow:0 6px 32px #00000044;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">        <img src="https://cdn-icons-png.flaticon.com/512/3387/3387987.png" alt="Corporate Website Icon" width="40"/>        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
-          Kurumsal Web Siteleri
+               box-shadow:0 6px 32px #00000044;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">        <img src="https://img.icons8.com/?size=100&id=104329&format=png&color=000000" alt="Corporate Website Icon" width="40"/>        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
+          DENIZ HOLDING WEB SITE PROJECT 
         </span>
       </div>
       <hr style="border:0; border-top:2px solid #fff; margin:8px 0 16px 0;">
@@ -485,7 +485,7 @@
                padding:36px 32px;
                margin:0 8px 36px 0;
                box-shadow:0 6px 32px #00000044;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">        <img src="https://cdn-icons-png.flaticon.com/512/3334/3334886.png" alt="Templates Icon" width="40"/>        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
-          React Web Şablonları
+          REACT WEB SITE TEMPLATES PROJECT
         </span>
       </div>
       <hr style="border:0; border-top:2px solid #fff; margin:8px 0 16px 0;">
@@ -523,7 +523,7 @@
                padding:36px 32px;
                margin:0 0 36px 8px;
                box-shadow:0 6px 32px #00000044;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">        <img src="https://cdn-icons-png.flaticon.com/512/3004/3004458.png" alt="Hospital Appointment Icon" width="40"/>        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
-          Hastane Randevu Sistemi
+          APPOINTMENT SYSTEM PROJECT (EXP: HOSPITAL)
         </span>
       </div>
       <hr style="border:0; border-top:2px solid #fff; margin:8px 0 16px 0;">
@@ -562,7 +562,7 @@
                padding:36px 32px;
                margin:0 8px 36px 0;
                box-shadow:0 6px 32px #00000044;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">        <img src="https://cdn-icons-png.flaticon.com/512/3500/3500833.png" alt="Order Workflow Icon" width="40"/>        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
-          Sipariş Yönetim Platformu
+          ORDER MANAGMENT SYSTEM PROJECT
         </span>
       </div>
       <hr style="border:0; border-top:2px solid #fff; margin:8px 0 16px 0;">
@@ -599,9 +599,9 @@
                padding:36px 32px;
                margin:0 0 36px 8px;
                box-shadow:0 6px 32px #00000044;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
-        <img src="https://cdn-icons-png.flaticon.com/512/686/686589.png" alt="Game Console Icon" width="40" style="filter: brightness(0) invert(1);"/>
+        <img src="https://img.icons8.com/?size=100&id=0wVFCuSSfKaB&format=png&color=000000" alt="Game Console Icon" width="40" style="filter: brightness(0) invert(1);"/>
         <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
-          Oyun Sunucusu Platformu
+          FIVEM SERVER PROJECTS
         </span>
       </div>
       <hr style="border:0; border-top:2px solid #fff; margin:8px 0 16px 0;">
