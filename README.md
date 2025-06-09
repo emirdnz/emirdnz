@@ -47,9 +47,8 @@
   <tr style="vertical-align:top;">    <!-- 1. Proje -->
     <td width="50%" valign="top"
         style="background:linear-gradient(135deg,#232526 0%,#414345 100%);border:1px solid #30363d;border-radius:20px;padding:36px 32px;margin:0 8px 36px 0;box-shadow:0 6px 32px #00000044;vertical-align:top;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
-        <img src="https://cdn-icons-png.flaticon.com/512/5088/5088426.png" alt="Bus Ticket Icon" width="40"/>
-        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
-          BUS-TICKET-SYSTEM
+        <img src="https://cdn-icons-png.flaticon.com/512/8345/8345184.png" alt="Bus Ticket Icon" width="40"/>        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
+          BUS-TICKET-SYSTEM Project
         </span>
       </div>
       <hr style="border:0; border-top:2px solid #fff; margin:8px 0 16px 0;">
@@ -60,8 +59,7 @@
       <div style="color:#b3bfc9; font-size:1.13em; margin-bottom:22px; font-weight:500;">
         Online bus ticket sales, reservation management, and passenger tracking platform.
       </div>
-      <br>
-      <div style="margin-bottom:18px; display:flex; gap:6px; flex-wrap:nowrap;">
+      <br>      <div style="margin-bottom:18px; display:flex; gap:6px; flex-wrap:wrap;">
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/>
         <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Badge"/>
@@ -81,9 +79,8 @@
     <!-- 2. Proje -->
     <td width="50%" valign="top"
         style="background:linear-gradient(135deg,#232526 0%,#414345 100%);border:1px solid #30363d;border-radius:20px;padding:36px 32px;margin:0 0 36px 8px;box-shadow:0 6px 32px #00000044;vertical-align:top;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
-        <img src="https://cdn-icons-png.flaticon.com/512/2332/2332886.png" alt="Bank Icon" width="40"/>
-        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
-          BANK-SYSTEM
+        <img src="https://cdn-icons-png.flaticon.com/512/4142/4142944.png" alt="Bank Icon" width="40"/>        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
+          BANK-SYSTEM Project
         </span>
       </div>
       <hr style="border:0; border-top:2px solid #fff; margin:8px 0 16px 0;">
@@ -118,9 +115,8 @@
     <!-- 3. Proje -->
     <td width="50%" valign="top"
         style="background:linear-gradient(135deg,#232526 0%,#414345 100%);border:1px solid #30363d;border-radius:20px;padding:36px 32px;margin:0 8px 36px 0;box-shadow:0 6px 32px #00000044;vertical-align:top;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
-        <img src="https://cdn-icons-png.flaticon.com/512/2972/2972362.png" alt="Mobile Banking Icon" width="40"/>
-        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
-          MOBILE-BANK-SYSTEM
+        <img src="https://cdn-icons-png.flaticon.com/512/2097/2097276.png" alt="Mobile Banking Icon" width="40"/>        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
+          MOBILE-BANK-SYSTEM Project
         </span>
       </div>
       <hr style="border:0; border-top:2px solid #fff; margin:8px 0 16px 0;">
@@ -153,7 +149,7 @@
     <!-- 4. Proje -->
     <td width="50%" valign="top"
         style="background:linear-gradient(135deg,#232526 0%,#414345 100%);border:1px solid #30363d;border-radius:20px;padding:36px 32px;margin:0 0 36px 8px;box-shadow:0 6px 32px #00000044;vertical-align:top;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
-        <img src="https://cdn-icons-png.flaticon.com/512/2161/2161324.png" alt="ATM Icon" width="40"/>
+        <img src="https://cdn-icons-png.flaticon.com/512/2454/2454265.png" alt="ATM Icon" width="40"/>
         <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
           ATM-PROJECT
         </span>
@@ -190,9 +186,8 @@
     <!-- 5. Proje -->
     <td width="50%" valign="top"
         style="background:linear-gradient(135deg,#232526 0%,#414345 100%);border:1px solid #30363d;border-radius:20px;padding:36px 32px;margin:0 8px 36px 0;box-shadow:0 6px 32px #00000044;vertical-align:top;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
-        <img src="https://cdn-icons-png.flaticon.com/512/8688/8688503.png" alt="Machine Automation Icon" width="40"/>
-        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
-          MACHINE-AUTOMATION
+        <img src="https://cdn-icons-png.flaticon.com/512/5017/5017821.png" alt="Machine Automation Icon" width="40"/>        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
+          MACHINE-AUTOMATION Project
         </span>
       </div>
       <hr style="border:0; border-top:2px solid #fff; margin:8px 0 16px 0;">
@@ -225,9 +220,8 @@
     </td>
     <!-- 6. Proje -->
     <td width="50%" valign="top"
-        style="background:linear-gradient(135deg,#232526 0%,#414345 100%);border:1px solid #30363d;border-radius:20px;padding:36px 32px;margin:0 0 36px 8px;box-shadow:0 6px 32px #00000044;vertical-align:top;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">        <img src="https://cdn-icons-png.flaticon.com/512/3959/3959542.png" alt="Blog Icon" width="40"/>
-        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
-          My-Blog-Web-Site-Project
+        style="background:linear-gradient(135deg,#232526 0%,#414345 100%);border:1px solid #30363d;border-radius:20px;padding:36px 32px;margin:0 0 36px 8px;box-shadow:0 6px 32px #00000044;vertical-align:top;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">        <img src="https://cdn-icons-png.flaticon.com/512/6295/6295417.png" alt="Blog Icon" width="40"/>        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
+          My-Blog-Web-Site Project
         </span>
       </div>
       <hr style="border:0; border-top:2px solid #fff; margin:8px 0 16px 0;">
@@ -261,14 +255,13 @@
   <tr style="vertical-align:top;">
     <!-- 7. Proje -->
     <td width="50%" valign="top"
-        style="background:linear-gradient(135deg,#232526 0%,#414345 100%);border:1px solid #30363d;border-radius:20px;padding:36px 32px;margin:0 8px 36px 0;box-shadow:0 6px 32px #00000044;vertical-align:top;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">        <img src="https://cdn-icons-png.flaticon.com/512/1570/1570887.png" alt="HR System Icon" width="40"/>
-        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
-          IK-System
+        style="background:linear-gradient(135deg,#232526 0%,#414345 100%);border:1px solid #30363d;border-radius:20px;padding:36px 32px;margin:0 8px 36px 0;box-shadow:0 6px 32px #00000044;vertical-align:top;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">        <img src="https://cdn-icons-png.flaticon.com/512/3126/3126647.png" alt="HR System Icon" width="40"/>        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
+          IK-System Project
         </span>
       </div>
-      <hr style="border:0; border-top:2px solid #fff; margin:8px 0 16px 0;">
-      <div style="color:#b3bfc9; font-size:1.13em; margin-bottom:8px; font-weight:500;">
+      <hr style="border:0; border-top:2px solid #fff; margin:8px 0 16px 0;">      <div style="color:#b3bfc9; font-size:1.13em; margin-bottom:8px; font-weight:500;">
         İşe alım, personel verileri, izin ve puantaj takibi gibi insan kaynakları süreçlerini yöneten panel.
+        <br><span style="color:#f39c12; font-weight:700; margin-top:6px; display:inline-block;">⚠️ This is a school project</span>
       </div>
       <br>
       <div style="color:#b3bfc9; font-size:1.13em; margin-bottom:22px; font-weight:500;">
@@ -296,14 +289,13 @@
     <!-- 8. Proje -->
     <td width="50%" valign="top"
         style="background:linear-gradient(135deg,#232526 0%,#414345 100%);border:1px solid #30363d;border-radius:20px;padding:36px 32px;margin:0 0 36px 8px;box-shadow:0 6px 32px #00000044;vertical-align:top;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
-        <img src="https://cdn-icons-png.flaticon.com/512/732/732084.png" alt="Amazon Icon" width="40"/>
-        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
-          Amazon-Clone-Project
+        <img src="https://cdn-icons-png.flaticon.com/512/2335/2335604.png" alt="Amazon Icon" width="40"/>        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
+          Amazon-Clone Project
         </span>
       </div>
-      <hr style="border:0; border-top:2px solid #fff; margin:8px 0 16px 0;">
-      <div style="color:#b3bfc9; font-size:1.13em; margin-bottom:8px; font-weight:500;">
+      <hr style="border:0; border-top:2px solid #fff; margin:8px 0 16px 0;">      <div style="color:#b3bfc9; font-size:1.13em; margin-bottom:8px; font-weight:500;">
         Ürün listeleme, sepet, ödeme entegrasyonu ve kullanıcı profili yönetimini barındıran e-ticaret klon uygulaması.
+        <br><span style="color:#f39c12; font-weight:700; margin-top:6px; display:inline-block;">⚠️ This is a school project</span>
       </div>
       <br>
       <div style="color:#b3bfc9; font-size:1.13em; margin-bottom:22px; font-weight:500;">
@@ -338,14 +330,13 @@
                padding:36px 32px;
                margin:0 8px 36px 0;
                box-shadow:0 6px 32px #00000044;">
-      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">        <img src="https://cdn-icons-png.flaticon.com/512/4080/4080447.png" alt="Restaurant Menu Icon" width="40"/>
-        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
-          Restaurant-Menu-System
+      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">        <img src="https://cdn-icons-png.flaticon.com/512/6978/6978255.png" alt="Restaurant Menu Icon" width="40"/>        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
+          Restaurant-Menu-System Project
         </span>
       </div>
-      <hr style="border:0; border-top:2px solid #fff; margin:8px 0 16px 0;">
-      <div style="color:#b3bfc9; font-size:1.13em; margin-bottom:8px; font-weight:500;">
+      <hr style="border:0; border-top:2px solid #fff; margin:8px 0 16px 0;">      <div style="color:#b3bfc9; font-size:1.13em; margin-bottom:8px; font-weight:500;">
         Restoranlardaki menü öğelerini yönetme, kategori ve fiyatlandırma ekleme/çıkarma işlemlerini kolaylaştıran sistem.
+        <br><span style="color:#f39c12; font-weight:700; margin-top:6px; display:inline-block;">⚠️ This is a school project</span>
       </div>
       <br>
       <div style="color:#b3bfc9; font-size:1.13em; margin-bottom:22px; font-weight:500;">
@@ -379,9 +370,8 @@
                margin:0 0 36px 8px;
                box-shadow:0 6px 32px #00000044;">
       <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
-        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" alt="Discord Icon" width="40"/>
-        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
-          Polebot-discord.net
+        <img src="https://cdn-icons-png.flaticon.com/512/6124/6124997.png" alt="Discord Icon" width="40"/>        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
+          Polebot-discord.net Project
         </span>
       </div>
       <hr style="border:0; border-top:2px solid #fff; margin:8px 0 16px 0;">
@@ -421,9 +411,8 @@
                padding:36px 32px;
                margin:0 8px 36px 0;
                box-shadow:0 6px 32px #00000044;">
-      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">        <img src="https://cdn-icons-png.flaticon.com/512/1934/1934019.png" alt="CNC Website Icon" width="40"/>
-        <span style="color:#2ecc71; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
-          EmirOtomatCNCWebSiteProject
+      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">        <img src="https://cdn-icons-png.flaticon.com/512/1378/1378598.png" alt="CNC Website Icon" width="40"/>        <span style="color:#2ecc71; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
+          EmirOtomatCNC Web Site Project
         </span>
       </div>
       <hr style="border:0; border-top:2px solid #2ecc71; margin:8px 0 16px 0;">
@@ -460,9 +449,8 @@
                padding:36px 32px;
                margin:0 0 36px 8px;
                box-shadow:0 6px 32px #00000044;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
-        <img src="https://cdn-icons-png.flaticon.com/512/1927/1927656.png" alt="Corporate Website Icon" width="40"/>
-        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
-          Deniz-Software-Web-Site
+        <img src="https://cdn-icons-png.flaticon.com/512/1378/1378599.png" alt="Corporate Website Icon" width="40"/>        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
+          Deniz-Software Web Site Project
         </span>
       </div>
       <hr style="border:0; border-top:2px solid #fff; margin:8px 0 16px 0;">
@@ -501,9 +489,8 @@
                border-radius:20px;
                padding:36px 32px;
                margin:0 8px 36px 0;
-               box-shadow:0 6px 32px #00000044;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">        <img src="https://cdn-icons-png.flaticon.com/512/2282/2282188.png" alt="Templates Icon" width="40"/>
-        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
-          My-React-Web-Site-Templates
+               box-shadow:0 6px 32px #00000044;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">        <img src="https://cdn-icons-png.flaticon.com/512/4727/4727496.png" alt="Templates Icon" width="40"/>        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
+          My-React-Web-Site-Templates Project
         </span>
       </div>
       <hr style="border:0; border-top:2px solid #fff; margin:8px 0 16px 0;">
@@ -541,9 +528,8 @@
                padding:36px 32px;
                margin:0 0 36px 8px;
                box-shadow:0 6px 32px #00000044;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
-        <img src="https://cdn-icons-png.flaticon.com/512/5998/5998796.png" alt="Hospital Appointment Icon" width="40"/>
-        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
-          Hospital-Appointment-System
+        <img src="https://cdn-icons-png.flaticon.com/512/9845/9845792.png" alt="Hospital Appointment Icon" width="40"/>        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
+          Hospital-Appointment-System Project
         </span>
       </div>
       <hr style="border:0; border-top:2px solid #fff; margin:8px 0 16px 0;">
@@ -582,9 +568,8 @@
                border-radius:20px;
                padding:36px 32px;
                margin:0 8px 36px 0;
-               box-shadow:0 6px 32px #00000044;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">        <img src="https://cdn-icons-png.flaticon.com/512/4961/4961159.png" alt="Order Workflow Icon" width="40"/>
-        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
-          EmirOtomat-OrderWorkflow-Platform
+               box-shadow:0 6px 32px #00000044;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">        <img src="https://cdn-icons-png.flaticon.com/512/5956/5956592.png" alt="Order Workflow Icon" width="40"/>        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
+          EmirOtomat-OrderWorkflow Platform Project
         </span>
       </div>
       <hr style="border:0; border-top:2px solid #fff; margin:8px 0 16px 0;">
@@ -623,9 +608,8 @@
                padding:36px 32px;
                margin:0 0 36px 8px;
                box-shadow:0 6px 32px #00000044;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
-        <img src="https://cdn-icons-png.flaticon.com/512/686/686589.png" alt="Game Server Icon" width="40"/>
-        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
-          FiveM-GameServer-Project
+        <img src="https://cdn-icons-png.flaticon.com/512/6062/6062646.png" alt="Game Server Icon" width="40"/>        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
+          FiveM-GameServer Project
         </span>
       </div>
       <hr style="border:0; border-top:2px solid #fff; margin:8px 0 16px 0;">
