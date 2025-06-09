@@ -421,6 +421,7 @@
           🌐 Siteyi ziyaret et / Visit the site
         </a>
       </div>
+      <br>
       <div style="margin-bottom:18px; display:flex; gap:6px; flex-wrap:wrap;">
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/>
