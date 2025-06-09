@@ -398,7 +398,10 @@
                border-radius:20px;
                padding:36px 32px;
                margin:0 8px 36px 0;
-               box-shadow:0 6px 32px #00000044;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">        <img src="https://img.icons8.com/?size=100&id=104329&format=png&color=000000" alt="CNC Website Icon" width="40"/>        <span style="color:#2ecc71; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
+               box-shadow:0 6px 32px #00000044;">
+      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
+        <img src="https://img.icons8.com/?size=100&id=104329&format=png&color=000000" alt="CNC Website Icon" width="40"/>
+        <span style="color:#2ecc71; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
           EMIR OTOMAT CNC WEB SITE PROJECT 
         </span>
       </div>
@@ -412,7 +415,13 @@
         ✅ <b>Project completed!</b> <br>
         Corporate website for Emir Otomat CNC with product showcase, technical drawing upload and quotation form.
       </div>
-      <br>      <div style="margin-bottom:18px; display:flex; gap:6px; flex-wrap:wrap;">
+      <br>
+      <div style="margin-bottom:12px;">
+        <a href="https://emirotomatcnc.com/" target="_blank" style="background:#2ecc71; color:#fff; padding:8px 18px; border-radius:8px; font-weight:700; text-decoration:none; font-size:1.08em;">
+          🌐 Siteyi ziyaret et / Visit the site
+        </a>
+      </div>
+      <div style="margin-bottom:18px; display:flex; gap:6px; flex-wrap:wrap;">
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/>
         <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Badge"/>
