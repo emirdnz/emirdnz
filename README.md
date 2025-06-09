@@ -217,8 +217,8 @@
     </td>
     <!-- 6. Proje -->
     <td width="50%" valign="top"
-        style="background:linear-gradient(135deg,#232526 0%,#414345 100%);border:1px solid #30363d;border-radius:20px;padding:36px 32px;margin:0 0 36px 8px;box-shadow:0 6px 32px #00000044;vertical-align:top;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">        <img src="https://cdn-icons-png.flaticon.com/512/8635/8635521.png" alt="Blog Icon" width="40"/>        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
-          Kişisel Blog Sitesi
+        style="background:linear-gradient(135deg,#232526 0%,#414345 100%);border:1px solid #30363d;border-radius:20px;padding:36px 32px;margin:0 0 36px 8px;box-shadow:0 6px 32px #00000044;vertical-align:top;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">        <img src="https://img.icons8.com/?size=100&id=41823&format=png&color=000000" alt="Blog Icon" width="40"/>        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
+         BLOG SITE PROJECT
         </span>
       </div>
       <hr style="border:0; border-top:2px solid #fff; margin:8px 0 16px 0;">
@@ -252,8 +252,8 @@
   <tr style="vertical-align:top;">
     <!-- 7. Proje -->
     <td width="50%" valign="top"
-        style="background:linear-gradient(135deg,#232526 0%,#414345 100%);border:1px solid #30363d;border-radius:20px;padding:36px 32px;margin:0 8px 36px 0;box-shadow:0 6px 32px #00000044;vertical-align:top;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">        <img src="https://cdn-icons-png.flaticon.com/512/8382/8382834.png" alt="HR System Icon" width="40"/>        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
-          İnsan Kaynakları Sistemi
+        style="background:linear-gradient(135deg,#232526 0%,#414345 100%);border:1px solid #30363d;border-radius:20px;padding:36px 32px;margin:0 8px 36px 0;box-shadow:0 6px 32px #00000044;vertical-align:top;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">        <img src="https://img.icons8.com/?size=100&id=36m26sAM2RfO&format=png&color=000000" alt="HR System Icon" width="40"/>        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
+          HR SYSTEM PROJECT
         </span>
       </div>
       <hr style="border:0; border-top:2px solid #fff; margin:8px 0 16px 0;">      <div style="color:#b3bfc9; font-size:1.13em; margin-bottom:8px; font-weight:500;">
@@ -285,8 +285,8 @@
     </td>
     <!-- 8. Proje -->
     <td width="50%" valign="top"
-        style="background:linear-gradient(135deg,#232526 0%,#414345 100%);border:1px solid #30363d;border-radius:20px;padding:36px 32px;margin:0 0 36px 8px;box-shadow:0 6px 32px #00000044;vertical-align:top;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968217.png" alt="Amazon Icon" width="40"/>        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
-          Amazon E-Ticaret Klonu
+        style="background:linear-gradient(135deg,#232526 0%,#414345 100%);border:1px solid #30363d;border-radius:20px;padding:36px 32px;margin:0 0 36px 8px;box-shadow:0 6px 32px #00000044;vertical-align:top;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">        <img src="https://img.icons8.com/?size=100&id=yD_uWoj5Hpfe&format=png&color=000000" alt="Amazon Icon" width="40"/>        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
+          AMAZONE CLONE PROJECT
         </span>
       </div>
       <hr style="border:0; border-top:2px solid #fff; margin:8px 0 16px 0;">      <div style="color:#b3bfc9; font-size:1.13em; margin-bottom:8px; font-weight:500;">
@@ -326,8 +326,8 @@
                padding:36px 32px;
                margin:0 8px 36px 0;
                box-shadow:0 6px 32px #00000044;">
-      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">        <img src="https://cdn-icons-png.flaticon.com/512/8090/8090438.png" alt="Restaurant Menu Icon" width="40"/>        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
-          Restoran Menü Yönetimi
+      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">        <img src="https://img.icons8.com/?size=100&id=tmr075NtT7e6&format=png&color=000000" alt="Restaurant Menu Icon" width="40"/>        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
+          RESTAURANT MENU SYSTEM PROJECT
         </span>
       </div>
       <hr style="border:0; border-top:2px solid #fff; margin:8px 0 16px 0;">      <div style="color:#b3bfc9; font-size:1.13em; margin-bottom:8px; font-weight:500;">
@@ -367,8 +367,8 @@
                padding:36px 32px;
                margin:0 0 36px 8px;
                box-shadow:0 6px 32px #00000044;">
-      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" alt="Discord Icon" width="40"/>        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
-          Discord Bot Uygulaması
+      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">        <img src="https://img.icons8.com/?size=100&id=M725CLW4L7wE&format=png&color=000000" alt="Discord Icon" width="40"/>        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
+          DISCORD BOT PROJECT (.NET C#)
         </span>
       </div>
       <hr style="border:0; border-top:2px solid #fff; margin:8px 0 16px 0;">
