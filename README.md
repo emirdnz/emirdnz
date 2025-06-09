@@ -408,7 +408,7 @@
                padding:36px 32px;
                margin:0 8px 36px 0;
                box-shadow:0 6px 32px #00000044;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">        <img src="https://img.icons8.com/?size=100&id=104329&format=png&color=000000" alt="CNC Website Icon" width="40"/>        <span style="color:#2ecc71; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
-          EMIR OTOMAT CNC WEB SITE PROJCET 
+          EMIR OTOMAT CNC WEB SITE PROJECT 
         </span>
       </div>
       <hr style="border:0; border-top:2px solid #2ecc71; margin:8px 0 16px 0;">
