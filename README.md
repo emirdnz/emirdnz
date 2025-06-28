@@ -638,7 +638,6 @@
 </table>
 
 ## 📈 Profil İstatistikleri / Profile Stats
-![](https://komarev.com/ghpvc/?username=emirdnz&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
 ---
 
@@ -665,8 +664,6 @@
 ---
 
 <div align="center">
-  <b>⭐ Bu profili beğendiyseniz star vermeyi unutmayın! / Don't forget to star this profile if you liked it! ⭐</b>
-  <br><br>
   <img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
   <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>
 </div>
