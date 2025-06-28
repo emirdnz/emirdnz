@@ -655,16 +655,4 @@
 💬 **Discord:** polegut  
 📱 **Telefon / Phone:** [Mesaj atın / Send a message]
 
----
-
-<div align="center">
-  <img src="https://github.com/emirdnz/emirdnz/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</div>
-
----
-
-<div align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>
-</div>
 
