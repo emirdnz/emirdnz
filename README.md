@@ -637,3 +637,37 @@
   </tr>
 </table>
 
+## 📈 Profil İstatistikleri / Profile Stats
+![](https://komarev.com/ghpvc/?username=emirdnz&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+
+---
+
+## 🤝 Katkı ve İşbirliği / Contributions & Collaboration
+🔥 **Açık kaynak projelere katkı yapmaktan mutluluk duyarım!**  
+🔥 **I'm happy to contribute to open source projects!**
+
+💼 **İş birliği fırsatları için benimle iletişime geçebilirsiniz**  
+💼 **Feel free to contact me for collaboration opportunities**
+
+---
+
+## 📧 İletişim / Contact
+💌 **E-posta / Email:** [emirdeniz997@gmail.com](mailto:emirdeniz997@gmail.com)  
+💬 **Discord:** polegut  
+📱 **Telefon / Phone:** [Mesaj atın / Send a message]
+
+---
+
+<div align="center">
+  <img src="https://github.com/emirdnz/emirdnz/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</div>
+
+---
+
+<div align="center">
+  <b>⭐ Bu profili beğendiyseniz star vermeyi unutmayın! / Don't forget to star this profile if you liked it! ⭐</b>
+  <br><br>
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>
+</div>
+
