@@ -317,11 +317,14 @@
                padding:36px 32px;
                margin:0 8px 36px 0;
                box-shadow:0 6px 32px #00000044;">
-      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">        <img src="https://img.icons8.com/?size=100&id=tmr075NtT7e6&format=png&color=000000" alt="Restaurant Menu Icon" width="40"/>        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
+      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
+        <img src="https://img.icons8.com/?size=100&id=tmr075NtT7e6&format=png&color=000000" alt="Restaurant Menu Icon" width="40"/>
+        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
           RESTAURANT MENU SYSTEM PROJECT
         </span>
       </div>
-      <hr style="border:0; border-top:2px solid #fff; margin:8px 0 16px 0;">      <div style="color:#b3bfc9; font-size:1.13em; margin-bottom:8px; font-weight:500;">
+      <hr style="border:0; border-top:2px solid #fff; margin:8px 0 16px 0;">
+      <div style="color:#b3bfc9; font-size:1.13em; margin-bottom:8px; font-weight:500;">
         Restoranlardaki menü öğelerini yönetme, kategori ve fiyatlandırma ekleme/çıkarma işlemlerini kolaylaştıran sistem.
         <br><span style="color:#f39c12; font-weight:700; margin-top:6px; display:inline-block;">⚠️ This is a school project</span>
       </div>
@@ -329,7 +332,8 @@
       <div style="color:#b3bfc9; font-size:1.13em; margin-bottom:22px; font-weight:500;">
         System for managing restaurant menu items, categories and pricing.
       </div>
-      <br>      <div style="margin-bottom:18px; display:flex; gap:6px; flex-wrap:wrap;">
+      <br>
+      <div style="margin-bottom:18px; display:flex; gap:6px; flex-wrap:wrap;">
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/>
         <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Badge"/>
@@ -337,7 +341,8 @@
       </div>
       <br>
       <div>
-        <span style="background:#21262d; border-radius:8px; padding:6px 16px; color:#7ee787; font-size:1.08em; font-weight:700; letter-spacing:0.5px;">          📅 30.08.2026
+        <span style="background:#21262d; border-radius:8px; padding:6px 16px; color:#7ee787; font-size:1.08em; font-weight:700; letter-spacing:0.5px;">
+          📅 30.08.2026
           <span style="color:#b3bfc9; font-size:0.95em; margin-left:8px;">
             | Tahmini Bitiş / Estimated Finish
           </span>
@@ -348,8 +353,6 @@
         </div>
       </div>
     </td>
-  </tr>
-  <tr>
     <!-- 10. Proje -->
     <td width="50%" valign="top"
         style="background:linear-gradient(135deg,#232526 0%,#414345 100%);
@@ -358,27 +361,33 @@
                padding:36px 32px;
                margin:0 0 36px 8px;
                box-shadow:0 6px 32px #00000044;">
-      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">        <img src="https://img.icons8.com/?size=100&id=M725CLW4L7wE&format=png&color=000000" alt="Discord Icon" width="40"/>        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
-          DISCORD BOT PROJECT (.NET C#)
+      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
+        <img src="https://img.icons8.com/?size=100&id=15263&format=png&color=000000" alt="ERP System Icon" width="40"/>
+        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
+          DENIZ ERP PROJECT
         </span>
       </div>
       <hr style="border:0; border-top:2px solid #fff; margin:8px 0 16px 0;">
       <div style="color:#b3bfc9; font-size:1.13em; margin-bottom:8px; font-weight:500;">
-        Discord sunucularında moderasyon, komut yönetimi ve otomatik bildirimler yapabilen bot altyapısı.
+        Kurumsal kaynak planlaması için muhasebe, stok yönetimi, satış, satın alma ve insan kaynakları modüllerini içeren entegre ERP sistemi.
       </div>
       <br>
       <div style="color:#b3bfc9; font-size:1.13em; margin-bottom:22px; font-weight:500;">
-        Discord bot infrastructure for moderation, command management and automatic notifications.
+        Integrated ERP system with accounting, inventory management, sales, purchasing and HR modules for enterprise resource planning.
       </div>
-      <br>      <div style="margin-bottom:18px; display:flex; gap:6px; flex-wrap:wrap;">
-        <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# Badge"/>
-        <img src="https://img.shields.io/badge/Discord.Net-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord.Net Badge"/>
+      <br>
+      <div style="margin-bottom:18px; display:flex; gap:6px; flex-wrap:wrap;">
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/>
         <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Badge"/>
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite Badge"/>
+        <img src="https://img.shields.io/badge/SignalR/WebSocket-6DB33F?style=for-the-badge&logo=websocket&logoColor=white" alt="SignalR Badge"/>
+        <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server Badge"/>
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis Badge"/>
       </div>
       <br>
       <div>
-        <span style="background:#21262d; border-radius:8px; padding:6px 16px; color:#7ee787; font-size:1.08em; font-weight:700; letter-spacing:0.5px;">          📅 30.08.2026
+        <span style="background:#21262d; border-radius:8px; padding:6px 16px; color:#7ee787; font-size:1.08em; font-weight:700; letter-spacing:0.5px;">
+          📅 15.12.2026
           <span style="color:#b3bfc9; font-size:0.95em; margin-left:8px;">
             | Tahmini Bitiş / Estimated Finish
           </span>
@@ -392,6 +401,96 @@
   </tr>
   <tr>
     <!-- 11. Proje -->
+    <td width="50%" valign="top"
+        style="background:linear-gradient(135deg,#232526 0%,#414345 100%);
+               border:1px solid #30363d;
+               border-radius:20px;
+               padding:36px 32px;
+               margin:0 0 36px 8px;
+               box-shadow:0 6px 32px #00000044;">
+      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
+        <img src="https://img.icons8.com/?size=100&id=M725CLW4L7wE&format=png&color=000000" alt="Discord Icon" width="40"/>
+        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
+          DISCORD BOT PROJECT (.NET C#)
+        </span>
+      </div>
+      <hr style="border:0; border-top:2px solid #fff; margin:8px 0 16px 0;">
+      <div style="color:#b3bfc9; font-size:1.13em; margin-bottom:8px; font-weight:500;">
+        Discord sunucularında moderasyon, komut yönetimi ve otomatik bildirimler yapabilen bot altyapısı.
+      </div>
+      <br>
+      <div style="color:#b3bfc9; font-size:1.13em; margin-bottom:22px; font-weight:500;">
+        Discord bot infrastructure for moderation, command management and automatic notifications.
+      </div>
+      <br>
+      <div style="margin-bottom:18px; display:flex; gap:6px; flex-wrap:wrap;">
+        <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# Badge"/>
+        <img src="https://img.shields.io/badge/Discord.Net-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord.Net Badge"/>
+        <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Badge"/>
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite Badge"/>
+      </div>
+      <br>
+      <div>
+        <span style="background:#21262d; border-radius:8px; padding:6px 16px; color:#7ee787; font-size:1.08em; font-weight:700; letter-spacing:0.5px;">
+          📅 30.08.2026
+          <span style="color:#b3bfc9; font-size:0.95em; margin-left:8px;">
+            | Tahmini Bitiş / Estimated Finish
+          </span>
+        </span>
+        <div style="margin-top:12px;">
+          <img src="https://img.shields.io/badge/Development-grey?style=flat&logo=github" alt="Development Badge" style="margin:3px;"/>
+          <img src="https://img.shields.io/badge/In%20Progress-007bff?style=flat&logo=github&logoColor=white" alt="In Progress Badge" style="margin:3px;"/>
+        </div>
+      </div>
+    </td>
+    <!-- 12. Proje -->
+    <td width="50%" valign="top"
+        style="background:linear-gradient(135deg,#232526 0%,#414345 100%);
+               border:1px solid #30363d;
+               border-radius:20px;
+               padding:36px 32px;
+               margin:0 8px 36px 0;
+               box-shadow:0 6px 32px #00000044;">
+      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
+        <img src="https://img.icons8.com/?size=100&id=86875&format=png&color=000000" alt="E-commerce Icon" width="40"/>
+        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
+          DENIZ E-COMMERCIAL PROJECT
+        </span>
+      </div>
+      <hr style="border:0; border-top:2px solid #fff; margin:8px 0 16px 0;">
+      <div style="color:#b3bfc9; font-size:1.13em; margin-bottom:8px; font-weight:500;">
+        Modern e-ticaret platformu; ürün kataloğu, sepet yönetimi, ödeme sistemi, admin paneli ve kullanıcı deneyimi odaklı tasarım.
+      </div>
+      <br>
+      <div style="color:#b3bfc9; font-size:1.13em; margin-bottom:22px; font-weight:500;">
+        Modern e-commerce platform with product catalog, cart management, payment system, admin panel and user experience focused design.
+      </div>
+      <br>
+      <div style="margin-bottom:18px; display:flex; gap:6px; flex-wrap:wrap;">
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/>
+        <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Badge"/>
+        <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server Badge"/>
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis Badge"/>
+        <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe Badge"/>
+      </div>
+      <br>
+      <div>
+        <span style="background:#21262d; border-radius:8px; padding:6px 16px; color:#7ee787; font-size:1.08em; font-weight:700; letter-spacing:0.5px;">
+          📅 10.10.2026
+          <span style="color:#b3bfc9; font-size:0.95em; margin-left:8px;">
+            | Tahmini Bitiş / Estimated Finish
+          </span>
+        </span>
+        <div style="margin-top:12px;">
+          <img src="https://img.shields.io/badge/Development-grey?style=flat&logo=github" alt="Development Badge" style="margin:3px;"/>
+          <img src="https://img.shields.io/badge/In%20Progress-007bff?style=flat&logo=github&logoColor=white" alt="In Progress Badge" style="margin:3px;"/>
+        </div>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <!-- 13. Proje -->
     <td width="50%" valign="top"
         style="background:linear-gradient(135deg,#232526 0%,#414345 100%);
                border:2px solid #2ecc71;
@@ -438,14 +537,17 @@
         </div>
       </div>
     </td>
-    <!-- 12. Proje -->
+    <!-- 14. Proje -->
     <td width="50%" valign="top"
         style="background:linear-gradient(135deg,#232526 0%,#414345 100%);
                border:1px solid #30363d;
                border-radius:20px;
                padding:36px 32px;
                margin:0 0 36px 8px;
-               box-shadow:0 6px 32px #00000044;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">        <img src="https://img.icons8.com/?size=100&id=104329&format=png&color=000000" alt="Corporate Website Icon" width="40"/>        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
+               box-shadow:0 6px 32px #00000044;">
+      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
+        <img src="https://img.icons8.com/?size=100&id=104329&format=png&color=000000" alt="Corporate Website Icon" width="40"/>
+        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
           DENIZ HOLDING WEB SITE PROJECT 
         </span>
       </div>
@@ -478,14 +580,17 @@
     </td>
   </tr>
   <tr>
-    <!-- 13. Proje -->
+    <!-- 15. Proje -->
     <td width="50%" valign="top"
         style="background:linear-gradient(135deg,#232526 0%,#414345 100%);
                border:1px solid #30363d;
                border-radius:20px;
                padding:36px 32px;
                margin:0 8px 36px 0;
-               box-shadow:0 6px 32px #00000044;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">        <img src="https://cdn-icons-png.flaticon.com/512/3334/3334886.png" alt="Templates Icon" width="40"/>        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
+               box-shadow:0 6px 32px #00000044;">
+      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
+        <img src="https://cdn-icons-png.flaticon.com/512/3334/3334886.png" alt="Templates Icon" width="40"/>
+        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
           REACT WEB SITE TEMPLATES PROJECT
         </span>
       </div>
@@ -516,14 +621,17 @@
         </div>
       </div>
     </td>
-    <!-- 14. Proje -->
+    <!-- 16. Proje -->
     <td width="50%" valign="top"
         style="background:linear-gradient(135deg,#232526 0%,#414345 100%);
                border:1px solid #30363d;
                border-radius:20px;
                padding:36px 32px;
                margin:0 0 36px 8px;
-               box-shadow:0 6px 32px #00000044;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">        <img src="https://cdn-icons-png.flaticon.com/512/3004/3004458.png" alt="Hospital Appointment Icon" width="40"/>        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
+               box-shadow:0 6px 32px #00000044;">
+      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
+        <img src="https://cdn-icons-png.flaticon.com/512/3004/3004458.png" alt="Hospital Appointment Icon" width="40"/>
+        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
           APPOINTMENT SYSTEM PROJECT (EXP: HOSPITAL)
         </span>
       </div>
@@ -556,13 +664,17 @@
     </td>
   </tr>
   <tr>
-    <!-- 15. Proje -->
+    <!-- 17. Proje -->
     <td width="50%" valign="top"
         style="background:linear-gradient(135deg,#232526 0%,#414345 100%);
-               border:1px solid #30363d;               border-radius:20px;
+               border:1px solid #30363d;
+               border-radius:20px;
                padding:36px 32px;
                margin:0 8px 36px 0;
-               box-shadow:0 6px 32px #00000044;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">        <img src="https://cdn-icons-png.flaticon.com/512/3500/3500833.png" alt="Order Workflow Icon" width="40"/>        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
+               box-shadow:0 6px 32px #00000044;">
+      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
+        <img src="https://cdn-icons-png.flaticon.com/512/3500/3500833.png" alt="Order Workflow Icon" width="40"/>
+        <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
           ORDER MANAGMENT SYSTEM PROJECT
         </span>
       </div>
@@ -594,12 +706,15 @@
         </div>
       </div>
     </td>
-    <!-- 16. Proje -->
+    <!-- 18. Proje -->
     <td width="50%" valign="top"
-        style="background:linear-gradient(135deg,#232526 0%,#414345 100%);               border:1px solid #30363d;               border-radius:20px;
+        style="background:linear-gradient(135deg,#232526 0%,#414345 100%);
+               border:1px solid #30363d;
+               border-radius:20px;
                padding:36px 32px;
                margin:0 0 36px 8px;
-               box-shadow:0 6px 32px #00000044;">      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
+               box-shadow:0 6px 32px #00000044;">
+      <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
         <img src="https://img.icons8.com/?size=100&id=0wVFCuSSfKaB&format=png&color=000000" alt="Game Console Icon" width="40" style="filter: brightness(0) invert(1);"/>
         <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
           FIVEM SERVER PROJECTS
