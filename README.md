@@ -362,7 +362,7 @@
                margin:0 0 36px 8px;
                box-shadow:0 6px 32px #00000044;">
       <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
-        <img src="https://img.icons8.com/?size=100&id=15263&format=png&color=000000" alt="ERP System Icon" width="40"/>
+        <img src="https://img.icons8.com/?size=100&id=43591&format=png&color=1A73E8" alt="ERP System Icon" width="40"/>
         <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
           DENIZ ERP PROJECT
         </span>
@@ -452,7 +452,7 @@
                margin:0 8px 36px 0;
                box-shadow:0 6px 32px #00000044;">
       <div style="display:flex; align-items:center; gap:16px; margin-bottom:16px;">
-        <img src="https://img.icons8.com/?size=100&id=86875&format=png&color=000000" alt="E-commerce Icon" width="40"/>
+        <img src="https://img.icons8.com/?size=100&id=85500&format=png&color=FF6B35" alt="E-commerce Icon" width="40"/>
         <span style="color:#fff; font-size:2em; font-weight:1000; letter-spacing:1px; font-family:'Segoe UI Black', 'Arial Black', Arial, sans-serif;">
           DENIZ E-COMMERCIAL PROJECT
         </span>
