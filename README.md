@@ -15,7 +15,7 @@ Currently focused on production-grade projects: a CNC automation system, a full 
 | Machine Automation System | React · TypeScript · ASP.NET Core · SignalR · MSSQL | In progress |
 | Blog CMS | React · TypeScript · ASP.NET Core · MSSQL | In progress |
 | HR System ⚠️ | React · TypeScript · ASP.NET Core · MSSQL | In progress |
-| Amazon Clone ⚠️ | React · TypeScript · ASP.NET Core · MSSQL | ✅ Completed |
+| Amazon Clone ⚠️ | React · TypeScript · JavaScript · MSSQL | ✅ Completed |
 | Restaurant Menu System ⚠️ | React · TypeScript · ASP.NET Core · MSSQL | In progress |
 | Deniz ERP | React · TypeScript · ASP.NET Core · SignalR · Redis · MSSQL | In progress |
 | Discord Bot | C# · Discord.NET · SQLite | In progress |
