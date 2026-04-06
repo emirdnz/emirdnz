@@ -23,7 +23,7 @@ Currently focused on production-grade projects: a CNC automation system, a full 
 | Emir Otomat CNC Website | React · TypeScript · ASP.NET Core · MSSQL | ✅ Completed |
 | Deniz Holding Websites | React · TypeScript · ASP.NET Core · MSSQL | In progress |
 | React Website Templates | React · TypeScript · Storybook · NPM | In progress |
-| Appointment System ⚠️ | React · TypeScript · ASP.NET Core · MSSQL | In progress |
+| Hospital Appointment System ⚠️ | React · TypeScript · ASP.NET Core · MSSQL | ✅ Completed |
 | Order Management System | React · TypeScript · ASP.NET Core · SignalR · MSSQL | In progress |
 | FiveM Server Projects | Cfx.re · React · TypeScript · ASP.NET Core · MySQL · Docker | In progress |
 
