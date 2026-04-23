@@ -91,14 +91,6 @@ I build production-grade systems — from ERP integrations and automation platfo
 
 ---
 
-## 🎯 Goals
-
-- 💰 Reach $10K/month through freelance (Fiverr + Upwork)
-- 🎓 Computer Engineering degree (2027)
-- ✈️ Relocate abroad — Iceland or Singapore on the radar
-
----
-
 ## 📬 Contact
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emirdeniz997@gmail.com)
