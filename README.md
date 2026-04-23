@@ -55,15 +55,15 @@ I build production-grade systems — from ERP integrations and automation platfo
 ### ✅ Completed
 | Project | Stack | Link |
 |---|---|---|
-| IK System | React · TypeScript · ASP.NET Core · MSSQL · JWT · 5 Languages | [GitHub](https://github.com/emirdnz) |
+| IK System | React · TypeScript · ASP.NET Core · MSSQL · JWT · 5 Languages | [GitHub](https://github.com/emirdnz/IKSystem) |
 | Hospital Appointment System | React · TypeScript · ASP.NET Core · MSSQL · Tailwind | [GitHub](https://github.com/emirdnz/Hospital-Appointment-System-Project) |
-| Emir Otomat CNC Website | React · TypeScript | [GitHub](https://github.com/emirdnz) |
-| Amazon Clone | React · TypeScript | [GitHub](https://github.com/emirdnz) |
+| Emir Otomat CNC Website | React · TypeScript | [GitHub](https://github.com/emirdnz/EmirOtomatCNCWebSiteProject) |
+| Amazon Clone | React · TypeScript | [GitHub](https://github.com/emirdnz/amazon-web-site-clone-project) |
 
 ### 🔄 In Progress
 | Project | Stack | Description |
 |---|---|---|
-| React Website Templates | React · TypeScript · Tailwind | 15 sectors × 3 templates = 45 professional website templates |
+| React Website Templates | React · TypeScript · Tailwind | 15 sectors × 3 templates = 45 professional website templates · [GitHub](https://github.com/emirdnz/react-website-templates) |
 | CNC Automation System | React · TypeScript · ASP.NET Core · SignalR · MSSQL | Automation platform for 4 Mitsubishi M70A CNC units — CRM, invoicing, bank integration |
 | Deniz ERP | React · TypeScript · ASP.NET Core · SignalR · Redis · MSSQL | Full-scale ERP system |
 | Deniz E-Commerce | React · TypeScript · ASP.NET Core · Redis · Stripe · MSSQL | Multi-platform e-commerce engine |
@@ -89,11 +89,12 @@ I build production-grade systems — from ERP integrations and automation platfo
 ![Emir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emirdnz&show_icons=true&theme=dark&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emirdnz&layout=compact&theme=dark&hide_border=true)
 
+
 ---
 
 ## 📬 Contact
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emirdeniz997@gmail.com) --> emirdeniz997@gmail.com
+[![Email](https://img.shields.io/badge/emirdeniz997@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emirdeniz997@gmail.com)
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://fiverr.com/emirdnz)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com)
 
