@@ -2,7 +2,6 @@
 
 Full-stack developer based in Istanbul 🇹🇷  
 I build production-grade systems — from ERP integrations and automation platforms to multi-language web applications and HR tools.  
-Founder-in-progress of **Ocean Software**.
 
 ---
 
