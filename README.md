@@ -75,12 +75,6 @@ I build production-grade systems — from ERP integrations and automation platfo
 | Discord Bot | C# · Discord.NET · SQLite | Multi-purpose Discord bot |
 | FiveM Server Projects | Cfx.re · React · TypeScript · ASP.NET Core · MySQL · Docker | Custom GTA V roleplay server systems |
 
-### 📋 Planned
-| Project | Description |
-|---|---|
-| Bootstrap Website Templates | 15 sectors × 3 templates — Bootstrap version of react-website-templates |
-| macOS-like Desktop UI | Web-based macOS inspired desktop environment |
-| JARVIS AI Assistant | Iron Man inspired personal AI assistant |
 
 ---
 
