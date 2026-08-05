@@ -1,13 +1,9 @@
 <h1 align="center">Merhaba 👋 ben Emir</h1>
 
-<h3 align="center">Kod yazmak bir sanattır derler.<br>Bence deliliktir — ve ben bu işi seviyorum. 🔧💻</h3>
+<h3 align="center">Kod yazmak bir sanattır derler.<br>Bence <b>yazılım deliliktir</b> 😂🤪 — ve ben bu işi seviyorum.</h3>
 
 <p align="center">
   <i>— "Çalışıyor mu?" &nbsp;— "Çalışıyor." &nbsp;— "Neden?" &nbsp;— "Sorma."</i>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=emirdnz&label=Profil%20g%C3%B6r%C3%BCnt%C3%BClenme&color=A6431F&style=flat-square" alt="profil görüntülenme" />
 </p>
 
 ---
@@ -41,16 +37,7 @@
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/emir-engin-deniz-813968274/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
   <a href="mailto:emirdeniz997@gmail.com">
     <img src="https://img.shields.io/badge/E--posta-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-posta" />
-  </a>
-  <a href="https://fiverr.com/emirdnz">
-    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" />
-  </a>
-  <a href="https://emirotomatcnc.com/">
-    <img src="https://img.shields.io/badge/Web_Sitesi-A6431F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web sitesi" />
   </a>
 </p>
