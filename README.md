@@ -1,6 +1,6 @@
 <h1 align="center">Merhaba 👋 ben Emir</h1>
 
-<h3 align="center">Yazılım deliliktir 😂🤪</h3>
+<h1 align="center">Yazılım deliliktir 😂🤪</h1>
 
 <p align="center">
   <i>— "Çalışıyor mu?"<br>— "Çalışıyor."<br>— "Neden?"<br>— "Sorma."</i>
@@ -41,12 +41,14 @@
 
 ---
 
+<h3 align="center">📬 Bana ulaş</h3>
+
 <p align="center">
   <a href="mailto:emirdeniz997@gmail.com">
-    <img src="https://img.shields.io/badge/E--posta-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-posta" />
+    <img src="https://img.shields.io/badge/emirdeniz997%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="emirdeniz997@gmail.com" />
   </a>
 </p>
 
 <p align="center">
-  <b>emirdeniz997@gmail.com</b>
+  <sub>kopyalamak için &nbsp;<code>emirdeniz997@gmail.com</code></sub>
 </p>
