@@ -3,28 +3,12 @@
 <h3 align="center">Kod yazmak bir sanattır derler.<br>Bence deliliktir — ve ben bu işi seviyorum. 🔧💻</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=emirdnz&label=Profil%20g%C3%B6r%C3%BCnt%C3%BClenme&color=A6431F&style=flat-square" alt="profil görüntülenme" />
+  <i>— "Çalışıyor mu?" &nbsp;— "Çalışıyor." &nbsp;— "Neden?" &nbsp;— "Sorma."</i>
 </p>
 
----
-
-### 😅 Kod yazmak neden deliliktir
-
-<sub>Önce CNC tezgahının başındaydım, sonra o tezgahları yöneten yazılımı yazmaya başladım. İkisini de gördüm:</sub>
-
-```diff
-- Tezgahta:  ölçü 0,02 mm kaçtı → parça hurda, 3 saat gitti
-+ Kodda:     "çalışıyor ama neden bilmiyorum" → yayına al, kimse fark etmez
-```
-
-| | Tezgah | Yazılım |
-|:--|:--|:--|
-| **Hata bulma** | Kumpasla ölçersin, biter | 4 saat `console.log`, sonra virgül eksikmiş |
-| **"Bende çalışıyordu"** | Diyemezsin, parça elinde | Kariyerin boyunca söylersin |
-| **Tolerans** | ISO 2768-mK, yazılı | "Yaklaşık böyle olsun işte" |
-| **Sonuç** | Elle tutulur bir parça | `// TODO: sonra düzeltirim` (2 yıl önce) |
-
-> Yine de sabah kalkıp ikisini de yapmak istiyorum. Delilik dediğim bu. 🤷
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=emirdnz&label=Profil%20g%C3%B6r%C3%BCnt%C3%BClenme&color=A6431F&style=flat-square" alt="profil görüntülenme" />
+</p>
 
 ---
 
@@ -69,10 +53,4 @@
   <a href="https://emirotomatcnc.com/">
     <img src="https://img.shields.io/badge/Web_Sitesi-A6431F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web sitesi" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <i>— "Çalışıyor mu?" &nbsp;— "Çalışıyor." &nbsp;— "Neden?" &nbsp;— "Sorma."</i>
 </p>
