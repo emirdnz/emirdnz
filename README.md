@@ -50,5 +50,9 @@
 </p>
 
 <p align="center">
-  <sub>kopyalamak için &nbsp;<code>emirdeniz997@gmail.com</code></sub>
+  <sub>👇 kopyalamak için sağ üstteki simgeye tıkla</sub>
 </p>
+
+```
+emirdeniz997@gmail.com
+```
