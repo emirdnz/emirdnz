@@ -23,10 +23,11 @@
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=react" title="React" alt="React" height="42" /><br><sub><b>React</b></sub></td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" alt="Next.js" height="42" /><br><sub><b>Next.js</b></sub></td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" alt="Node.js" height="42" /><br><sub><b>Node.js</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind" alt="Tailwind" height="42" /><br><sub><b>Tailwind</b></sub></td>
   </tr>
   <tr>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind" alt="Tailwind" height="42" /><br><sub><b>Tailwind</b></sub></td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=prisma" title="Prisma" alt="Prisma" height="42" /><br><sub><b>Prisma</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="MSSQL" alt="MSSQL" height="42" /><br><sub><b>MSSQL</b></sub></td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" alt="PostgreSQL" height="42" /><br><sub><b>PostgreSQL</b></sub></td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" height="42" /><br><sub><b>MySQL</b></sub></td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=redis" title="Redis" alt="Redis" height="42" /><br><sub><b>Redis</b></sub></td>
@@ -41,18 +42,10 @@
 
 ---
 
-<h3 align="center">📬 Bana ulaş</h3>
-
 <p align="center">
   <a href="mailto:emirdeniz997@gmail.com">
-    <img src="https://img.shields.io/badge/emirdeniz997%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="emirdeniz997@gmail.com" />
+    <img src="https://skillicons.dev/icons?i=gmail" alt="e-posta" height="28" align="absmiddle" />
   </a>
+  &nbsp;
+  <a href="mailto:emirdeniz997@gmail.com"><b>emirdeniz997@gmail.com</b></a>
 </p>
-
-<p align="center">
-  <sub>👇 kopyalamak için sağ üstteki simgeye tıkla</sub>
-</p>
-
-```
-emirdeniz997@gmail.com
-```
