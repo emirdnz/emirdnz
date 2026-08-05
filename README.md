@@ -22,9 +22,9 @@
     <td align="center" width="86"><img src="https://skillicons.dev/icons?i=dotnet" title=".NET" alt=".NET" height="40" /><br><sub><b>.NET</b></sub></td>
     <td align="center" width="86"><img src="https://skillicons.dev/icons?i=react" title="React" alt="React" height="40" /><br><sub><b>React</b></sub></td>
     <td align="center" width="86"><img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" alt="Next.js" height="40" /><br><sub><b>Next.js</b></sub></td>
-    <td align="center" width="86"><img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" alt="Node.js" height="40" /><br><sub><b>Node.js</b></sub></td>
   </tr>
   <tr>
+    <td align="center" width="86"><img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" alt="Node.js" height="40" /><br><sub><b>Node.js</b></sub></td>
     <td align="center" width="86"><img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind" alt="Tailwind" height="40" /><br><sub><b>Tailwind</b></sub></td>
     <td align="center" width="86"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="MSSQL" alt="MSSQL" height="40" /><br><sub><b>MSSQL</b></sub></td>
     <td align="center" width="86"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" height="40" /><br><sub><b>Oracle</b></sub></td>
