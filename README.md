@@ -30,7 +30,6 @@
     <td align="center" width="86"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" height="40" /><br><sub><b>Oracle</b></sub></td>
     <td align="center" width="86"><img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" alt="PostgreSQL" height="40" /><br><sub><b>PostgreSQL</b></sub></td>
     <td align="center" width="86"><img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker" height="40" /><br><sub><b>Docker</b></sub></td>
-    <td align="center" width="86"><img src="https://skillicons.dev/icons?i=azure" title="Azure" alt="Azure" height="40" /><br><sub><b>Azure</b></sub></td>
     <td align="center" width="86"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-plain.svg" title="Azure DevOps" alt="Azure DevOps" height="40" /><br><sub><b>Azure DevOps</b></sub></td>
     <td align="center" width="86"><img src="https://skillicons.dev/icons?i=linux" title="Linux" alt="Linux" height="40" /><br><sub><b>Linux</b></sub></td>
     <td align="center" width="86"><img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" height="40" /><br><sub><b>Git</b></sub></td>
