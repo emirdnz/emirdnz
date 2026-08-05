@@ -31,11 +31,7 @@
 ### 🛠️ Kullandıklarım
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,react,nextjs,nodejs,tailwind,prisma,postgres,mysql,redis,docker,linux,git,vscode,postman&perline=9" alt="teknolojiler" />
-</p>
-
-<p align="center">
-  <b>Öğrenme listem:</b> C · C++ · Rust 🦀
+  <img src="https://skillicons.dev/icons?i=cs,c,cpp,rust,ts,js,dotnet,react,nextjs,nodejs,tailwind,prisma,postgres,mysql,redis,docker,linux,git,vscode,postman&perline=10" alt="teknolojiler" />
 </p>
 
 ---
