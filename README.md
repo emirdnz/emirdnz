@@ -8,20 +8,9 @@
 
 ---
 
-### 🧰 Ben kimim
-
-Önce **CNC tezgahının başındaydım** — teknik resim okudum, tolerans tuttum, talaş kaldırdım.
-Sonra o tezgahları yöneten yazılımı yazmaya başladım.
-
-Bugün ikisini birden yapıyorum: **ERP/MES sistemleri, üretim otomasyonu, e-ticaret platformları.**
-Müşteri "bu parçanın toleransı ±0,01" dediğinde ne demek istediğini biliyorum,
-sonra gidip onu koda çeviriyorum. Arada çevirmen olmuyor.
-
-📍 İstanbul · 🎯 Hedef: kendi teknoloji şirketim
-
----
-
 ### 😅 Kod yazmak neden deliliktir
+
+<sub>Önce CNC tezgahının başındaydım, sonra o tezgahları yöneten yazılımı yazmaya başladım. İkisini de gördüm:</sub>
 
 ```diff
 - Tezgahta:  ölçü 0,02 mm kaçtı → parça hurda, 3 saat gitti
@@ -33,7 +22,6 @@ sonra gidip onu koda çeviriyorum. Arada çevirmen olmuyor.
 | **Hata bulma** | Kumpasla ölçersin, biter | 4 saat `console.log`, sonra virgül eksikmiş |
 | **"Bende çalışıyordu"** | Diyemezsin, parça elinde | Kariyerin boyunca söylersin |
 | **Tolerans** | ISO 2768-mK, yazılı | "Yaklaşık böyle olsun işte" |
-| **Bakım** | Yağla, temizle, çalışır | İki gün önce yazdığın kodu anlamamak |
 | **Sonuç** | Elle tutulur bir parça | `// TODO: sonra düzeltirim` (2 yıl önce) |
 
 > Yine de sabah kalkıp ikisini de yapmak istiyorum. Delilik dediğim bu. 🤷
@@ -51,38 +39,6 @@ sonra gidip onu koda çeviriyorum. Arada çevirmen olmuyor.
 </p>
 
 ---
-
-### 🚀 Neler yapıyorum
-
-**Tamamlananlar**
-
-| Proje | Stack |
-|:--|:--|
-| [İK Sistemi](https://github.com/emirdnz/IKSystem) | React · TypeScript · ASP.NET Core · MSSQL · JWT · 5 dil |
-| [Hastane Randevu Sistemi](https://github.com/emirdnz/Hospital-Appointment-System-Project) | React · TypeScript · ASP.NET Core · MSSQL |
-| [Emir Otomat CNC Web Sitesi](https://github.com/emirdnz/EmirOtomatCNCWebSiteProject) | React · TypeScript · Node.js |
-| [Amazon Klonu](https://github.com/emirdnz/amazon-web-site-clone-project) | React · TypeScript |
-
-**Üzerinde çalıştıklarım**
-
-| Proje | Ne yapıyor |
-|:--|:--|
-| **ERP / MES Sistemi** | 36 modül — CRM, teklif, sipariş, iş emri, MRP/BOM, kalite, stok, finans, muhasebe. Teknik resimden otomatik teklif fiyatı çıkaran bir hesap motoru var. |
-| **Finans Kontrol Paneli** | Muhasebe kayıtlarını ve banka ekstrelerini içe aktarıp cari, tahsilat ve nakit akışını anlamlandırıyor |
-| [Web Şablonları](https://github.com/emirdnz/react-website-templates) | 15 sektör × 3 şablon = 45 hazır kurumsal site |
-
----
-
-### 📊 İstatistikler
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=emirdnz&show_icons=true&theme=dark&hide_border=true&title_color=C2622F&icon_color=C2622F" alt="GitHub istatistikleri" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirdnz&layout=compact&theme=dark&hide_border=true&title_color=C2622F" alt="En çok kullandığım diller" />
-</p>
-
----
-
-### 📬 Bana ulaş
 
 <p align="center">
   <a href="https://www.linkedin.com/in/emir-engin-deniz-813968274/">
@@ -102,8 +58,5 @@ sonra gidip onu koda çeviriyorum. Arada çevirmen olmuyor.
 ---
 
 <p align="center">
-  <i>— "Çalışıyor mu?"<br>
-  — "Çalışıyor."<br>
-  — "Neden?"<br>
-  — "Sorma."</i>
+  <i>— "Çalışıyor mu?" &nbsp;— "Çalışıyor." &nbsp;— "Neden?" &nbsp;— "Sorma."</i>
 </p>
