@@ -1,9 +1,9 @@
 <h1 align="center">Merhaba 👋 ben Emir</h1>
 
-<h3 align="center">Kod yazmak bir sanattır derler.<br>Bence <b>yazılım deliliktir</b> 😂🤪 — ve ben bu işi seviyorum.</h3>
+<h3 align="center">Yazılım deliliktir 😂🤪</h3>
 
 <p align="center">
-  <i>— "Çalışıyor mu?" &nbsp;— "Çalışıyor." &nbsp;— "Neden?" &nbsp;— "Sorma."</i>
+  <i>— "Çalışıyor mu?"<br>— "Çalışıyor."<br>— "Neden?"<br>— "Sorma."</i>
 </p>
 
 ---
