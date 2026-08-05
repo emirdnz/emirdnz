@@ -13,7 +13,6 @@
 <div align="center">
 <table>
   <tr>
-    <td align="center" width="82"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9e0.png" title="Algoritma" alt="Algoritma" height="40" /><br><sub><b>Algoritma</b></sub></td>
     <td align="center" width="82"><img src="https://skillicons.dev/icons?i=cs" title="C#" alt="C#" height="40" /><br><sub><b>C#</b></sub></td>
     <td align="center" width="82"><img src="https://skillicons.dev/icons?i=c" title="C" alt="C" height="40" /><br><sub><b>C</b></sub></td>
     <td align="center" width="82"><img src="https://skillicons.dev/icons?i=cpp" title="C++" alt="C++" height="40" /><br><sub><b>C++</b></sub></td>
