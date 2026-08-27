@@ -3,7 +3,7 @@
 <h1 align="center">Yazılım deliliktir 😂🤪</h1>
 
 <p align="center">
-  <i>— "Çalışıyor mu?"<br>— "Çalışıyor."<br>— "Neden?"<br>— "Sorma."</i>
+  <i>— "Çalıştı Mı ?"<br>— "Çalıştı."<br>— "Nasıl Yaptın?"<br>— "Onu sorma işte."</i>
 </p>
 
 ---
