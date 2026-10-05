@@ -8,6 +8,29 @@
 
 ---
 
+**Full Stack Yazılım Geliştirici · CNC / Üretim Teknolojileri** — İstanbul
+
+Kariyerime CNC programcısı ve operatörü olarak başladım; bugün aynı sektöre yazılım üretiyorum:
+ERP/MES sistemleri, e-ticaret ve üretim otomasyonu. C# / .NET ve TypeScript / Next.js ile veri
+modelinden arayüze uçtan uca sistem kuruyorum.
+
+> **EN —** Full-stack developer who started on the CNC shop floor. I build ERP/MES, e-commerce and
+> production software with C#/.NET and TypeScript/Next.js — from data model to UI.
+
+### 📌 Öne çıkan projeler
+
+| Proje | Ne | Teknoloji |
+|---|---|---|
+| **Emir Otomat ERP** | CNC atölyesi için üretim ve finans ERP'si: CRM, teklif, sipariş, iş emri, MRP/BOM, stok, kalite, fatura, muhasebe, personel | Next.js · TypeScript · Prisma · PostgreSQL |
+| **ERP Lite** | Küçük işletme için cari, vade ve bordro takip paneli; tek Docker konteynerinde yayında | .NET 9 · React 19 · PostgreSQL |
+| **Finans Defterim** | Parça parça maaş, elden borç ve şirket harcamalarını ayırıp net durumu gösteren tek dosyalık defter | HTML · JavaScript |
+| **Emir Otomat CNC sitesi** | Firmanın kurumsal sitesi; 3B parça galerisi, teknik resimli teklif formu — [eski sürüm](https://github.com/emirdnz/EmirOtomatCNCWebSiteProject) | Next.js · three.js · React · Node.js |
+| **Deniz Yazılım sitesi** | İki dilli kurumsal site; 3B deneyim ve sade kurumsal tasarım | Next.js · three.js · GSAP · Playwright |
+
+Projelerin çoğu özel depoda; uydurma verili demo kurulumlarını görüşmede gösterebilirim.
+
+---
+
 ### 🛠️ Kullandıklarım
 
 <div align="center">
@@ -16,19 +39,19 @@
     <td align="center" width="86"><img src="https://skillicons.dev/icons?i=cs" title="C#" alt="C#" height="40" /><br><sub><b>C#</b></sub></td>
     <td align="center" width="86"><img src="https://skillicons.dev/icons?i=c" title="C" alt="C" height="40" /><br><sub><b>C</b></sub></td>
     <td align="center" width="86"><img src="https://skillicons.dev/icons?i=cpp" title="C++" alt="C++" height="40" /><br><sub><b>C++</b></sub></td>
-    <td align="center" width="86"><img src="https://skillicons.dev/icons?i=rust" title="Rust" alt="Rust" height="40" /><br><sub><b>Rust</b></sub></td>
     <td align="center" width="86"><img src="https://skillicons.dev/icons?i=ts" title="TypeScript" alt="TypeScript" height="40" /><br><sub><b>TypeScript</b></sub></td>
     <td align="center" width="86"><img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript" height="40" /><br><sub><b>JavaScript</b></sub></td>
     <td align="center" width="86"><img src="https://skillicons.dev/icons?i=dotnet" title=".NET" alt=".NET" height="40" /><br><sub><b>.NET</b></sub></td>
     <td align="center" width="86"><img src="https://skillicons.dev/icons?i=react" title="React" alt="React" height="40" /><br><sub><b>React</b></sub></td>
     <td align="center" width="86"><img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" alt="Next.js" height="40" /><br><sub><b>Next.js</b></sub></td>
+    <td align="center" width="86"><img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" alt="Node.js" height="40" /><br><sub><b>Node.js</b></sub></td>
   </tr>
   <tr>
-    <td align="center" width="86"><img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" alt="Node.js" height="40" /><br><sub><b>Node.js</b></sub></td>
     <td align="center" width="86"><img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind" alt="Tailwind" height="40" /><br><sub><b>Tailwind</b></sub></td>
+    <td align="center" width="86"><img src="https://skillicons.dev/icons?i=prisma" title="Prisma" alt="Prisma" height="40" /><br><sub><b>Prisma</b></sub></td>
     <td align="center" width="86"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="MSSQL" alt="MSSQL" height="40" /><br><sub><b>MSSQL</b></sub></td>
-    <td align="center" width="86"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" height="40" /><br><sub><b>Oracle</b></sub></td>
     <td align="center" width="86"><img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" alt="PostgreSQL" height="40" /><br><sub><b>PostgreSQL</b></sub></td>
+    <td align="center" width="86"><img src="https://skillicons.dev/icons?i=redis" title="Redis" alt="Redis" height="40" /><br><sub><b>Redis</b></sub></td>
     <td align="center" width="86"><img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker" height="40" /><br><sub><b>Docker</b></sub></td>
     <td align="center" width="86"><img src="https://skillicons.dev/icons?i=linux" title="Linux" alt="Linux" height="40" /><br><sub><b>Linux</b></sub></td>
     <td align="center" width="86"><img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" height="40" /><br><sub><b>Git</b></sub></td>
@@ -47,6 +70,8 @@
       <img src="https://skillicons.dev/icons?i=gmail" alt="e-posta" height="26" align="absmiddle" />
       &nbsp;
       <a href="mailto:emirdeniz997@gmail.com"><b>emirdeniz997@gmail.com</b></a>
+      &nbsp;·&nbsp;
+      <a href="https://www.linkedin.com/in/emir-engin-deniz-813968274"><b>LinkedIn</b></a>
       <br><br>
     </td>
   </tr>
