@@ -17,18 +17,6 @@ modelinden arayüze uçtan uca sistem kuruyorum.
 > **EN —** Full-stack developer who started on the CNC shop floor. I build ERP/MES, e-commerce and
 > production software with C#/.NET and TypeScript/Next.js — from data model to UI.
 
-### 📌 Öne çıkan projeler
-
-| Proje | Ne | Teknoloji |
-|---|---|---|
-| **Emir Otomat ERP** | CNC atölyesi için üretim ve finans ERP'si: CRM, teklif, sipariş, iş emri, MRP/BOM, stok, kalite, fatura, muhasebe, personel | Next.js · TypeScript · Prisma · PostgreSQL |
-| **ERP Lite** | Küçük işletme için cari, vade ve bordro takip paneli; tek Docker konteynerinde yayında | .NET 9 · React 19 · PostgreSQL |
-| **Finans Defterim** | Parça parça maaş, elden borç ve şirket harcamalarını ayırıp net durumu gösteren tek dosyalık defter | HTML · JavaScript |
-| **Emir Otomat CNC sitesi** | Firmanın kurumsal sitesi; 3B parça galerisi, teknik resimli teklif formu — [eski sürüm](https://github.com/emirdnz/EmirOtomatCNCWebSiteProject) | Next.js · three.js · React · Node.js |
-| **Deniz Yazılım sitesi** | İki dilli kurumsal site; 3B deneyim ve sade kurumsal tasarım | Next.js · three.js · GSAP · Playwright |
-
-Projelerin çoğu özel depoda; uydurma verili demo kurulumlarını görüşmede gösterebilirim.
-
 ---
 
 ### 🛠️ Kullandıklarım
