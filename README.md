@@ -8,17 +8,6 @@
 
 ---
 
-**Full Stack Yazılım Geliştirici · CNC / Üretim Teknolojileri** — İstanbul
-
-Kariyerime CNC programcısı ve operatörü olarak başladım; bugün aynı sektöre yazılım üretiyorum:
-ERP/MES sistemleri, e-ticaret ve üretim otomasyonu. C# / .NET ve TypeScript / Next.js ile veri
-modelinden arayüze uçtan uca sistem kuruyorum.
-
-> **EN —** Full-stack developer who started on the CNC shop floor. I build ERP/MES, e-commerce and
-> production software with C#/.NET and TypeScript/Next.js — from data model to UI.
-
----
-
 ### 🛠️ Kullandıklarım
 
 <div align="center">
